@@ -1,6 +1,6 @@
 # Careers at dashdash
 
-We're hiring for many positions, [check here](https://github.com/dashdash/hiring/wiki!)!
+We're hiring for many positions, [check here](https://github.com/dashdash/hiring/wiki)!
 
 ### At dashdash we create tools that make computation accessible to everyone.
 
