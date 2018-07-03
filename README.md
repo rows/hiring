@@ -10,10 +10,10 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 
 Open positions for our Porto (PT) office:
 * 4x [BE Engineer](https://github.com/dashdash/hiring/blob/master/job%20descriptions/BE%20engineer.md).
-* 4x **BE Engineer (Senior)**.
-* 3x **FE Engineer**.
-* 3x **FE Engineer (Senior)**.
-* 2x **Product Manager**.
+* 4x [BE Engineer (Senior)](https://github.com/dashdash/hiring/blob/master/job%20descriptions/BE%20engineer%20(senior).md).
+* 3x [FE Engineer](https://github.com/dashdash/hiring/blob/master/job%20descriptions/FE%20engineer.md).
+* 3x [FE Engineer (Senior)](https://github.com/dashdash/hiring/blob/master/job%20descriptions/FE%20engineer%20(senior)).
+* 2x [Product Manager](https://github.com/dashdash/hiring/blob/master/job%20descriptions/Product%20Manager).
 
 
 Share with your pro friends!  
