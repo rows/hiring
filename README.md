@@ -9,7 +9,7 @@ Imagine a spreadsheet grid where each cell can also call an API or repeat a job.
 dashdash raised a $8m series A round led by Accel Partners. We are hiring for our Porto office, in Portugal. Our business team is also in Berlin, Germany. We have been on the news and you can find us on TechCrunch, VentureBeat, Observador (PT) and many other media!
 
 Open positions for our Porto (PT) office:
-* 4x [BE Engineer](hiring/blob/master/job%20descriptions/BE%20engineer.md).
+* 4x [BE Engineer](https://github.com/dashdash/hiring/blob/master/job%20descriptions/BE%20engineer.md).
 * 4x **BE Engineer (Senior)**.
 * 3x **FE Engineer**.
 * 3x **FE Engineer (Senior)**.
