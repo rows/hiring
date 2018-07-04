@@ -9,13 +9,14 @@ We are hiring our User Success Manager for our office in Berlin, Germany. This w
 We offer work in a highly professional startup with people from top organizations, competitive salary, employee equity plan, liberal home office policy, and more.
 
 # The job
-You will be the first User Success Manager of our small but fast growing team. This is our first hire on the business side. You will:
+You will be the first User Success Manager of our small but fast growing team. This is our first hire on the business side and as such a senior position that starts building a new function at dashdash. You will:
 * Work directly with users to make them successful on multiple channels
 * Build a highly engaged user community online and offline
 * Feed learnings from users and use cases back into our product roadmap
 * Learn and refine how to measure your success, and carefully analyze data
 * Develop a team for world-wide community building
-* Give strategic input to Founders including business opportunities, pricing, product roadmap, hiring, etc.
+* Give strategic input to Founders including business opportunities, market focus, pricing, product roadmap, hiring, etc.
+* Help build this business function and team based on the business needs you identify
 
 # You
 * You have 5+ years of experience in a highly professional and dynamic work environment
