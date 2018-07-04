@@ -27,4 +27,4 @@ You will be the first User Success Manager of our small but fast growing team. T
 * You understand how software products are built and want to learn about this fast
 
 # How-to
-Write to torben@dashdash.com, if interested! You will interview with the two Founders and some tech team members.
+Write to torben@dashdash.com, if interested! You will interview with the two Founders and some tech team members. You will also build something awesome with dashdash :)
