@@ -14,7 +14,7 @@ We have been on the news. You can find us on TechCrunch, VentureBeat, Observador
 * Partner with engineers and product owners to design solutions that oversee the user experience from conception until launch.
 
 ## You will be working on:
-* Landing pages and on boarding flows.
+* Landing pages and onboarding flows.
 * Illustrations and brand application throughout the product.
 * Creation of style guides.
 * An account dashboard where users manage settings, apps and integrations.
