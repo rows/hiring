@@ -21,13 +21,17 @@ We're looking for people who improve our team! Our ideal buddy is:
 Here are a few things we think are necessary for you to be successful in your journey with us:
 * At least 3 years of work experience as a Quality Assurance Engineer.
 * Enjoy breaking things and finding issues.
+* Perform thorough regression testing when bugs are resolved
 * Experience in designing tools and procedures for test automation.
 * Fluency in designing test cases and scenarios.
+* Estimate, prioritize, plan and coordinate testing activities
 * Proficiency in defects and bug analysis, as well as all the following processes (report, track, retest).
 * Focus in ensuring the delivery of High quality code, by working closely with the engineering team.
 * Experience in working in Agile (Scrum/Kanban) environments.
 * Fluency in Selenium? and Java coding.
 * Experience in test and defect management tools.
+* Track quality assurance metrics, like defect densities and open defect counts
+* Stay up-to-date with new testing tools and test strategies
 * Knowledge of source control systems.
 * Strong attention to detail.
 * Able communicator in English. Portuguese is optional but welcome.
