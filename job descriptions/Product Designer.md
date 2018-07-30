@@ -43,7 +43,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Experienced in software products, including B2C and B2B ambients.
 
 # Compensation and Perks
-* Expected Annual Gross Salary Range: XX.000-YY.000€.
+* Expected Annual Gross Salary Range: 26.700-38.400€.
 * Employee equity plan.
 * Health Insurance for you and your family.
 * Plenty of beer and frequent ice-cream.
