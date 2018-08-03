@@ -44,8 +44,8 @@ Here are a few things we think are necessary for you to be successful in your jo
 # Nice to have
 * Experienced in software products, including B2C and B2B ambients.
 
-# What's in it for you?
-* Expected Annual Gross Salary Range: XX.000-YY.000€.
+# Compensation and Perks
+* Expected Annual Gross Salary Range: 26.700-38.400€.
 * Employee equity plan.
 * Health Insurance for you and your family.
 * Plenty of beer and frequent ice-cream.
