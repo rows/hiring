@@ -1,11 +1,12 @@
-# Intro
-We’re looking for a passionate Product Designer to join our team in Porto.
+# What is DashDash?
 
-We are building a spreadsheet grid that enables users to create interactive web apps by calling an API or repeating a job, using the spreadsheet skills they already have - no code needed. Don’t let the word “spreadsheet” intimidate you - what we are trying to do is to improve the existing user experience of a spreadsheet by creating something unique and easy to use. Plus, we are just starting, meaning you will have freedom to experiment and lots of flexibility on a daily basis.
+Imagine a spreadsheet grid that enables users to create interactive web apps by calling an API or repeating a job, using the spreadsheet skills they already have - no code needed. This is what we are building. Don’t let the word “spreadsheet” intimidate you - what we are trying to do is to improve the existing user experience of a spreadsheet by creating something unique and easy to use. Plus, we are just starting, meaning you will have freedom to experiment and lots of flexibility on a daily basis.
 
-We have been on the news. You can find us on TechCrunch, VentureBeat, Observador [pt] and many other media!
+We have been on the news. You can find us on TechCrunch (https://tcrn.ch/2LnB1r0), VentureBeat (https://bit.ly/2IGwgHS), Observador [pt] (https://bit.ly/2rZV0Ar) and many other media!
 
-# Your responsibilities
+# Your impact
+We’re looking for am awesome Product Designer to join our team in Porto.
+
 ## What you will do:
 * Take ideas and turn them into great and valuable experiences.
 * Develop UI models, UX strategies and interaction flows.
@@ -27,7 +28,8 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Professional and fun. We value commitment and the ability to stay optimistic and focused, especially in the face of difficult challenges or feedback. But we also find plenty of time to talk about The Big Lebowski.
 * Focused on quality and usability. We hate alarms going off and features that are half-designed as much as you do. Come build a polished product with us!
 
-# Requirements
+# Your Mojo
+Here are a few things we think are necessary for you to be successful in your journey with us:
 * At least 3+ years of proven experience designing at consumer-focused companies or agencies.
 * Autonomous and responsible for your work to the last detail.
 * Strong in product thinking and strategic design.
@@ -49,6 +51,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Plenty of beer and frequent ice-cream.
 * Liberal work-from-home policy.
 * Unlimited vacation policy.
+* Be part of a great team, have autonomy to give inputs and make things happen! In short: Really impact this Product!
 
 # How-to
 Send the following information to [us](mailto:join@dashdash.com):
