@@ -5,17 +5,21 @@ Imagine a spreadsheet grid where each cell can also call an API or repeat a job.
 dashdash raised a $8m series A round led by Accel Partners. We are hiring for our Porto office, in Portugal. Our business team is also in Berlin, Germany. We have been on the news and you can find us on TechCrunch, VentureBeat, Observador (PT) and many other media!
 
 ### Open positions for our office in Porto, Portugal:
-* 4x [BE Engineer](https://github.com/dashdash/hiring/blob/master/job%20descriptions/BE%20engineer.md).
-* 4x [BE Engineer (Senior)](https://github.com/dashdash/hiring/blob/master/job%20descriptions/BE%20engineer%20(senior).md).
-* 3x [FE Engineer](https://github.com/dashdash/hiring/blob/master/job%20descriptions/FE%20engineer.md).
-* 3x [FE Engineer (Senior)](https://github.com/dashdash/hiring/blob/master/job%20descriptions/FE%20engineer%20(senior).md).
-* 2x [Product Manager](https://github.com/dashdash/hiring/blob/master/job%20descriptions/Product%20Manager.md).
+* Engineering
+   * 4x [BE Engineer](/job%20descriptions/BE%20engineer.md).
+   * 4x [BE Engineer (Senior)](/master/job%20descriptions/BE%20engineer%20(senior).md).
+   * 3x [FE Engineer](/master/job%20descriptions/FE%20engineer.md).
+   * 3x [FE Engineer (Senior)](/job%20descriptions/FE%20engineer%20(senior).md).
+   * 1x [Quality Assurance Engineer](/job%20descriptions/QA%20Engineer.md)
+* Product
+   * 1x [Product Designer](/job%20descriptions/Product%20Designer.md)
+   * 2x [Product Manager](/job%20descriptions/Product%20Manager.md).
 
 ### Open positions for our office in Berlin, Germany:
-* 1x [User Success Manager](https://github.com/dashdash/hiring/blob/master/job%20descriptions/User%20Success%20Manager.md).
+* 1x [User Success Manager](/job%20descriptions/User%20Success%20Manager.md).
 
 ### Frequently Asked Questions
-Head over to our [FAQs](https://github.com/dashdash/hiring/blob/master/FAQs.md).
+Head over to our [FAQs](/FAQs.md).
 
 Share with your pro friends!  
 Send any questions or comments to [us](mailto:join@dashdash.com).
