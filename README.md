@@ -10,7 +10,7 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
    * 4x [BE Engineer (Senior)](/master/job%20descriptions/BE%20engineer%20(senior).md).
    * 3x [FE Engineer](/master/job%20descriptions/FE%20engineer.md).
    * 3x [FE Engineer (Senior)](/job%20descriptions/FE%20engineer%20(senior).md).
-   * 1x [Quality Assurance Engineer](/job%20descriptions/QA%20Engineer.md)
+   * 1x [Quality Assurance Engineer](/job%20descriptions/QA%20Engineer.md).
 * Product
    * 1x [Product Designer](/job%20descriptions/Product%20Designer.md)
    * 2x [Product Manager](/job%20descriptions/Product%20Manager.md).
