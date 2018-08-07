@@ -37,7 +37,7 @@ Here are a few things we think are necessary for you to be successful in your jo
 * Able communicator in English. Portuguese is optional but welcome.
 
 # Nice to have
-* ISTB Training - Foundation level.
+* ISTQB Training - Foundation level.
 * GitHub experienced user.
 
 # What’s in it for you?
