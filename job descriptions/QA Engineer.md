@@ -28,7 +28,7 @@ Here are a few things we think are necessary for you to be successful in your jo
 * Proficiency in defects and bug analysis, as well as all the following processes (report, track, retest).
 * Focus in ensuring the delivery of High quality code, by working closely with the engineering team.
 * Experience in working in Agile (Scrum/Kanban) environments.
-* Fluency in Selenium? and Java coding.
+* Fluency in Selenium and Java coding.
 * Experience in test and defect management tools.
 * Track quality assurance metrics, like defect densities and open defect counts.
 * Stay up-to-date with new testing tools and test strategies.
