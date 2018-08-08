@@ -1,7 +1,7 @@
 # Intro
 Imagine a spreadsheet grid where each cell can also call an API or repeat a job. This is what we are building. Our product lets users create interactive web apps using the spreadsheet skills they already have. You can check us at [dashdash.com](http://dashdash.com).
 
-We have also been on the news. You can find us on TechCrunch, VentureBeat, Observador [pt] and many other media!
+We have also been on the news. You can find us on TechCrunch (https://tcrn.ch/2LnB1r0), VentureBeat (https://bit.ly/2IGwgHS), Observador [pt] (https://bit.ly/2rZV0Ar) and many other media!
 
 # Your responsibilities
 Your role is to team up with the engineering manager and designers and make sure we build the best product. You will be managing one of our projects:
