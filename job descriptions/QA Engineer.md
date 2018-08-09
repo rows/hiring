@@ -41,6 +41,7 @@ Here are a few things we think are necessary for you to be successful in your jo
 * GitHub experienced user.
 
 # What’s in it for you?
+* Expected Annual Gross Salary Range: 29.000-33.300€.
 * Employee equity plan.
 * Health Insurance for you and your family.
 * Plenty of beer and frequent ice-cream.
