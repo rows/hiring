@@ -16,7 +16,7 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
    * 2x [Product Manager](/job%20descriptions/Product%20Manager.md).
 
 ### Open positions for our office in Berlin, Germany:
-* 1x [User Success Manager](/job%20descriptions/User%20Success%20Manager.md).
+* 1x [User Success Manager](/job%20descriptions/Customer%20Success%20Manager.md).
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
