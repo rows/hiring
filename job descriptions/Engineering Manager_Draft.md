@@ -38,14 +38,15 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Experience working in **continuous delivery** and **continuous integration** environments.
 * Able to act as a an **evangelist of quality and predictability** of deliveries.
 * Able to manage **multiple tasks/priorities** simultaneously, reply to incidents with **urgency** and **commit to deadlines.**
+* Strong sense of **prioritization** of tasks and deliveries.
+* Knowledge of **Agile methodologies** (Scrum and Kanban).
 * Able communicator in **English.** Portuguese is optional but welcome.
 
 ## Nice to have
-* Knowledge of **Agile methodologies** (Scrum and Kanban).
 * Active in the **community** - knowledge sharing.
 
 ## Compensation and Perks
-* Expected Annual Gross Salary Range: 00.000-00.000€.
+* Expected Annual Gross Salary Range: 41.600-59.400€.
 * Employee equity plan.
 * Health Insurance for you and your family.
 * Plenty of beer and frequent ice-cream.
