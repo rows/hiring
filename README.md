@@ -7,7 +7,7 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 ### Open positions for our office in Porto, Portugal:
 * Engineering
   * 2x [BE Engineer](/job%20descriptions/BE%20engineer.md).
-  * 3x [BE Engineer (Senior)](/job%20descriptions/BE%20engineer%20(senior).md).
+  * 2x [BE Engineer (Senior)](/job%20descriptions/BE%20engineer%20(senior).md).
   * 1x [FE Engineer](/job%20descriptions/FE%20engineer.md).
   * 2x [FE Engineer (Senior)](/job%20descriptions/FE%20engineer%20(senior).md).
   * 1x [Engineering Manager](/job%20descriptions/Engineering%20Manager.md).
