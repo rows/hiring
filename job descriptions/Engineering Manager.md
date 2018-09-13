@@ -2,23 +2,55 @@
 
 Imagine a spreadsheet grid where each cell can also call an API or repeat a job. This is what we are building. Our product lets users create interactive web apps using the spreadsheet skills they already have. You can check us at dashdash.com.
 
-We have also been on the news. You can find us on TechCrunch (https://tcrn.ch/2LnB1r0), VentureBeat (https://bit.ly/2IGwgHS), Observador [pt] (https://bit.ly/2rZV0Ar) and many other media!
+We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/2LnB1r0), [VentureBeat](https://bit.ly/2IGwgHS), [Observador (pt)](https://bit.ly/2rZV0Ar) and many other media!
 
 ## Your impact
 
 You’ll be responsible for **hiring, leading and developing a team of engineers** towards company goals. Besides the Engineering teams, You’ll be working with our Product Managers, our CEO, our COO and our HR Manager regarding technical and people roadmap definition and completion.
 
+
+What is your vision for a tech team? How much freedom do you give devs? Are they responsible for quality? Describe your ideal development cycle, from end to end, including owners and participants.
+which tools do you use to organize your team? How do you keep communication flowing?
+what is your preferred policy on X (e.g. remote work, remote engineers, etc.)?
+Help the team be efficient.
+What will your day be like? How will you impact the team?
+What do you think of the velocity of product development? How do you increase velocity and predictability in the team?
+Which principles of Agile are more sacred to you?
+Scrum - What to enforce, what to offer, what to suggest?
+Manage the career development of the team.
+How do you want to design the careers of the team? How to motivate them and compensate them?
+How would you react if X?
+
+Contribute and align on the product vision.
+Collaborate on planning activities (e.g. roadmaps) with PMs, Tech Leads.
+Establish SLAs for uptime, availability and performance.
+Ensure value is continously delivered to users.
+Do you want to code too?
+Operate, monitor and maintain product.
+Establish on-call duty processes.
+Create appropriate reporting.
+Manage the teams budget.
+Establish yourself as an ambassador.
+Act as an ambassador to the product, inside and outside organization.
+Act as an ambassador to the tech team, inside and outside organization.
+which technologies do you follow more closely? how well known are you in their communities? How close are you to the leader? What are your major software / hardware contributions?
+how many people follow you? How many people do you follow? Who? Why? How many would try to follow you to our company?
+which companies and organizations are you affiliated with? What's your relationship with them? Who do you know at Apple/ Google/ Amazon/ X?
+
+
 ## What you’ll be working on:
-* **Building a team** (hire, salary best-practices).
-* Helping the team **self-organize and be efficient.**
-* Managing the **career development, goals and training plans** of the team.
-* Owning the **product life-cycle** and be responsible for managing all delivery risks.
-* Managing **technical resources** and capacity plans within budget and project schedule.
-* Contributing to the **product vision** and working closely the product team.
-* Collaborating on **planning activities** (e.g. roadmaps) with product and engineers.
-* Establishing **SLAs for product delivery.**
-* Operating, monitoring and maintaining **product.**
-* Establishing **on-call duty** process.
+* Leading a team of engineers.
+  * **Building a team**, hiring and defining salary best-practices.
+  * Helping the team **self-organize and be efficient.**
+  * Managing the **career development, goals and training plans** of the team.
+* Own the technical product.
+  * Owning the **product life-cycle** and be responsible for managing all delivery risks.
+  * Managing **technical resources** and capacity plans within budget and project schedule.
+  * Contributing and aligning on the **product vision** and working closely with the product team.
+  * Collaborating on **planning activities** (e.g. roadmaps) with product and engineers.
+  * Establishing **SLAs for product delivery.**
+  * Operating, monitoring and maintaining **product.**
+  * Establishing **on-call duty** process.
 
 ## About you
 We're looking for people who improve our team! Our ideal buddy is:
