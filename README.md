@@ -22,7 +22,7 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 
 ### Not needed at the moment:
 * Engineering
-  * 0x [Quality Assurance Engineer](/job%20descriptions/QA%20Engineer.md).
+  * [Quality Assurance Engineer](/job%20descriptions/QA%20Engineer.md).
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
