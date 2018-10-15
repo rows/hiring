@@ -13,7 +13,7 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
   * 1x [Engineering Manager](/job%20descriptions/Engineering%20Manager.md).
   
 * Product
-  * 1x [Product Designer](/job%20descriptions/Product%20Designer.md)
+
   * 2x [Product Manager](/job%20descriptions/Product%20Manager.md).
   * 1x Data analyst/ BI. 
 
@@ -23,6 +23,9 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 ### Not needed at the moment:
 * Engineering
   * [Quality Assurance Engineer](/job%20descriptions/QA%20Engineer.md).
+  
+* Product
+  * [Product Designer](/job%20descriptions/Product%20Designer.md).  
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
