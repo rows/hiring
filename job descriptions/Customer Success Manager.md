@@ -28,5 +28,18 @@ You will be among the first Customer Success Managers of our small but fast grow
 * You built or engaged in communities before
 * You understand how software products are built and want to learn about this fast
 
+# Compensation and Perks
+* Competitive salary
+* Employee equity plan
+* Liberal work-from-home (or remote) policy
+* Unlimited vacation policy
+* A super experienced and motivated team that can't wait to work with you
+
 # How-to
-Write to torben@dashdash.com, if interested! You will interview with the two Founders and some tech team members. You will also build something awesome with dashdash :)
+1. Send the following information to [us](mailto:join@dashdash.com):
+2. Complete Linkedin link or CV pdf.
+3. Which position you want to apply to and why.
+4. Email, phone contacts.
+5. Also send three (3x) 1-hour slots of availability in the next 3-5 days.
+
+You will interview with the two Founders and some tech team members. You will also build something awesome with dashdash :)
