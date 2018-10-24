@@ -18,7 +18,7 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
   * 1x Data analyst/ BI_Porto. 
 
 ### Open positions for our office in Berlin, Germany:
-* 1x [User Success Manager](/job%20descriptions/Customer%20Success%20Manager.md).
+* 1x [Customer Success Manager_Berlin](/job%20descriptions/Customer%20Success%20Manager_Berlin.md).
 
 ### Not needed at the moment:
 * Engineering
