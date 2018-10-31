@@ -20,7 +20,7 @@ You will be among the first people in our business team. This is a senior positi
 We expect you to:
 * Have 5+ years of experience in a highly professional and dynamic work environment
 * Be a total spreadsheet and product nerd
-* Be experienced in building and contributing to tech communities 
+* Be a leader in building and contributing to tech communities 
 * Be great at producing content about tech products
 * Be a hustler and creative problem solver
 * Be able to communicate really well in English
