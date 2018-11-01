@@ -11,7 +11,7 @@ We offer work in a highly professional startup with people from top organization
 
 # The job
 You will be among the first Customer Success Managers of our small but fast growing team. This is a senior position that starts building a new function at dashdash. You will:
-* Work directly with users to make them successful on multiple channels
+* Work directly with active and prospective users to make them successful on multiple channels
 * Feed learnings from users and use cases back into our product roadmap
 * Learn and refine how to measure your success, and carefully analyze data
 * Give strategic input to Founders including business opportunities, market focus, pricing, product roadmap, hiring, etc.
@@ -20,13 +20,13 @@ You will be among the first Customer Success Managers of our small but fast grow
 * Develop a team for world-wide community building
 
 # You
-* You have 5+ years of experience in a highly professional and dynamic work environment
-* You are a total spreadsheet and product nerd
-* People love you, and you love people
-* You are a hustler and creative problem solver
-* You can communicate really well in English
-* You built or engaged in communities before
-* You understand how software products are built and want to learn about this fast
+You are a great candidate if you:
+* Have 5+ years of experience in a highly professional and dynamic work environment
+* Love people, and people love you
+* Are a total spreadsheet and product nerd
+* Are a hustler and creative problem solver
+* Can communicate really well in English
+* Built or engaged in communities before
 
 # Compensation and Perks
 * Competitive salary
