@@ -1,5 +1,5 @@
-## Community Manager / Content Marketing Manager
-# Intro
+# Community Manager / Content Marketing Manager
+## Intro
 At dashdash we create tools that make computation accessible to everyone.
 Coding used to be hard. dashdash changes that. We want you to create interactive web apps using the spreadsheet skills that you already have. Imagine a grid where each cell can exchange data with other online services or repeat a job. This is what we’re building.
 
@@ -7,7 +7,7 @@ Coding used to be hard. dashdash changes that. We want you to create interactive
 
 We are hiring our Community / Content Marketing Manager for our office in Berlin, Germany, or as a remote position. This role will be among our very first hires on the business side. So it’s an amazing opportunity to join a fast growing tech company. 
 
-# The job
+## The job
 You will be among the first people in our business team. This is a senior position that starts building a new function at dashdash. You will:
 * Identify channels where prospective and active dashdash users want to consume content
 * Produce content that educates about our product and its benefits
@@ -16,7 +16,7 @@ You will be among the first people in our business team. This is a senior positi
 * Give strategic input to Founders including business opportunities, market focus, pricing, product roadmap, hiring, etc.
 * Develop a team for world-wide community building
 
-# You
+## You
 We expect you to:
 * Have 5+ years of experience in a highly professional and dynamic work environment
 * Be a total spreadsheet and product nerd
@@ -25,5 +25,12 @@ We expect you to:
 * Be a hustler and creative problem solver
 * Be able to communicate really well in English
 
-# How-to
+## Compensation and Perks
+* Competitive salary
+* Employee equity plan
+* Liberal work-from-home (or remote) policy
+* Unlimited vacation policy
+* A super experienced and motivated team that can't wait to work with you
+
+## How-to
 Write to torben@dashdash.com, if interested! You will interview with the two Founders and other team members. You will also build something awesome with dashdash :)
