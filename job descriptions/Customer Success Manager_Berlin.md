@@ -7,8 +7,6 @@ Coding used to be hard. dashdash changes that. We want you to create interactive
 
 We are hiring our Customer Success Manager for our office in Berlin, Germany. This role will be among our very first hires on the business side. So it’s an amazing opportunity to join a fast growing tech company.
 
-We offer work in a highly professional startup with people from top organizations, competitive salary, employee equity plan, liberal home office policy, and more.
-
 # The job
 You will be among the first Customer Success Managers of our small but fast growing team. This is a senior position that starts building a new function at dashdash. You will:
 * Work directly with active and prospective users to make them successful on multiple channels
