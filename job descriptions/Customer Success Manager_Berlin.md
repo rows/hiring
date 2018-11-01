@@ -1,5 +1,5 @@
-## Customer Success Manager / Business Development Manager
-# Intro
+# Customer Success Manager / Business Development Manager
+## Intro
 At dashdash we create tools that make computation accessible to everyone.
 Coding used to be hard. dashdash changes that. We want you to create interactive web apps using the spreadsheet skills that you already have. Imagine a grid where each cell can exchange data with other online services or repeat a job. This is what we’re building.
 
@@ -7,7 +7,7 @@ Coding used to be hard. dashdash changes that. We want you to create interactive
 
 We are hiring our Customer Success Manager for our office in Berlin, Germany. This role will be among our very first hires on the business side. So it’s an amazing opportunity to join a fast growing tech company.
 
-# The job
+## The job
 You will be among the first Customer Success Managers of our small but fast growing team. This is a senior position that starts building a new function at dashdash. You will:
 * Work directly with active and prospective users to make them successful on multiple channels
 * Feed learnings from users and use cases back into our product roadmap
@@ -17,7 +17,7 @@ You will be among the first Customer Success Managers of our small but fast grow
 * Build a highly engaged user community online and offline
 * Develop a team for world-wide community building
 
-# You
+## You
 You are a great candidate if you:
 * Have 5+ years of experience in a highly professional and dynamic work environment
 * Love people, and people love you
@@ -26,14 +26,14 @@ You are a great candidate if you:
 * Can communicate really well in English
 * Built or engaged in communities before
 
-# Compensation and Perks
+## Compensation and Perks
 * Competitive salary
 * Employee equity plan
 * Liberal work-from-home (or remote) policy
 * Unlimited vacation policy
 * A super experienced and motivated team that can't wait to work with you
 
-# How-to
+## How-to
 1. Send the following information to [us](mailto:join@dashdash.com):
 2. Complete Linkedin link or CV pdf.
 3. Which position you want to apply to and why.
