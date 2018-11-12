@@ -21,7 +21,7 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 
 ### Open positions for our office in Berlin, Germany:
 
-| Location ------ | Area ------- | Openings | Position (and link to Job Description) |
+| Location        | Area         | Openings | Position (and link to Job Description) |
 | --------------- | ------------ | -------- | --------------- |
 | Berlin          | Business     | 1        | [Customer Success Manager](/job%20descriptions/Community%20Manager%20-%20Content%20Marketing%20Manager_Berlin.md) |
 
