@@ -18,7 +18,6 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 | Porto           | Product      | 0        | [Product Designer](/job%20descriptions/Product%20Designer.md) |
 | Porto           | Product      | 0        | Data Analyst |
 
-
 ### Open positions for our office in Berlin, Germany:
 
 | Location        | Area         | Openings | Position (and link to Job Description) |
