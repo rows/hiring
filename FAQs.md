@@ -26,7 +26,7 @@ Engineering
 - 2017-05 We Are Developers, Vienna, Austria
 
 Design
-- 2018-07 XXX
+- 2018-10 Mirror Conf, Braga, Portugal
 - 2017-04 OFFF Barcelona, Barcelona, Spain
 
 ```
