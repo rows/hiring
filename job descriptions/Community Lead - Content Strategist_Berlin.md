@@ -1,4 +1,4 @@
-# Community Manager / Content Marketing Manager
+# Community Lead / Content Strategist
 ## Intro
 At dashdash we create tools that make computation accessible to everyone.
 Coding used to be hard. dashdash changes that. We want you to create interactive web apps using the spreadsheet skills that you already have. Imagine a grid where each cell can exchange data with other online services or repeat a job. This is what we’re building.
@@ -20,8 +20,8 @@ You will be among the first people in our business team. This is a senior positi
 We expect you to:
 * Have 5+ years of experience in a highly professional and dynamic work environment
 * Be a total spreadsheet and product nerd
+* Be great at producing engaging content about tech products
 * Be a leader in building and contributing to tech communities 
-* Be great at producing content about tech products
 * Be a hustler and creative problem solver
 * Be able to communicate really well in English
 
