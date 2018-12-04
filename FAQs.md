@@ -22,8 +22,8 @@ We do. Here's a list of conferences we have attended:
 Engineering
 - 2018-11 React Day, Berlin, Germany 
 - 2018-10 Google Cloud Next '18, London, UK
+- 2018-05 We Are Developers, Vienna, Austria
 - 2017-05 Google Cloud Next, London, UK
-- 2017-05 We Are Developers, Vienna, Austria
 
 Design
 - 2018-10 Mirror Conf, Braga, Portugal
