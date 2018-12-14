@@ -14,7 +14,7 @@ For now, we don't. However, we do have a liberal work-from-home policy.
 At dashdash, we consider facetime super important, and so we want that people sit together as much as possible. At times you may need to stay home for personal reasons, or you may prefer to work from somewhere else. We are cool with that, as long as you are still available for planned meetings!
 
 ## Do you guys attend conferences and workshops?
-We do. Here's a [list of event](https://github.com/dashdash/community) we go to.
+We do. Here's a [list of events](https://github.com/dashdash/community) we go to.
 
 ## Do you accept international candidates?
 We do. Be aware that getting VISAs to come and work in the EU may take a long time. But we like everyone!
