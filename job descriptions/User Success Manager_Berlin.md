@@ -20,7 +20,7 @@ You will be the first Customer Success Manager of our small but fast growing tea
 
 ## You
 You are a great candidate if you:
-* Have 5+ years of experience in sales or customer success in a highly professional and dynamic work environment
+* Have 5+ years of experience in sales, customer success or consulting in a highly professional and dynamic work environment
 * Love people, and people love you
 * Are a total spreadsheet and product nerd
 * Are a hustler and creative problem solver
