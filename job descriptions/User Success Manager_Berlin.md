@@ -9,30 +9,31 @@ We are hiring our Customer Success Manager for our office in Berlin, Germany. Th
 
 ## The job
 You will be the first Customer Success Manager of our small but fast growing team. This is a senior position that starts building a new function at dashdash. You will:
-* Put users' needs first and empathize with every aspect of the user experience
-* Sell dashdash directly with prospective users in target companies
-* Work with existing users in target companies in expansion to other users and functions within the company
+* Sell dashdash directly with prospective users in target companies.
+* Work with existing users to expand to other users and functions within the company.
+* Generate new prospects and leads by creating compelling media for selective distribution and broadcasting (social, video, podcast) and by attending trade and client events (shows, meetups, etc.). 
 * Work directly with active and prospective users to make them successful on multiple channels - online and offline
-* Feed learnings from users and use cases back into our product roadmap
+* Put users' needs first and empathize with every aspect of the user experience.
+* Feed learnings from users and use cases back into our product roadmap.
 * Give strategic input to Founders including business opportunities, market focus, pricing, product roadmap, hiring, etc.
-* Learn and refine how to measure your success, and carefully analyze data
-* Help build this business function and team based on the business needs you identify
+* Learn and refine how to measure your success, and carefully analyze data.
+* Help build this business function and team based on the business needs you identify.
 
 ## You
 You are a great candidate if you:
-* Have 5+ years of experience in sales, customer success or consulting in a highly professional and dynamic work environment - software experience is a plus
-* Love people, and people love you
-* Are a total spreadsheet and product nerd
-* Are a hustler and creative problem solver
-* Can communicate really well in English
-* Built or engaged in communities before
+* Have 5+ years of experience in sales, customer success or consulting in a highly professional and dynamic work environment - software experience is a plus.
+* Love people, and people love you.
+* Are a total spreadsheet and product nerd.
+* Are a hustler and creative problem solver.
+* Can communicate really well in English.
+* Built or engaged in communities before.
 
 ## Compensation and Perks
-* Competitive salary
-* Employee equity plan
-* Liberal work-from-home (or remote) policy
-* Unlimited vacation policy
-* A super experienced and motivated team that can't wait to work with you
+* Competitive salary.
+* Employee equity plan.
+* Liberal work-from-home (or remote) policy.
+* Unlimited vacation policy.
+* A super experienced and motivated team that can't wait to work with you.
 
 ## How-to
 1. Send the following information to [us](mailto:join@dashdash.com):
