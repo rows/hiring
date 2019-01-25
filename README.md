@@ -23,7 +23,7 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 | Location        | Area         | Openings | Position (and link to Job Description) |
 | --------------- | ------------ | -------- | --------------- |
 | Berlin, Germany | Business     | 0        | [Community Lead / Content Strategist](https://github.com/dashdash/hiring/blob/master/job%20descriptions/Community%20Lead%20-%20Content%20Strategist_Berlin.md) |
-| Berlin, Germany | Business     | 0        | [User Success Manager](https://github.com/dashdash/hiring/blob/master/job%20descriptions/User%20Success%20Manager_Berlin.md) |
+| Berlin, Germany | Business     | 1        | [Customer Success Manager](https://github.com/dashdash/hiring/blob/master/job%20descriptions/Customer%20Success%20Manager_Berlin.md) |
 
 
 ### Frequently Asked Questions
