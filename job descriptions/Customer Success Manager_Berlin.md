@@ -9,14 +9,14 @@ We are hiring our Customer Success Manager for our office in Berlin, Germany. Th
 
 ## The job
 You will be the first Customer Success Manager of our small but fast growing team. This is a senior position that starts building a new function at dashdash. You will:
-* Sell dashdash directly to prospective users in target companies
-* Work with existing users to expand to other users and functions within the company
-* Generate new prospects by creating compelling media for selective distribution and broadcasting (social, video, podcast) and by attending trade and client events (shows, meetups, etc.)
-* Put users' needs first and empathize with every aspect of the user experience
-* Feed learnings from users and use cases back into our product roadmap
+* Sell dashdash directly to prospective users in target companies.
+* Work with existing users to expand to other users and functions within the company.
+* Generate new prospects by creating compelling media for selective distribution and broadcasting (social, video, podcast) and by attending trade and client events (shows, meetups, etc.).
+* Put users' needs first and empathize with every aspect of the user experience.
+* Feed learnings from users and use cases back into our product roadmap.
 * Give strategic input to Founders including business opportunities, market focus, pricing, product roadmap, hiring, etc.
-* Learn and refine how to measure your success, and carefully analyze data
-* Help build this business function and team based on the business needs you identify
+* Learn and refine how to measure your success, and carefully analyze data.
+* Help build this business function and team based on the business needs you identify.
 
 ## You
 You are a great candidate if you:
