@@ -16,14 +16,14 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 | Porto, Portugal | Engineering  | 0        | [Quality Assurance Engineer](/job%20descriptions/QA%20Engineer.md) |
 | Porto, Portugal | Product      | 1        | [Product Manager](/job%20descriptions/Product%20Manager_Porto.md) |
 | Porto, Portugal | Product      | 0        | [Product Designer](/job%20descriptions/Product%20Designer.md) |
-| Porto, Portugal | Product      | 1        | Data Analyst |
+| Porto, Portugal | Product      | 1        | [Data Analyst](/job%20descriptions/Data%20analyst.md)         |
 
 ### Open positions for our office in Berlin, Germany:
 
 | Location        | Area         | Openings | Position (and link to Job Description) |
 | --------------- | ------------ | -------- | --------------- |
 | Berlin, Germany | Business     | 0        | [Community Lead / Content Strategist](https://github.com/dashdash/hiring/blob/master/job%20descriptions/Community%20Lead%20-%20Content%20Strategist_Berlin.md) |
-| Berlin, Germany | Business     | 1        | [Customer Success Manager](https://github.com/dashdash/hiring/blob/master/job%20descriptions/Customer%20Success%20Manager_Berlin.md) |
+| Berlin, Germany | Business     | 0        | [Customer Success Manager](https://github.com/dashdash/hiring/blob/master/job%20descriptions/Customer%20Success%20Manager_Berlin.md) |
 
 
 ### Frequently Asked Questions
