@@ -25,6 +25,7 @@ You are autonomous. You are expected to create your own workplace and deliverabl
 * Proficient in setting up a data warehousing solution.
 * Proficient in ETL design, implementation and maintenance.
 * Proficient in scripting languages (Python, R), data modeling, data statements (SQL).
+* Able communicator in English. Portuguese is optional but welcome.
 
 # Nice to have
 * Proficient in spreadsheets.
