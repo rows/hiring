@@ -16,7 +16,7 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 | Porto, Portugal | Engineering  | 0        | [Quality Assurance Engineer](/job%20descriptions/QA%20Engineer.md) |
 | Porto, Portugal | Product      | 1        | [Product Manager](/job%20descriptions/Product%20Manager_Porto.md) |
 | Porto, Portugal | Product      | 0        | [Product Designer](/job%20descriptions/Product%20Designer.md) |
-| Porto, Portugal | Product      | 1        | [Data Analyst](/job%20descriptions/Data%20analyst.md)         |
+| Porto, Portugal | Product      | 1        | [Data Analyst](/job%20descriptions/Data%20Analyst.md)         |
 
 ### Open positions for our office in Berlin, Germany:
 
