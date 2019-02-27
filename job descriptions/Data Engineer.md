@@ -18,7 +18,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 You are autonomous. You are expected to create your own workplace and deliverables and work directly with the senior Business and Product teams on goals and objectives.
 
 # Requirements
-* At least 3 years of work experience as a Data Analyst, Data Scientist and Data Engineer.
+* At least 3 years of work experience as a Data Engineer, Data Scientist or Data Analyst.
 * At least 3 years of work experience in the tech space.
 * Very knowledgeable about the dashdash product and our industry.
 * Accomplished in adding clear value to a product in past positions.
