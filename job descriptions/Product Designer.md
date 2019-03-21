@@ -5,7 +5,7 @@ Imagine a spreadsheet grid that enables users to create interactive web apps by 
 We have been on the news. You can find us on TechCrunch (https://tcrn.ch/2LnB1r0), VentureBeat (https://bit.ly/2IGwgHS), Observador [pt] (https://bit.ly/2rZV0Ar) and many other media!
 
 # Your impact
-We’re looking for am awesome Product Designer to join our team in Porto.
+We’re looking for an awesome Product Designer to join our team in Porto.
 
 ## What you will do:
 * Take ideas and turn them into great and valuable experiences.
