@@ -23,4 +23,4 @@ We don't have any open positions for Berlin atm.
 Head over to our [FAQs](/FAQs.md).
 
 Share with your pro friends!  
-Send any questions or comments to [us](mailto:join@dashdash.com).
+Send any questions, comments or apply to our positions [here](mailto:join@dashdash.com).
