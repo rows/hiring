@@ -8,10 +8,9 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 
 | Location        | Area         | Openings | Position and link to Job Description |
 | --------------- | ------------ | -------- | --------------- |
-| Porto, Portugal | Engineering  | 2        | [BE Engineer](/job%20descriptions/BE%20engineer_Porto.md) |
 | Porto, Portugal | Engineering  | 2        | [BE Engineer (Senior)](/job%20descriptions/BE%20engineer%20(senior)_Porto.md) |
 | Porto, Portugal | Engineering  | 1        | [FE Engineer (Senior)](/job%20descriptions/FE%20engineer%20(senior)_Porto.md) |
-| Porto, Portugal | Engineering  | 1        | [Engineering Manager](/job%20descriptions/Engineering%20Manager_Porto.md)     |       |
+| Porto, Portugal | Engineering  | 0        | [Engineering Manager](/job%20descriptions/Engineering%20Manager_Porto.md)     | 
 
 ### Open positions for our office in Berlin, Germany:
 
