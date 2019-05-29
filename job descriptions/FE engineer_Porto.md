@@ -26,12 +26,13 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Able communicator in English. Portuguese is optional but welcome.
 
 # Nice to have
-* GraphQL (with Apollo client).
-* HTML5 Canvas for fin-hypergrid library.
-* WebSockets (GraphQL over websockets).
+* RxJS (some core modules).
+* Mobx.
+* HTML5 Canvas.
 * Webpack, PostCSS, cssnext & CSS modules.
 * CSS Flexbox.
-* RxJS (some core modules).
+* WebSockets (GraphQL over websockets).
+* GraphQL (with Apollo client).
 * GitHub (Open source and internal repos).
 
 # Compensation and Perks
