@@ -26,11 +26,12 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Able communicator in English. Portuguese is optional but welcome.
 
 # Nice to have
-* RxJS (some core modules).
-* Mobx.
+* Reactive programming
+* RxJs (some core modules)
+* Mobx
 * HTML5 Canvas.
 * Webpack, PostCSS, cssnext & CSS modules.
-* CSS Flexbox.
+* CSS and CSS-in-JS tools.
 * WebSockets (GraphQL over websockets).
 * GraphQL (with Apollo client).
 * GitHub (Open source and internal repos).

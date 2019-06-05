@@ -27,11 +27,11 @@ We're looking for people who improve our team! Our ideal buddy is:
 
 # Nice to have
 * Reactive programming. Strong plus.
-* Mobx.
-* RxJS (some core modules).
+* RxJs (some core modules)
+* Mobx
 * HTML5 Canvas. Strong plus.
 * Webpack, PostCSS, cssnext & CSS modules.
-* CSS Flexbox.
+* CSS and CSS-in-JS tools.
 * GraphQL (with Apollo client). Strong plus.
 * WebSockets (GraphQL over websockets).
 * GitHub (Open source and internal repos).
