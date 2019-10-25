@@ -8,11 +8,11 @@ We have been on the news. You can find us on TechCrunch (https://tcrn.ch/2LnB1r0
 We’re looking for an awesome Product Designer to join our team in Porto.
 
 ## What you will do:
-* Take ideas and turn them into great and valuable experiences.
-* Develop UI models, UX strategies and interaction flows.
-* Envision ways of developing and applying our brand across the different sections of our product.
-* Design user interface elements and multiple prototypes.
 * Partner with engineers and product owners to design solutions that oversee the user experience from conception until launch.
+* Envision ways of expanding and applying our brand across the different sections of our product and multiple channels like social media or marketing.
+* Deliver polished interfaces and awesome visual outputs that help us create a next-level experience for our users!
+* Learn from our awesome team of designers, engineers and product owners.
+* Provide and solicite feedback from our team of designers to constantly improve your work and make dashdash even greater.
 
 ## You will be working on:
 * Landing pages and onboarding flows.
@@ -28,21 +28,25 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Professional and fun. We value commitment and the ability to stay optimistic and focused, especially in the face of difficult challenges or feedback. But we also find plenty of time to talk about The Big Lebowski.
 * Focused on quality and usability. We hate alarms going off and features that are half-designed as much as you do. Come build a polished product with us!
 
-# Your Mojo
-Here are a few things we think are necessary for you to be successful in your journey with us:
-* At least 3+ years of proven experience designing at consumer-focused companies or agencies.
-* Autonomous and responsible for your work to the last detail.
-* Strong in product thinking and strategic design.
-* Proficient in the creation of great designs and other visual communication.
-* Experienced in managing projects & tasks and communicating with users & company stakeholders.
-* Flexible, able to switch tasks easily - we are just starting to shape dashdash and there is a lot to be done, so one day you might be focusing on a user flow, another creating illustrations for empty states.
-* Able communicator and with strong English skills.
-* Comfortable with Sketch, adobe Illustrator and Photoshop.
-* Able to send us an awesome online portfolio (PDF also possible).
-* Super chill and laid back, able to stay optimistic and motivated in the face of challenges.
+# The Must-Have
+* 3+ years of proven experience designing at business-focused companies or agencies.
+* Knowledge of UX best practices and heuristics and understanding of what constitutes a good or bad experience.
+* Ability to translate complex requirements and user research into simple visual solutions.
+* Understanding of visual design best practices such as composition, grid, balance, symmetry, typography, color usage and use of white space.
+* A refined aesthetic sense that can help us expand our brand across different mediums/channels.
+* Flexibility for switching tasks easily and being able to design not only for the core product, but also brand and marketing related outputs.
+* Knowledge about the fundamentals of web (html & css), understanding of technical limitations and good communication skills with FE dev teams.
+* Concept idealization and great product vision while still being able to work in IA, user journeys, wireframes and edge cases.
+* Autonomy and ownership of design processes.
+* Proficiency with Sketch and/or Figma, Adobe Illustrator, Adobe Photoshop and simple prototyping tools such as Invision.
+* A relevant and awesome online Portfolio or PDF reflecting both UX and visual skills.
+
+Also, if we call your mom she will say you're a pretty nice person ;)
 
 # Nice to have
-* Experienced in software products, including B2C and B2B ambients.
+* Previous experience in software products, including B2C and B2B ambients.
+* Motion design skills, svg animation skills.
+* Experience with prototyping tools such as Principle or Framer.js.
 
 # Compensation and Perks
 * Expected Annual Gross Salary Range: 26.700-38.400€.
