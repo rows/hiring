@@ -1,4 +1,4 @@
-# What is DashDash?
+# What is dashdash?
 
 Imagine a spreadsheet grid that enables users to create interactive web apps by calling an API or repeating a job, using the spreadsheet skills they already have - no code needed. This is what we are building. Don’t let the word “spreadsheet” intimidate you - what we are trying to do is to improve the existing user experience of a spreadsheet by creating something unique and easy to use. Plus, we are just starting, meaning you will have freedom to experiment and lots of flexibility on a daily basis.
 
