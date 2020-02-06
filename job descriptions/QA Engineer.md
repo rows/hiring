@@ -44,7 +44,7 @@ Here are a few things we think are necessary for you to be successful in your jo
 * Expected Annual Gross Salary Range: 31.200-35.900€.
 * Employee equity plan.
 * Health Insurance for you and your family.
-* Plenty of beer and frequent ice-cream.
+* Plenty of coffee and frequent ice-cream.
 * Liberal work-from-home policy.
 * Unlimited vacation policy.
 * Be part of a great team, have autonomy to give inputs and make things happen! In short: Really impact this Product!
