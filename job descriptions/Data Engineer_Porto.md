@@ -39,7 +39,7 @@ You are autonomous. You are expected to create your own workplace and deliverabl
 * Expected Annual Gross Salary Range: 33.000-37.000€.
 * Employee equity plan.
 * Health Insurance for you and your family.
-* Plenty of beer and frequent ice-cream.
+* Plenty of coffee and frequent ice-cream.
 * Liberal work-from-home policy.
 * Unlimited vacation policy.
 
