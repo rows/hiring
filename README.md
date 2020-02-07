@@ -18,7 +18,10 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 
 ### Open positions for our office in Berlin, Germany:
 
-We don't have any open positions for Berlin atm.
+| Location        | Area         | Openings | Position and link to Job Description |
+| --------------- | ------------ | -------- | --------------- |
+| Berlin, Germany | Business     | 1        | [No-Code Evangelist](/job%20descriptions/No-Code%20Evangelist_Berlin.md) |
+| Berlin, Germany | Business     | 1        | [Technical Writer (Senior)](/job%20descriptions/Technical%20Writer%20(Senior)_Berlin.md) |
 
 
 ### Frequently Asked Questions
