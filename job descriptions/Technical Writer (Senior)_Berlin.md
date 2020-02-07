@@ -35,7 +35,7 @@ We are hiring a Senior Technical Writer for our office in Berlin, Germany, to he
 - Unlimited vacation policy.
 
 ## How-to
-Send the following information to us:
+Send the following information to [us](mailto:join@dashdash.com):
 1. Complete Linkedin link or CV pdf.
 1. Which position you want to apply to and why.
 1. Email, phone contacts.
