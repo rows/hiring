@@ -4,7 +4,7 @@ Coding used to be hard. dashdash changes that. We want you to create interactive
 
 [dashdash](https://dashdash.com/) is a well-funded startup with top investors like Accel and Cherry Ventures. We have offices in Berlin and Porto. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/dashdash), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/).
 
-We are hiring a No-Code Evangelist for our office in Berlin, Germany, to build both amazing spreadsheets and a thriving user community.
+We are hiring a No-Code Builder for our office in Berlin, Germany, to build both amazing spreadsheets and a thriving user community.
 
 ## Your responsibilities
 - Grow dashdash by finding people with challenges and then helping them achieve more through dashdash.
