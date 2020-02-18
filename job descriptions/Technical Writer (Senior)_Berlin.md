@@ -29,7 +29,7 @@ We are hiring a Senior Technical Writer for our office in Berlin, Germany, to he
 - You abhor typos and value elegance as key drivers of a professional brand and user delight.
 
 ## Compensation and Perks
-- Expected Annual Gross Salary: EUR 36.000-46.000€
+- Expected Annual Gross Salary: To be discussed during the interview process.
 - Employee equity plan.
 - Liberal work-from-home policy.
 - Unlimited vacation policy.
