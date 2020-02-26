@@ -16,7 +16,7 @@ We are hiring a Senior Technical Writer for our office in Berlin, Germany, to he
 - Create, periodically review and improve dashdash templates covering use-cases that help users get value out of dashdash and its features. 
 - Manage and review content for landing pages that relate to dashdash features and use cases.
 - Start and maintain a knowledge base. Distill dashdash's key features into practical documentation that can live inside the product, in the form of a helper bar and/ or an autonomous website or platform. Cover features, shortcuts, tricks, FAQs and more.
-- Create and maintain other customizable content related to features, such as  instructions for the data explorer, recommended tables, , the autocomplete feature, error messages.
+- Create and maintain other customizable content related to features, such as  instructions for the data explorer, recommended tables, the autocomplete feature, error messages.
 - Participate in our forum by answering challenges presented by users with spreadsheets and formulas you create. Establish yourself as an expert among spreadsheet experts.
 - Prepare and post content for product updates and release notes to be shared with users via different channels. 
 - Periodically review content with actual users and make sure they are getting the desired benefit. 
