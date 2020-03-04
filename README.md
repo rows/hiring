@@ -19,10 +19,10 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 | Porto, Portugal | Design       | 1        | [Product Designer](/job%20descriptions/Product%20Designer.md)                 |
 ### Open positions for our office in Berlin, Germany:
 
-| Location        | Area         | Openings | Position and link to Job Description |
-| --------------- | ------------ | -------- | --------------- |
-| Berlin, Germany | Business     | 1        | [No-Code Builder](/job%20descriptions/No-Code%20Builder_Berlin.md) |
-| Berlin, Germany | Business     | 1        | [Technical Writer (Senior)](/job%20descriptions/Technical%20Writer%20(Senior)_Berlin.md) |
+| Location                           | Area         | Openings | Position and link to Job Description |
+| ---------------------------------- | ------------ | -------- | --------------- |
+| Berlin, Germany                    | Business     | 1        | [No-Code Builder](/job%20descriptions/No-Code%20Builder_Berlin.md) |
+| Berlin, Germany OR Porto, Portugal | Business     | 1        | [Technical Writer (Senior)](/job%20descriptions/Technical%20Writer%20(Senior)_Berlin.md) |
 
 
 ### Frequently Asked Questions
