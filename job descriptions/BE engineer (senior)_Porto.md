@@ -42,7 +42,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Open source contributor (Github).
 
 # Compensation and Perks
-* Expected Annual Gross Salary Range: 43.000-50.000€.
+* Expected Annual Gross Salary Range: 48.300-62.200€.
 * Employee equity plan.
 * Health Insurance for you and your family.
 * Plenty of coffee and frequent ice-cream.
