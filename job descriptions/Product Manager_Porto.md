@@ -37,7 +37,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Experienced in programming.
 
 # Compensation and Perks
-* Expected Annual Gross Salary Range: 49.000-56.000€.
+* Expected Annual Gross Salary Range: 45.600-58.800€.
 * Employee equity plan.
 * Health Insurance for you and your family.
 * Plenty of coffee and frequent ice-cream.
