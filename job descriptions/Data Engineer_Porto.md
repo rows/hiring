@@ -36,7 +36,7 @@ You are autonomous. You are expected to create your own workplace and deliverabl
 * Proficient in written and Visual communication.
 
 # Compensation and Perks
-* Expected Annual Gross Salary Range: 33.000-37.000€.
+* Expected Annual Gross Salary Range: 31.300-40.100€.
 * Employee equity plan.
 * Health Insurance for you and your family.
 * Plenty of coffee and frequent ice-cream.
