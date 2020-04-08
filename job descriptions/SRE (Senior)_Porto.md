@@ -22,7 +22,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 - **Focused on quality and usability.** We hate alarms going off and features that are half-baked as much as you do. Come build a polished product with us!
 
 ## Requirements
-- 3+ years of cloud providers experience (Google Cloud prefered).
+- 3+ years of cloud providers experience (Google Cloud preferred).
 - 3+ years of programming (Python, GO, Java or other JVM language).
 - Configuration management and automation tools (e.g. Ansible, Terraform).
 - Experience with CI/CD tools and implementing best practices.
@@ -47,7 +47,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 - Unlimited vacation policy.
 
 ## How-to
-1. Send the following information to [us](mailto:join@dashdash.com):
+Send the following information to [us](mailto:join@dashdash.com):
 1. Complete Linkedin link or CV pdf.
 1. GitHub and/ or other public repos link.
 1. Which position you want to apply to and why.
