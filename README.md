@@ -10,7 +10,6 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 | --------------- | ------------ | -------- | --------------- |
 | Porto, Portugal | Engineering  | 1        | [SRE (Senior)](/job%20descriptions/SRE%20(Senior)_Porto.md)                   |
 | Porto, Portugal | Management   | 1        | [Engineering Manager](/job%20descriptions/Engineering%20Manager_Porto.md)     |
-| Porto, Portugal | Design       | 1        | [Product Designer (Senior)](/job%20descriptions/Product%20Designer%20(Senior)_Porto.md)                 |
 
 
 ### Frequently Asked Questions
