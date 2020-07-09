@@ -8,8 +8,6 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 
 | Location        | Area         | Openings | Position and link to Job Description |
 | --------------- | ------------ | -------- | --------------- |
-| Porto, Portugal | Management   | 1        | [Engineering Manager](/job%20descriptions/Engineering%20Manager_Porto.md)     |
-
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
