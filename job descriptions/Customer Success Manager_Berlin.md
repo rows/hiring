@@ -35,10 +35,10 @@ You are a great candidate if you:
 * A super experienced and motivated team that can't wait to work with you.
 
 ## How-to
-1. Send the following information to [us](mailto:join@dashdash.com):
-2. Complete Linkedin link or CV pdf.
-3. Which position you want to apply to and why.
-4. Email, phone contacts.
-5. Also send three (3x) 1-hour slots of availability in the next 3-5 days.
+Send the following information to [us](mailto:join@dashdash.com):
+1. Complete Linkedin link or CV pdf.
+1. Which position you want to apply to and why.
+1. Email, phone contacts.
+1. Also send three (3x) 1-hour slots of availability in the next 3-5 days.
 
 You will interview with the two Founders and some tech team members. You will also build something awesome with dashdash :)

@@ -2,7 +2,7 @@
 
 Imagine a spreadsheet grid where each cell can also call an API or repeat a job. This is what we are building. Our product lets users create interactive web apps using the spreadsheet skills they already have.
 
-dashdash raised a $8m series A round led by Accel Partners. We are hiring for our Porto office, in Portugal. Our business team is also in Berlin, Germany. We have been on the news and you can find us on TechCrunch, VentureBeat, Observador (PT) and many other media!
+dashdash raised a $8m series A round led by Accel Partners. We are hiring for our Porto office, in Portugal. Our business team is also in Berlin, Germany. We have been on the news and you can find us on [TechCrunch](https://tcrn.ch/2LnB1r0), [VentureBeat](https://bit.ly/2IGwgHS), [Observador (PT)](https://bit.ly/2rZV0Ar) and many other media!
 
 ### Open positions for our office in Porto, Portugal:
 

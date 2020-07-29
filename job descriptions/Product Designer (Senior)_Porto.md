@@ -2,7 +2,7 @@
 
 Imagine a spreadsheet grid that enables users to create interactive web apps by calling an API or repeating a job, using the spreadsheet skills they already have - no code needed. This is what we are building. Don’t let the word “spreadsheet” intimidate you - what we are trying to do is to improve the existing user experience of a spreadsheet by creating something unique and easy to use. Plus, we are just starting, meaning you will have freedom to experiment and lots of flexibility on a daily basis.
 
-We have been on the news. You can find us on TechCrunch (https://tcrn.ch/2LnB1r0), VentureBeat (https://bit.ly/2IGwgHS), Observador [pt] (https://bit.ly/2rZV0Ar) and many other media!
+We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/2LnB1r0), [VentureBeat](https://bit.ly/2IGwgHS), [Observador (pt)](https://bit.ly/2rZV0Ar) and many other media!
 
 # Your impact
 We’re looking for an awesome Product Designer to join our team in Porto.
