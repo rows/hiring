@@ -8,7 +8,7 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 
 | Location        | Area         | Openings | Position and link to Job Description |
 | --------------- | ------------ | -------- | --------------- |
-|Porto            | QAE          | 1        | https://github.com/dashdash/hiring/blob/master/job%20descriptions/QA%20Engineer.md |
+|Porto            | QAE          | 1        | [QA Engineer](https://github.com/dashdash/hiring/blob/master/job%20descriptions/QA%20Engineer.md) |
 
 
 ### Frequently Asked Questions
