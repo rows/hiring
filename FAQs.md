@@ -11,7 +11,7 @@ Swell.
 For now, we don't. However, we do have a liberal work-from-home policy.
 
 ## What is a "liberal work-from-home policy"?
-At dashdash, we consider facetime super important, and so we want that people sit together as much as possible. At times you may need to stay home for personal reasons, or you may prefer to work from somewhere else. We are cool with that, as long as you are still available for planned meetings!
+At dashdash, we consider facetime super important, and so we want that people sit together as much as possible. At times you may need to stay home for personal reasons, or you may prefer to work from somewhere else. We are cool with that, as long as you are still available for planned meetings! Note that until the end of 2020 we expect to WFH by default due to the rise of covid-19 cases in order to keep our team safe.
 
 ## Do you guys attend conferences and workshops?
 We do. Here's a [list of events](https://github.com/dashdash/community) we go to.
