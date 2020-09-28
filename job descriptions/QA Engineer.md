@@ -45,7 +45,7 @@ Here are a few things we think are necessary for you to be successful in your jo
 * Employee equity plan.
 * Health Insurance for you and your family.
 * Plenty of coffee and frequent ice-cream.
-* Liberal work-from-home policy.
+* Liberal work-from-home policy (until the end of 2020 we expect to WFH by default due to the rise of covid-19 cases).
 * Unlimited vacation policy.
 * Be part of a great team, have autonomy to give inputs and make things happen! In short: Really impact this Product!
 
