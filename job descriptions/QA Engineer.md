@@ -19,7 +19,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 
 # Your Mojo
 Here are a few things we think are necessary for you to be successful in your journey with us:
-* At least 3 years of work experience as a Quality Assurance Engineer.
+* At least 5 years of work experience as a Quality Assurance Engineer.
 * Enjoy breaking things and finding issues.
 * Experience in performing thorough regression testing when bugs are resolved.
 * Experience in designing tools and procedures for test automation.
