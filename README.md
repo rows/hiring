@@ -8,8 +8,14 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 
 | Location        | Area         | Openings | Position and link to Job Description |
 | --------------- | ------------ | -------- | --------------- |
-|Porto            | QAE          | 1        | [QA Engineer](https://github.com/dashdash/hiring/blob/master/job%20descriptions/QA%20Engineer.md) |
+|Porto            | QAE          | 1        | [QA Engineer](/job%20descriptions/QA%20Engineer.md) |
 
+### Open positions for our office in Berlin, Germany:
+
+| Location        | Area         | Openings | Position and link to Job Description |
+| --------------- | ------------ | -------- | --------------- |
+|Berlin           | Business     | 1        | [Communications Manager (Senior)](/job%20descriptions/Communications%20Manager%20(senior)_Berlin.md) |
+|Berlin           | Business     | 1        | [Business Development Manager](/job%20descriptions/Business%20Development%20Manager_Berlin.md)       |
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
