@@ -11,7 +11,7 @@ We encourage you to apply for a 20-30h/ week position.
 ## Your responsibilities
 - Lead the development and execution of our business-wide communications strategy.
 - Craft our story and oversee copy across all public-facing acquisition channels: website, emails, PR, social. 
-- Produce and publish content; drive reach and engagement with users and influencers on our social media channels,, especially on Twitter.
+- Produce and publish content; drive reach and engagement with users and influencers on our social media channels, especially on Twitter.
 - Build and maintain strong relations with key media with all media outlets including business, tech, trade press, podcasts and more (focus on digital outlets in the US and in Europe) to drive positive coverage, incl. for paid traffic on select outlets.
 - Drive brand awareness and thought leadership.
 - Coach other marketing and product team members in writing content, and provide improvement suggestions to in-product content.
