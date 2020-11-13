@@ -5,8 +5,8 @@ Coding used to be hard. dashdash changes that. We want you to create interactive
 [dashdash](https://dashdash.com/) is a well-funded startup with top investors like Accel and Cherry Ventures. We have offices in Berlin and Porto. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/dashdash), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/).
 
 ## Your Role
-We are hiring a Senior Communications Manager for our office in Berlin, Germany, to help us excel at telling our story to the world.
-We encourage you to apply for a 20-30h/ week position.
+We are hiring a Head of Marketing and Community for our office in Berlin, Germany, to help us excel at telling our story to the world.
+Although this is a full-time position, we are open to canidates who would like to work 30h/ week.
 
 ## Your responsibilities
 - Lead the development and execution of our business-wide communications strategy.
@@ -19,13 +19,13 @@ We encourage you to apply for a 20-30h/ week position.
 - Define and track key performance indicators for channels and campaigns.
 
 ## About you
-- You have 3 or more years of experience in a similar role. 
+- You have 5 or more years of experience in a similar role. 
 - Agency experience is a plus.
 - You love productivity software & spreadsheets.
 - You have an excellent command of the English language. 
 
 ## Compensation and Perks
-- Expected Annual Gross Salary: To be discussed during the interview process.
+- Expected Annual Gross Salary: 80.000-120.000€
 - Employee equity plan.
 - Liberal work-from-home policy.
 - Unlimited unpaid vacation policy.
