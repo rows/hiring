@@ -9,9 +9,9 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 | Location        | Area         | Openings | Position and link to Job Description |
 | --------------- | ------------ | -------- | --------------- |
 |Porto            | QAE          | 1        | [QA Engineer](/job%20descriptions/QA%20Engineer.md) |
-|Porto            | FE           | 1        | [FE Engineer (senior)](https://github.com/dashdash/hiring/blob/master/job%20descriptions/FE%20engineer%20(senior)_Porto.md)
-|Porto            | FE           | 1        | [FE Engineer](https://github.com/dashdash/hiring/blob/master/job%20descriptions/FE%20engineer_Porto.md)
-|Porto            | BE           | 1        | [BE Engineer (senior)](https://github.com/dashdash/hiring/blob/master/job%20descriptions/BE%20engineer%20(senior)_Porto.md)
+|Porto            | FE           | 1        | [FE Engineer (senior)](https://github.com/dashdash/hiring/blob/master/job%20descriptions/FE%20engineer%20(senior)_Porto.md) |
+|Porto            | FE           | 1        | [FE Engineer](https://github.com/dashdash/hiring/blob/master/job%20descriptions/FE%20engineer_Porto.md) or [FE Engineer (senior)](https://github.com/dashdash/hiring/blob/master/job%20descriptions/FE%20engineer%20(senior)_Porto.md) |          
+|Porto            | BE           | 1        | [BE Engineer (senior)](https://github.com/dashdash/hiring/blob/master/job%20descriptions/BE%20engineer%20(senior)_Porto.md) |
 
 
 ### Open positions for our office in Berlin, Germany:
