@@ -10,7 +10,7 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 | --------------- | ------------ | -------- | --------------- |
 |Porto            | QAE          | 1        | [QA Engineer](/job%20descriptions/QA%20Engineer.md) |
 |Porto            | FE           | 2        | [FE Engineer](/job%20descriptions/FE%20engineer_Porto.md) or [FE Engineer (senior)](/job%20descriptions/FE%20engineer%20(senior)_Porto.md) |    
-|Porto            | FE_Growth    | 1        | [FE Engineer_Growth_(senior)](/job%20descriptions/FE%20engineer%20Growth%20Team%20(senior)_Porto.md)|
+|Porto            | FE_Growth    | 1        | [FE Engineer_Growth (senior)](/job%20descriptions/FE%20engineer%20Growth%20Team%20(senior)_Porto.md)|
 |Porto            | BE           | 1        | [BE Engineer (senior)](/job%20descriptions/BE%20engineer%20(senior)_Porto.md) |
 
 
