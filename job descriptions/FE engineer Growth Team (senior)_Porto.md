@@ -40,6 +40,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 * CSS and CSS-in-JS tools.
 * GraphQL (with Apollo client). Strong plus.
 * WebSockets (GraphQL over websockets).
+* General understanding of Back-End inner workings
 * GitHub (Open source and internal repos).
 
 # Compensation and Perks
