@@ -9,6 +9,15 @@ Your role is to team up with our engineers and build our single-page app. You wi
 * the editor where users manipulate a list of programmable cells that can do computing, including services and automation.
 * additional pages and features where we help users learn and extract the maximum value out of our core functionality and available integrations.
 
+HC: The responsabilities and projects for this role
+
+Your role is to team up with our Growth team to work on projects and build experiments that help us grow our user base (acquire, activate and retain user).  
+
+You projects will include:
+* Sign-up conversion: Build and optimize landing pages, implement SSO to improve sign-up rates, etc.
+* User onboarding: Optimize the conversion from sign-up to activation.
+* Virality and Sharing: Experiments to increase virality through account invites, sharing spreadsheets and other distribution mechanisms.
+
 # About you
 We're looking for people who improve our team! Our ideal buddy is:
 * Motivated to solve complex challenges. We are building a platform that provides General Purpose Computing to the masses; this requires cooking up new solutions that handle millions of calculations.
@@ -25,6 +34,13 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Proficient in testing (unit tests, end-to-end tests).
 * Able communicator in English. Speaking Portuguese is optional but welcome.
 
+HC: Additional requirements Requirements
+
+* Analytical mind applying scientific rigour in Build/Measure/Learn cycles
+* Intuitive understanding of how to analyze and interpret product usage data
+* Ability to improvise and develop creative solutions when common approaches fail. Understand the trade-offs in employing different engineering solutions to a problem, valuing pragmatism over idealism.
+* Good understanding of backend technologies 
+
 # Nice to have
 * Reactive programming. Strong plus.
 * RxJs (some core modules)
@@ -40,7 +56,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Expected Annual Gross Salary Range: 48.300-62.200€.
 * Employee equity plan.
 * Health Insurance for you and your family.
-* Plenty of coffee and frequent ice-cream.
+* Plenty of coffee and frequent ice-cream. 
 * Liberal work-from-home policy.
 * Unlimited vacation policy.
 
