@@ -40,7 +40,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Expected Annual Gross Salary Range: 37.200-47.900€.
 * Employee equity plan.
 * Health Insurance for you and your family.
-* Plenty of coffee and frequent ice-cream.
+* Plenty of coffee and frequent ice-cream - when at the office :)
 * Liberal work-from-home policy.
 * Unlimited vacation policy.
 
