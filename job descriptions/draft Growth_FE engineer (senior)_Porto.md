@@ -4,13 +4,6 @@ Imagine a spreadsheet grid where each cell can also call an API or repeat a job.
 We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/2LnB1r0), [VentureBeat](https://bit.ly/2IGwgHS), [Observador (pt)](https://bit.ly/2rZV0Ar) and many other media!
 
 # Your responsibilities
-Your role is to team up with our engineers and build our single-page app. You will be working on:
-* an account dashboard where users manage apps and settings.
-* the editor where users manipulate a list of programmable cells that can do computing, including services and automation.
-* additional pages and features where we help users learn and extract the maximum value out of our core functionality and available integrations.
-
-HC: The responsabilities and projects for this role
-
 Your role is to team up with our Growth team to work on projects and build experiments that help us grow our user base (acquire, activate and retain user).  
 
 You projects will include:
@@ -32,14 +25,11 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Proficient in SPAs (single-page apps).
 * Proficient in front-end frameworks like React or Angular (we use React).
 * Proficient in testing (unit tests, end-to-end tests).
-* Able communicator in English. Speaking Portuguese is optional but welcome.
-
-HC: Additional requirements Requirements
-
-* Analytical mind applying scientific rigour in Build/Measure/Learn cycles
-* Intuitive understanding of how to analyze and interpret product usage data
+* Analytical mind applying scientific rigour in Build/Measure/Learn cycles.
+* Intuitive understanding of how to analyze and interpret product usage data.
 * Ability to improvise and develop creative solutions when common approaches fail. Understand the trade-offs in employing different engineering solutions to a problem, valuing pragmatism over idealism.
-* Good understanding of backend technologies 
+* Good understanding of back-end technologies.
+* Able communicator in English. Speaking Portuguese is optional but welcome.
 
 # Nice to have
 * Reactive programming. Strong plus.
