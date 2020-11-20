@@ -4,9 +4,9 @@ Imagine a spreadsheet grid where each cell can also call an API or repeat a job.
 We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/2LnB1r0), [VentureBeat](https://bit.ly/2IGwgHS), [Observador (pt)](https://bit.ly/2rZV0Ar) and many other media!
 
 # Your responsibilities
-Your role is to team up with our Growth team to work on projects and build experiments that help us grow our user base (acquire, activate and retain user).  
+Your role is to team up with our Growth team to work on projects and build experiments that help us grow our user base (acquire, activate and retain users).  
 
-You projects will include:
+Your projects will include:
 * Sign-up conversion: Build and optimize landing pages, implement SSO to improve sign-up rates, etc.
 * User onboarding: Optimize the conversion from sign-up to activation.
 * Virality and Sharing: Experiments to increase virality through account invites, sharing spreadsheets and other distribution mechanisms.
