@@ -20,6 +20,7 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 | --------------- | ------------ | -------- | --------------- |
 |Berlin           | Business     | 1        | [Marketing and Community (Head)](/job%20descriptions/Marketing%20and%20Community%20(Head)_Berlin.md) |
 |Berlin           | Business     | 1        | [Business Development Manager](/job%20descriptions/Business%20Development%20Manager_Berlin.md)       |
+|Berlin           | Finance      | 1        | [Finance Manager](/job%20descriptions/Finance%20Manager_Berlin.md)|
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
