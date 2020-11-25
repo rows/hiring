@@ -5,7 +5,7 @@ Coding used to be hard. dashdash changes that. We want you to create interactive
 [Rows](https://rows.com/), formerly dashdash, is a well-funded startup with top investors like Accel and Cherry Ventures. We have offices in Berlin and Porto. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/dashdash), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/).
 
 ## Your Role
-We are hiring a Head of Marketing and Commun  ity for our office in Berlin, Germany, to help us excel at telling our story to the world. As the person that will lead our efforts on brand, communications, community and social media, this is an opportunity to shape a brand from the ground up and ensure its long-lasting impact. This is a hands-on role, as you should be prepared to execute in these areas before building a first-class team. 
+We are hiring a Head of Brand and Community for our office in Berlin, Germany, to help us excel at telling our story to the world. As the person that will lead our efforts on brand, communications, community and social media, this is an opportunity to shape a brand and the culture of our community from the ground up and ensure its long-lasting impact. This is a hands-on role, as you should be prepared to execute in these areas before building a first-class team. 
 Although this is a full-time position, we are open to candidates who would like to work 30h/ week. 
 
 ## Your responsibilities
@@ -26,7 +26,7 @@ Although this is a full-time position, we are open to candidates who would like 
 - You have an excellent command of the English language. 
 
 ## Compensation and Perks
-- Expected Annual Gross Salary: 80.000-120.000€
+- Expected Annual Gross Salary: 80.000-110.000€
 - Employee equity plan.
 - Liberal work-from-home policy.
 - Unlimited unpaid vacation policy.
