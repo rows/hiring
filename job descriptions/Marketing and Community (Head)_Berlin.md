@@ -1,18 +1,17 @@
 ## Intro
-At dashdash we create tools that make computation accessible to everyone.
+At Rows we create tools that make computation accessible to everyone.
 Coding used to be hard. dashdash changes that. We want you to create interactive web apps using the spreadsheet skills that you already have. Imagine a grid where each cell can exchange data with other online services or repeat a job. This is what we’re building.
 
-[dashdash](https://dashdash.com/) is a well-funded startup with top investors like Accel and Cherry Ventures. We have offices in Berlin and Porto. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/dashdash), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/).
+[Rows](https://rows.com/), formerly dashdash, is a well-funded startup with top investors like Accel and Cherry Ventures. We have offices in Berlin and Porto. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/dashdash), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/).
 
 ## Your Role
-We are hiring a Head of Marketing and Community for our office in Berlin, Germany, to help us excel at telling our story to the world. You will lead our work on brand, communications, community and social media. We are especially looking for a rock-star copywriter and Twitter native.
+We are hiring a Head of Marketing and Commun  ity for our office in Berlin, Germany, to help us excel at telling our story to the world. As the person that will lead our efforts on brand, communications, community and social media, this is an opportunity to shape a brand from the ground up and ensure its long-lasting impact. This is a hands-on role, as you should be prepared to execute in these areas before building a first-class team. 
 Although this is a full-time position, we are open to candidates who would like to work 30h/ week. 
 
 ## Your responsibilities
 - Lead the development and execution of our business-wide communications strategy.
-- Craft our story and oversee copy across all public-facing acquisition channels: website, emails, PR, social. 
-- Drive reach and engagement with users and influencers online, especially on Twitter, and offline, by producing and publishing content.
-- Drive brand awareness and thought leadership.
+- Craft our story, create and oversee copy across all public-facing acquisition channels: website, emails, PR, social. 
+- Create a content and social media strategy and execute on it to drive reach and engagement with users and influencers online - especially on Twitter - and offline.
 - Coach other marketing and product team members in writing content, and provide improvement suggestions to in-product content.
 - Partner with our product, growth and marketing teams to understand our target audience and develop new strategies to reach them.
 - Build and maintain strong relations with key media with all media outlets including business, tech, trade press, podcasts and more (focus on digital outlets in the US and in Europe) to drive positive coverage, incl. for paid traffic on select outlets.
