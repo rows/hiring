@@ -5,7 +5,11 @@ Coding used to be hard. Rows changes that. We want to empower the world's 1 bill
 [Rows](https://rows.com/), formerly dashdash, is a well-funded startup with top investors like Accel and Cherry Ventures. We have offices in Berlin and Porto. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/dashdash), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/).
 
 ## Your Role
-We are hiring a Senior Communications Manager for our office in Berlin, Germany, to help us excel at telling our story to the world. As the person that will lead our efforts on brand, copy, and communications, this is an opportunity to shape a brand from the ground up. This is a hands-on role, and you should be prepared to execute in these areas. 
+"Not everyone can become a great artist, but a great artist can come from anywhere." -- Anton Ego in Ratatouille.
+
+Disney's Ratatouille captures the essence of innovation, empowerment and entrepreneurship that we want to bring to business people around the world who dare to go beyond the expected. If you can help us turn this essence into our story of empowerment through spreadsheets, this is for you. 
+
+We are hiring a Senior Copywriter for our office in Berlin, Germany, to help us excel at telling our story to the world. As the person that will lead our efforts on brand, copy, and communications, this is an opportunity to shape a brand from the ground up. This is a hands-on role, and you should be prepared to execute in these areas. 
 This position is part-time for 20-25h/ week. 
 
 ## Your responsibilities
