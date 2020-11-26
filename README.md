@@ -18,7 +18,7 @@ dashdash raised a $8m series A round led by Accel Partners. We are hiring for ou
 
 | Location        | Area         | Openings | Position and link to Job Description |
 | --------------- | ------------ | -------- | --------------- |
-|Berlin           | Business     | 1        | [Marketing and Community (Head)](/job%20descriptions/Marketing%20and%20Community%20(Head)_Berlin.md) |
+|Berlin           | Business     | 1        | [Brand and Community (Head)](/job%20descriptions/Brand%20and%20Community%20(Head)_Berlin.md) or [Community and Social Media Manager](/job%20descriptions/Community%20and%20Social%20Media%20Manager.md) or [Senior Communications Manager - part-time](/job%20descriptions/Senior%20Communications%20Manager%20(part-time).md) |
 |Berlin           | Business     | 1        | [Business Development Manager](/job%20descriptions/Business%20Development%20Manager_Berlin.md)       |
 |Berlin           | Finance      | 1        | [Finance Manager](/job%20descriptions/Finance%20Manager_Berlin.md)|
 
