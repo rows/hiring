@@ -5,7 +5,7 @@ Coding used to be hard. Rows changes that. We want to empower the world's 1 bill
 [Rows](https://rows.com/), formerly dashdash, is a well-funded startup with top investors like Accel and Cherry Ventures. We have offices in Berlin and Porto. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/dashdash), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/).
 
 ## Your Role
-We are hiring a Community and Social Media Manager for our office in Berlin, Germany, to help us build a thriving user community. You are a go-getter who loves to be on Twitter and connect with people. You also love to talk about spreadsheets.
+Are you a social-media and community wizard? Are you a go-getter who loves to be on Twitter and connect with people? Do you love spreadsheets and want to create great content and talk about them? Great! We want to hire you as our Community and Social Media Manager for our office in Berlin, Germany, to help us build a thriving user community. 
 
 ## Your responsibilities
 - Develop and execute on a strategy to grow our community of spreadsheet users and influencers.
@@ -15,9 +15,9 @@ We are hiring a Community and Social Media Manager for our office in Berlin, Ger
 - Define and track key performance indicators for channels and campaigns.
 
 ## About you
-- You have 5 or more years of experience in a similar role. 
-- You love productivity software & spreadsheets.
+- You have 2 or more years of experience in a similar role. 
 - You are a hustler, a community animal, and a Twitter wizard.
+- You love productivity software & spreadsheets.
 - You have an excellent command of the English language. 
 
 ## Compensation and Perks
