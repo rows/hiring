@@ -26,7 +26,6 @@ This position is part-time for 20-25h/ week.
 - You have 5 or more years of experience in a similar role. 
 - You love productivity software & spreadsheets.
 - You are hands-on and like to get your hands dirty.
-- You are a great leader who can attract and retain excellent marketing and communications talent.
 - You have an excellent command of the English language. 
 
 ## Compensation and Perks
