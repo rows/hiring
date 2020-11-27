@@ -7,7 +7,7 @@ Coding used to be hard. Rows changes that. We want to empower the world's 1 bill
 ## Your Role
 "Not everyone can become a great artist, but a great artist can come from anywhere." -- Anton Ego in Ratatouille.
 
-Disney's Ratatouille captures the essence of innovation, empowerment and entrepreneurship that we want to bring to business people around the world who dare to go beyond the expected. If you can help us turn this essence into our story of empowerment through spreadsheets, this is for you. 
+Disney's Ratatouille captures the essence of innovation, empowerment and entrepreneurship that we want to convey to business people around the world who dare to go beyond the expected. If you can help us turn this essence into our story of empowerment through spreadsheets, this is for you. 
 
 We are hiring a Senior Copywriter for our office in Berlin, Germany, to help us excel at telling our story to the world. As the person that will lead our efforts on brand and copy, this is an opportunity to shape a brand from the ground up. If you can help us on PR, too, that is a plus. This is a hands-on role, and you should be prepared to execute in these areas. 
 This position is part-time for 20-25h/ week. 
