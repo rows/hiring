@@ -1,17 +1,17 @@
 ## Intro
-At dashdash we create tools that make computation accessible to everyone.
-Coding used to be hard. dashdash changes that. We want you to create interactive web apps using the spreadsheet skills that you already have. Imagine a grid where each cell can exchange data with other online services or repeat a job. This is what we’re building.
+At Rows we create tools that make computation accessible to everyone.
+Coding used to be hard. Rows changes that. We want you to create interactive web apps using the spreadsheet skills that you already have. Imagine a grid where each cell can exchange data with other online services or repeat a job. This is what we’re building.
 
-[dashdash](https://dashdash.com/) is a well-funded startup with top investors like Accel and Cherry Ventures. We have offices in Berlin and Porto. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/dashdash), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/).
+[Rows](https://rows.com/), formerly dashdash, is a well-funded startup with top investors like Accel and Cherry Ventures. We have offices in Berlin and Porto. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/dashdash), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/).
 
 ## Your role
 We are hiring a Business Development Manager for our office in Berlin, Germany, to help us grow our user community through partnerships. This role is an opportunity to create a network of partners for user acquisition from scratch.
 
 ## Your responsibilities
-- Grow our user community through sales and the development of partnerships, e.g. with third-party communities, consulting firms, educational institutions, company builders, and companies representing co-marketing opportunities for dashdash.
+- Grow our user community through sales and the development of partnerships, e.g. with third-party communities, consulting firms, educational institutions, company builders, and companies representing co-marketing opportunities for Rows.
 - Develop and execute on a business development strategy for user acquisition, identify potential partners and partnership models.
 - Experiment with different partner types, channels and models to build a successful partnership model.
-- Manage relationships, plan and execute on co-marketing opportunities with different partners, incl. building dashdash templates with them.
+- Manage relationships, plan and execute on co-marketing opportunities with different partners, incl. building Rows templates with them.
 - Talk to users about their use cases and problems, build spreadsheets with them.
 
 ## About you
@@ -29,7 +29,7 @@ We are hiring a Business Development Manager for our office in Berlin, Germany, 
 - Unlimited unpaid vacation policy.
 
 ## How-to
-Send the following information to [us](mailto:join@dashdash.com):
+Send the following information to [us](mailto:join@rows.com):
 1. Complete Linkedin link or CV pdf.
 1. Which position you want to apply to and why.
 1. Email, phone contacts.
