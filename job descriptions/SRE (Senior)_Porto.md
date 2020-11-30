@@ -1,13 +1,13 @@
 ## Intro
-Imagine a spreadsheet grid where each cell can also call an API or repeat a job. This is what we are building. Our product lets users create interactive web apps using the spreadsheet skills they already have. You can check us at [dashdash.com](http://dashdash.com) 
+Imagine a spreadsheet grid where each cell can also call an API or repeat a job. This is what we are building. Our product lets users create interactive web apps using the spreadsheet skills they already have. You can check us at [rows.com](http://rows.com) 
 
 We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/2LnB1r0), [VentureBeat](https://bit.ly/2IGwgHS), [Observador - PT](https://bit.ly/2rZV0Ar) and many other media!
 
 ## Your responsibilities
-- Design processes to improve the reliability of dashdash services.
+- Design processes to improve the reliability of Rows services.
 - Identify, document and help improve performance and operational efficiency challenges.
-- Assist in rationalizing dashdash’s infrastructure as code and automation tooling.
-- Create tooling to automate and scale our distributed systems, growing dashdash infrastructure-as-code.
+- Assist in rationalizing Rows’ infrastructure as code and automation tooling.
+- Create tooling to automate and scale our distributed systems, growing Rows infrastructure-as-code.
 - Ensure and enforce best application and infrastructure-security practices.
 - Participate in incident management, on-call rotation and drive root-cause analysis.
 - Collaborate with delivery teams, product owners and other stakeholders to develop tooling and CI/CD patterns.
@@ -47,7 +47,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 - Unlimited vacation policy.
 
 ## How-to
-Send the following information to [us](mailto:join@dashdash.com):
+Send the following information to [us](mailto:join@rows.com):
 1. Complete Linkedin link or CV pdf.
 1. GitHub and/ or other public repos link.
 1. Which position you want to apply to and why.
