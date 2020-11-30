@@ -1,5 +1,5 @@
 # Intro
-Imagine a spreadsheet grid where each cell can also call an API or repeat a job. This is what we are building. Our product lets users create interactive web apps using the spreadsheet skills they already have. You can check us at [dashdash.com](http://dashdash.com).
+Imagine a spreadsheet grid where each cell can also call an API or repeat a job. This is what we are building. Our product lets users create interactive web apps using the spreadsheet skills they already have. You can check us at [rows.com](http://rows.com).
 
 We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/2LnB1r0), [VentureBeat](https://bit.ly/2IGwgHS), [Observador (pt)](https://bit.ly/2rZV0Ar) and many other media!
 
@@ -20,7 +20,7 @@ You are autonomous. You are expected to create your own workplace and deliverabl
 # Requirements
 * At least 3 years of work experience as a Data Engineer, Data Scientist or Data Analyst.
 * At least 3 years of work experience in the tech space.
-* Very knowledgeable about the dashdash product and our industry.
+* Very knowledgeable about the Rows product and our industry.
 * Accomplished in adding clear value to a product in past positions.
 * Proficient in setting up a data warehousing solution.
 * Proficient in ETL design, implementation and maintenance.
@@ -44,7 +44,7 @@ You are autonomous. You are expected to create your own workplace and deliverabl
 * Unlimited vacation policy.
 
 # How-to
-Send the following information to [us](mailto:join@dashdash.com):
+Send the following information to [us](mailto:join@rows.com):
    1. Complete Linkedin link or CV pdf.
    2. GitHub and/ or other public repos link.
    3. Which position you want to apply to and why.
