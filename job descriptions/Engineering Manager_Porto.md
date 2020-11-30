@@ -1,6 +1,6 @@
 ## Intro
 
-Imagine a spreadsheet grid where each cell can also call an API or repeat a job. This is what we are building. Our product lets users create interactive web apps using the spreadsheet skills they already have. You can check us at dashdash.com.
+Imagine a spreadsheet grid where each cell can also call an API or repeat a job. This is what we are building. Our product lets users create interactive web apps using the spreadsheet skills they already have. You can check us at rows.com.
 
 We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/2LnB1r0), [VentureBeat](https://bit.ly/2IGwgHS), [Observador (pt)](https://bit.ly/2rZV0Ar) and many other media!
 
@@ -56,7 +56,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Unlimited vacation policy.
 
 ## How-to
-Send the following information to [us](mailto:join@dashdash.com):
+Send the following information to [us](mailto:join@rows.com):
 1. Complete Linkedin link or CV pdf.
 1. Which position you want to apply to and why.
 1. Email, phone contacts.
