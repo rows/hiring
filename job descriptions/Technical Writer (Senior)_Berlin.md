@@ -1,21 +1,21 @@
 ## Intro
-At dashdash we create tools that make computation accessible to everyone.
-Coding used to be hard. dashdash changes that. We want you to create interactive web apps using the spreadsheet skills that you already have. Imagine a grid where each cell can exchange data with other online services or repeat a job. This is what we’re building.
+At Rows we create tools that make computation accessible to everyone.
+Coding used to be hard. Rows changes that. We want you to create interactive web apps using the spreadsheet skills that you already have. Imagine a grid where each cell can exchange data with other online services or repeat a job. This is what we’re building.
 
-[dashdash](https://dashdash.com/) is a well-funded startup with top investors like Accel and Cherry Ventures. We have offices in Berlin and Porto. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/dashdash), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/).
+[Rows](https://rows.com/), formerly dashdash, is a well-funded startup with top investors like Accel and Cherry Ventures. We have offices in Berlin and Porto. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/dashdash), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/).
 
-We are hiring a Senior Technical Writer for our office in Berlin, Germany, to help our users learn how to use dashdash.
+We are hiring a Senior Technical Writer for our office in Berlin, Germany, to help our users learn how to use Rows.
 
 ## Your responsibilities
-- Be the sole owner of the content that educates users and helps them use dashdash.
+- Be the sole owner of the content that educates users and helps them use Rows.
 - Make sure that the content that exists inside and outside our product is helpful. You will translate how the product actually works into easy-to-understand content.
 - Make sure our content is clear and objective, that it matches our brand and our users’ skill level. 
 - Partner with the Product and Customer Success teams in finding content challenges and  opportunities. Identify where/when content is needed and also where/when it’s not needed. Create a strategy that typifies content and its relationship to the product, feature states and user proficiency.
 
 ## Typical tasks
-- Create, periodically review and improve dashdash templates covering use-cases that help users get value out of dashdash and its features. 
-- Manage and review content for landing pages that relate to dashdash features and use cases.
-- Start and maintain a knowledge base. Distill dashdash's key features into practical documentation that can live inside the product, in the form of a helper bar and/ or an autonomous website or platform. Cover features, shortcuts, tricks, FAQs and more.
+- Create, periodically review and improve Rows templates covering use-cases that help users get value out of Rows and its features. 
+- Manage and review content for landing pages that relate to Rows features and use cases.
+- Start and maintain a knowledge base. Distill Rows' key features into practical documentation that can live inside the product, in the form of a helper bar and/ or an autonomous website or platform. Cover features, shortcuts, tricks, FAQs and more.
 - Create and maintain other customizable content related to features, such as  instructions for the data explorer, recommended tables, the autocomplete feature, error messages.
 - Participate in our forum by answering challenges presented by users with spreadsheets and formulas you create. Establish yourself as an expert among spreadsheet experts.
 - Prepare and post content for product updates and release notes to be shared with users via different channels. 
@@ -35,7 +35,7 @@ We are hiring a Senior Technical Writer for our office in Berlin, Germany, to he
 - Unlimited vacation policy.
 
 ## How-to
-Send the following information to [us](mailto:join@dashdash.com):
+Send the following information to [us](mailto:join@rows.com):
 1. Complete Linkedin link or CV pdf.
 1. Which position you want to apply to and why.
 1. Email, phone contacts.
