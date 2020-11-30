@@ -1,4 +1,4 @@
-# What is dashdash?
+# What is Rows?
 
 Imagine a spreadsheet grid that enables users to create interactive web apps by calling an API or repeating a job, using the spreadsheet skills they already have - no code needed. This is what we are building. Don’t let the word “spreadsheet” intimidate you - what we are trying to do is to improve the existing user experience of a spreadsheet by creating something unique and easy to use. Plus, we are just starting, meaning you will have freedom to experiment and lots of flexibility on a daily basis.
 
@@ -12,7 +12,7 @@ We’re looking for an awesome Product Designer to join our team in Porto.
 * Envision ways of expanding and applying our brand across the different sections of our product and multiple channels like social media or marketing.
 * Deliver polished interfaces and awesome visual outputs that help us create a next-level experience for our users!
 * Learn from our awesome team of designers, engineers and product owners.
-* Provide and solicite feedback from our team of designers to constantly improve your work and make dashdash even greater.
+* Provide and solicite feedback from our team of designers to constantly improve your work and make Rows even greater.
 
 ## You will be working on:
 * Landing pages and onboarding flows.
@@ -58,7 +58,7 @@ Also, if we call your mom she will say you're a pretty nice person ;)
 * Be part of a great team, have autonomy to give inputs and make things happen! In short: Really impact this Product!
 
 # How-to
-Send the following information to [us](mailto:join@dashdash.com):
+Send the following information to [us](mailto:join@rows.com):
    1. Complete Linkedin link or CV pdf.
    2. Online portfolio or PDF.
    3. Which position you want to apply to and why.
