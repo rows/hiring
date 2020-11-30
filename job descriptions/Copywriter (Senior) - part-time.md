@@ -35,7 +35,7 @@ This position is part-time for 20-25h/ week.
 - Unlimited unpaid vacation policy.
 
 ## How-to
-Send the following information to [us](mailto:join@dashdash.com):
+Send the following information to [us](mailto:join@rows.com):
 1. Complete Linkedin link or CV pdf.
 1. Which position you want to apply to and why.
 1. Email, phone contacts.
