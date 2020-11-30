@@ -33,7 +33,7 @@ Although this is a full-time position, we are open to candidates who would like 
 - Unlimited unpaid vacation policy.
 
 ## How-to
-Send the following information to [us](mailto:join@dashdash.com):
+Send the following information to [us](mailto:join@rows.com):
 1. Complete Linkedin link or CV pdf.
 1. Which position you want to apply to and why.
 1. Email, phone contacts.
