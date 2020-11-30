@@ -11,7 +11,7 @@ Swell.
 For now, we don't. However, we do have a liberal work-from-home policy.
 
 ## What is a "liberal work-from-home policy"?
-At dashdash, we consider facetime super important, and so we want that people sit together as much as possible. At times you may need to stay home for personal reasons, or you may prefer to work from somewhere else. We are cool with that, as long as you are still available for planned meetings! Note that until the end of 2020 we expect to WFH by default due to the rise of covid-19 cases in order to keep our team safe.
+At Rows, we consider facetime super important, and so we want that people sit together as much as possible. At times you may need to stay home for personal reasons, or you may prefer to work from somewhere else. We are cool with that, as long as you are still available for planned meetings! Note that until the end of 2020 we expect to WFH by default due to the rise of covid-19 cases in order to keep our team safe.
 
 ## Do you guys attend conferences and workshops?
 We do. Here's a [list of events](https://github.com/dashdash/community) we go to.
@@ -28,6 +28,6 @@ Yes, we do. All of our Engineers are entitled to be part of the on-call support 
 Of value this on-call time and so engineers receive a fixed amount per on-call week just to be scheduled for on-call, even if no incident happens. If an incident happens during non-working hours, we pay engineers their hourly wage plus an extra amount for the time worked. The extra amount is determined by Portuguese Work law.
 
 ## Do you provide any health insurance?
-Yes, we do in Porto, where all dashdashers are included in our health plan, so they enjoy a premium healthcare service at a low price. Besides, we know how important their family is for them, so we also include spouses and children in our health insurance plan, without any cost. Our plan is the Multicare 3 health plan.
+Yes, we do in Porto, where all Rowers are included in our health plan, so they enjoy a premium healthcare service at a low price. Besides, we know how important their family is for them, so we also include spouses and children in our health insurance plan, without any cost. Our plan is the Multicare 3 health plan.
 
 In Berlin, we provide the 50% employer contribution to social charges which is regular in Germany.
