@@ -20,7 +20,6 @@ Rows raised a $8m series A round led by Accel Partners. We are hiring for our Po
 | --------------- | ------------ | -------- | --------------- |
 |Berlin           | Business     | 1        | [Brand and Community (Head)](/job%20descriptions/Brand%20and%20Community%20(Head)_Berlin.md) **OR** [Community and Social Media Manager](/job%20descriptions/Community%20and%20Social%20Media%20Manager.md) **OR** [Copywriter (Senior) - part-time](/job%20descriptions/Copywriter%20(Senior)%20-%20part-time.md) |
 |Berlin           | Business     | 1        | [Business Development Manager](/job%20descriptions/Business%20Development%20Manager_Berlin.md)       |
-|Berlin           | Finance      | 1        | [Finance Manager](/job%20descriptions/Finance%20Manager_Berlin.md)|
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
