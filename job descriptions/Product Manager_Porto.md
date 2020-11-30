@@ -1,13 +1,13 @@
 # Intro
-Imagine a spreadsheet grid where each cell can also call an API or repeat a job. This is what we are building. Our product lets users create interactive web apps using the spreadsheet skills they already have. You can check us at [dashdash.com](http://dashdash.com).
+Imagine a spreadsheet grid where each cell can also call an API or repeat a job. This is what we are building. Our product lets users create interactive web apps using the spreadsheet skills they already have. You can check us at [rows.com](http://rows.com).
 
 We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/2LnB1r0), [VentureBeat](https://bit.ly/2IGwgHS), [Observador (pt)](https://bit.ly/2rZV0Ar) and many other media!
 
 # Your responsibilities
 Your role is to team up with the engineering manager and designers and make sure we build the best product. You will be managing one of our projects:
-* The dashdash editor, a grid where users manipulate a list of programmable cells that can do computing, including services and automation.
+* The Rows editor, a grid where users manipulate a list of programmable cells that can do computing, including services and automation.
 * Integrations that make data and actions from the best services available to everyone.
-* Self-service features and pages that help users get the maximum value out of dashdash.
+* Self-service features and pages that help users get the maximum value out of Rows.
 
 # About you
 We're looking for people who improve our team! Our ideal buddy is:
@@ -18,7 +18,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 # Requirements
 * At least 3 years of work experience as a Product Manager.
 * At least 5 years of work experience in the tech space, as a PM, engineer, founder, etc. 
-* Very knowledgeable about the dashdash product and our industry.
+* Very knowledgeable about the Rows product and our industry.
 * Proficient in understanding the impact of businesses models in a product.
 * Accomplished in adding clear value to a product.
 * Very experienced in managing technical products. 
@@ -45,7 +45,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Unlimited vacation policy.
 
 # How-to
-Send the following information to [us](mailto:join@dashdash.com):
+Send the following information to [us](mailto:join@rows.com):
    1. Complete Linkedin link or CV pdf.
    2. GitHub and/ or other public repos link.
    3. Which position you want to apply to and why.
