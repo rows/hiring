@@ -11,7 +11,7 @@ Although this is a full-time position, we are open to candidates who would like 
 ## Your responsibilities
 - Lead the development and execution of our business-wide brand, communications and community strategy.
 - Craft our story, create and oversee copy across all public-facing acquisition channels: website, emails, PR, social. 
-- Create a content and social media strategy and execute on it to drive reach and engagement with users and influencers online - especially on Twitter - and offline.
+- Create a content, social media and lifecycle marketing strategy and execute on it to drive reach and engagement with users and influencers online - especially on Twitter - and offline.
 - Create meaningful ways to connect and engage with our user community to drive community engagement, Rows love and WOM.
 - Coach other marketing and product team members in writing content, and provide improvement suggestions to in-product content.
 - Partner with our product, growth and marketing teams to understand our target audience and develop new strategies to reach them.
