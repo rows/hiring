@@ -30,7 +30,7 @@ Although this is a full-time position, we are open to candidates who would like 
 - Experience in social media and lifecycle marketing is a plus.
 
 ## Compensation and Perks
-- Expected Annual Gross Salary: 35.000-50.000€ (part-time)
+- Expected Annual Gross Salary: 45.000-60.000€ (part-time)
 - Employee equity plan.
 - Liberal work-from-home policy.
 - Unlimited unpaid vacation policy.
