@@ -12,6 +12,7 @@ Rows raised a $8m series A round led by Accel Partners. We are hiring for our Po
 |Porto            | FE           | 2        | [FE Engineer](/job%20descriptions/FE%20engineer_Porto.md) **OR** [FE Engineer (senior)](/job%20descriptions/FE%20engineer%20(senior)_Porto.md) |    
 |Porto            | FE_Growth    | 1        | [FE Engineer_Growth (senior)](/job%20descriptions/FE%20engineer%20Growth%20Team%20(senior)_Porto.md)|
 |Porto            | BE           | 1        | [BE Engineer (senior)](/job%20descriptions/BE%20engineer%20(senior)_Porto.md) |
+|Porto            | PM           | 1        | [Product Manager](/job%20descriptions/Product%20Manager_Porto.md)|
 
 
 ### Open positions for our office in Berlin, Germany:
