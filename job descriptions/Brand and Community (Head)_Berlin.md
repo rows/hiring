@@ -27,7 +27,7 @@ Although this is a full-time position, we are open to candidates who would like 
 - You have an excellent command of the English language. 
 
 ## Compensation and Perks
-- Expected Annual Gross Salary: 80.000-110.000€
+- Expected Annual Gross Salary: 70.000-110.000€
 - Employee equity plan.
 - Liberal work-from-home policy.
 - Unlimited unpaid vacation policy.
