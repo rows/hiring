@@ -18,7 +18,7 @@ We are hiring a Community Builder for our office in Berlin, Germany, to help us 
 
 ## About you
 - You have 3 or more years of experience in a community building, sales, or business development role. 
-- You are love spreadsheets and are a pro, or you can become one in no time.
+- You love spreadsheets and are a pro, or you can become one in no time.
 - You love building relationships with people. 
 - You are active in communities, ideally incl. on Twitter.
 - Experience in productivity software and bottoms up SaaS is a plus.
