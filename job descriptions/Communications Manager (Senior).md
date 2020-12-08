@@ -8,17 +8,17 @@ Coding used to be hard. Rows changes that. We want you to create interactive web
 
 Disney's Ratatouille captures the essence of innovation, empowerment and entrepreneurship that we want to convey to business people around the world who dare to go beyond the expected. If you can help us turn this essence into our story of empowerment through spreadsheets, this is for you. 
 
-We are hiring a Senior Copywriter for our office in Berlin, Germany, to help us excel at telling our story to the world. As the person that will lead our efforts on brand and copy, this is an opportunity to shape a brand from the ground up. If you can help us with any of communications and PR and/ or social media and lifecycle marketing, too, that is a plus. This is a hands-on role, and you should be prepared to execute in these areas. 
+We are hiring a Senior Communications Manager for our office in Berlin, Germany, to help us excel at telling our story to the world. As the person that will lead our efforts on storytelling and copy, this is an opportunity to shape a brand from the ground up. If you can help us with any of PR and/ or social media and lifecycle marketing, too, that is a big plus. This is a hands-on role, and you should be prepared to execute in these areas. 
 Although this is a full-time position, we are open to candidates who would like to work at least 25h/ week. 
 
 ## Your responsibilities
-- Lead the development and execution of our business-wide brand, communications and community strategy.
-- Craft our story, create and oversee copy across all public-facing acquisition channels: website, emails, PR, social. 
+- Lead the development and execution of our business-wide storytelling, communications and social media strategy.
+- Craft our story, create and oversee copy across all public-facing acquisition channels: website, emails, PR, social, in-product, templates, knowledge base. 
+- Build and maintain strong relations with key media with all media outlets including business, tech, trade press, podcasts and more (focus on digital outlets in the US and in Europe) to drive positive coverage, incl. for paid traffic on select outlets.
+- Write content for (and possible execute) social media or lifecycle marketing campaigns.
 - Create a content strategy to drive reach and engagement with users and influencers online and offline.
 - Coach other marketing and product team members in writing content, and provide improvement suggestions to in-product content.
 - Partner with our product, growth and marketing teams to understand our target audience and develop new strategies to reach them.
-- Build and maintain strong relations with key media with all media outlets including business, tech, trade press, podcasts and more (focus on digital outlets in the US and in Europe) to drive positive coverage, incl. for paid traffic on select outlets.
-- Write content for (and possible execute) social media or lifecycle marketing campaigns.
 - Define and track key performance indicators for channels and campaigns.
 
 ## About you
@@ -30,7 +30,7 @@ Although this is a full-time position, we are open to candidates who would like 
 - Experience in social media and lifecycle marketing is a plus.
 
 ## Compensation and Perks
-- Expected Annual Gross Salary: 45.000-60.000€ (part-time)
+- Expected Annual Gross Salary: 45.000-60.000€
 - Employee equity plan.
 - Liberal work-from-home policy.
 - Unlimited unpaid vacation policy.
