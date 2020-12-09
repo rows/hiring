@@ -44,10 +44,10 @@ We're looking for people who improve our team! Our ideal buddy is:
 * GitHub (Open source and internal repos).
 
 # Compensation and Perks
-* Expected Annual Gross Salary Range: 48.300-62.200€.
+* Expected Annual Gross Salary Range (Porto-based, Portugal): 48.300-62.200€.
+* Expected Annual Gross Salary Range (Berlin-based, Germany): 62.000-80.000€.
 * Employee equity plan.
 * Health Insurance for you and your family.
-* Plenty of coffee and frequent ice-cream - when at the office :)
 * Liberal work-from-home policy.
 * Unlimited vacation policy.
 
