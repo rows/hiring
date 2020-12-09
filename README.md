@@ -10,7 +10,6 @@ Rows raised a $8m series A round led by Accel Partners. We are hiring for our Po
 | --------------- | ------------ | -------- | --------------- |
 |Porto            | QAE          | 1        | [QA Engineer](/job%20descriptions/QA%20Engineer.md) |
 |Porto            | FE           | 2        | [FE Engineer](/job%20descriptions/FE%20engineer_Porto.md) **OR** [FE Engineer (senior)](/job%20descriptions/FE%20engineer%20(senior)_Porto.md) |    
-|Porto            | FE_Growth    | 1        | [FE Engineer_Growth (senior)](/job%20descriptions/FE%20engineer%20Growth%20Team%20(senior)_Porto.md)|
 |Porto            | BE           | 1        | [BE Engineer (senior)](/job%20descriptions/BE%20engineer%20(senior)_Porto.md) |
 |Porto            | PM           | 1        | [Product Manager](/job%20descriptions/Product%20Manager_Porto.md)|
 
@@ -21,6 +20,12 @@ Rows raised a $8m series A round led by Accel Partners. We are hiring for our Po
 | --------------- | ------------ | -------- | --------------- |
 |Berlin           | Business     | 1        | [Brand and Community (Head)](/job%20descriptions/Brand%20and%20Community%20(Head)_Berlin.md) **OR** [Communications Manager (Senior)](/job%20descriptions/Communications%20Manager%20(Senior).md) |
 |Berlin           | Business     | 1        | [Community Builder](/job%20descriptions/Community%20Builder_Berlin.md) **OR** [Customer Success Manager](/job%20descriptions/Customer%20Success%20Manager_Berlin.md)      |
+
+### Open positions for both our offices - Berlin, Germany or Porto, Portugal:
+
+| Location        | Area         | Openings | Position and link to Job Description |
+| --------------- | ------------ | -------- | ------------------------------------ |
+|Berlin or Porto  | FE_Growth    | 1        | [FE Engineer_Growth (senior)](/job%20descriptions/FE%20engineer%20Growth%20Team%20(senior)_Porto.md)|
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
