@@ -16,7 +16,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Focused on quality and usability. We hate alarms going off and features that are half-baked as much as you do. Come build a polished product with us!
 
 # Requirements
-* At least 3 years of work experience as a software engineer.|
+* At least 3 years of work experience as a software engineer.
 * Fluent in design patterns and other Computer Science fundamentals.
 * Have the knoledge and motivation to build a mobile/desktop apps using Swift.
 * Have the will to try and experiemnt new and different technologies
@@ -25,9 +25,9 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Able communicator in English. Portuguese is optional but welcome.
 
 # Nice to have
-* Flutter
+* Flutter.
 * WebSockets (GraphQL over websockets).
-* GraphQL
+* GraphQL.
 * GitHub (Open source and internal repos).
 
 # Compensation and Perks
