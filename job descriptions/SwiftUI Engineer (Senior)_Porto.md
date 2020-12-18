@@ -19,8 +19,8 @@ We're looking for people who improve our team! Our ideal buddy is:
 * At least 3 years of work experience as a software engineer.
 * Fluent in design patterns and other Computer Science fundamentals.
 * Have the knoledge and motivation to build a mobile/desktop apps using Swift.
-* Have the will to try and experiemnt new and different technologies
-* Experience with SwiftUI or other declarative UI frameworks
+* Have the will to try and experiemnt new and different technologies.
+* Experience with SwiftUI or other declarative UI frameworks.
 * Experienced in tests (writing unit tests, end-to-end tests).
 * Able communicator in English. Portuguese is optional but welcome.
 
