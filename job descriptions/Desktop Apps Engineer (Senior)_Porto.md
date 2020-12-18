@@ -5,9 +5,9 @@ We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/2
 
 # Your responsibilities
 Your role is to team up with our engineers and help to kickstart and build our desktop app. You will be working on:
-* A brand new desktop spredsheet app.
-* An account dashboard where users manage apps and settings.
-* The editor where users manipulate a list of programmable cells that can do computing, including services and automation.
+* A brand new Desktop App for our spreadsheet. Our core focus will be to deliver an App for macOS, but we have plans for Windows (and Linux) too.
+* Within the App, part of the work is in the account Dashboard where users manage apps and settings.
+* The other part of your work is in the editor where users manipulate a list of programmable cells that can do computing, including services and automation.
 
 # About you
 We're looking for people who improve our team! Our ideal buddy is:
@@ -18,9 +18,9 @@ We're looking for people who improve our team! Our ideal buddy is:
 # Requirements
 * At least 3 years of work experience as a software engineer.
 * Fluent in design patterns and other Computer Science fundamentals.
-* Have the knoledge and motivation to build a mobile/desktop apps using Swift.
-* Have the will to try and experiemnt new and different technologies.
-* Experience with SwiftUI or other declarative UI frameworks.
+* Experienced in building mobile/desktop apps using Swift.
+* Experienced with SwiftUI or other declarative UI frameworks.
+* Motivated to test and adopt new technologies.
 * Experienced in tests (writing unit tests, end-to-end tests).
 * Able communicator in English. Portuguese is optional but welcome.
 
