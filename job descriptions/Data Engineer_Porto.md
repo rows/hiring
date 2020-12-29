@@ -33,10 +33,11 @@ You are autonomous. You are expected to create your own workplace and deliverabl
 * Experienced in product management within a SaaS company.
 * Experienced in the reality of services and APIs.
 * Experienced in product analytics.
+* Experienced in our data stack (Google Bigquery, Stitch, DBT, Segment) 
 * Proficient in written and Visual communication.
 
 # Compensation and Perks
-* Expected Annual Gross Salary Range: 31.300-40.100€.
+* Expected Annual Gross Salary Range: 44.900-57.000€.
 * Employee equity plan.
 * Health Insurance for you and your family.
 * Plenty of coffee and frequent ice-cream.
