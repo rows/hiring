@@ -37,7 +37,8 @@ You are autonomous. You are expected to create your own workplace and deliverabl
 * Proficient in written and Visual communication.
 
 # Compensation and Perks
-* Expected Annual Gross Salary Range: 44.900-57.000€.
+* Expected Annual Gross Salary Range (Porto-based, Portugal): 44.900-57.000€.
+* Expected Annual Gross Salary Range (Berlin-based, Germany): 58.200-74.000€.
 * Employee equity plan.
 * Health Insurance for you and your family.
 * Plenty of coffee and frequent ice-cream.
