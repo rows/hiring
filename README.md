@@ -27,6 +27,7 @@ Rows raised a $8m series A round led by Accel Partners. We are hiring for our Po
 | Location        | Area         | Openings | Position and link to Job Description |
 | --------------- | ------------ | -------- | ------------------------------------ |
 |Berlin or Porto  | FE_Growth    | 1        | [FE Engineer_Growth (senior)](/job%20descriptions/FE%20engineer%20Growth%20Team%20(senior)_Berlin%20or%20Porto.md)|
+|Berlin or Porto  | Growth    | 1        | [Data Engineer](/job%20descriptions/Data%20Engineer.md)|
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
