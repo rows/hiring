@@ -15,18 +15,18 @@ Although this is a full-time position, we are open to candidates who would like 
 - Lead the development and execution of our business-wide storytelling, communications and social media strategy.
 - Craft our story, create and oversee copy across all public-facing acquisition channels: website, emails, PR, social, in-product, templates, knowledge base. 
 - Build and maintain strong relations with key media with all media outlets including business, tech, trade press, podcasts and more (focus on digital outlets in the US and in Europe) to drive positive coverage, incl. for paid traffic on select outlets.
-- Write content for (and possible execute) social media or lifecycle marketing campaigns.
+- Write content for (and possibly execute on) social media and lifecycle marketing campaigns.
 - Create a content strategy to drive reach and engagement with users and influencers online and offline.
 - Coach other marketing and product team members in writing content, and provide improvement suggestions to in-product content.
 - Partner with our product, growth and marketing teams to understand our target audience and develop new strategies to reach them.
 - Define and track key performance indicators for channels and campaigns.
 
 ## About you
-- You have 5 or more years of experience in a similar role. 
+- You have 5 or more years of experience in a similar role.
+- You love to write and are passionate about high-quality copy.
 - You love productivity software & spreadsheets.
 - You are hands-on and like to get your hands dirty.
 - You have an excellent command of the English language. 
-- Experience in communications and PR is a plus.
 - Experience in social media and lifecycle marketing is a plus.
 
 ## Compensation and Perks
