@@ -8,7 +8,6 @@ Rows raised a $8m series A round led by Accel Partners. We are hiring for our Po
 
 | Location        | Area         | Openings | Position and link to Job Description |
 | --------------- | ------------ | -------- | --------------- |
-|Porto            | QAE          | 1        | [QA Engineer](/job%20descriptions/QA%20Engineer.md) |
 |Porto            | FE           | 2        | [FE Engineer](/job%20descriptions/FE%20engineer_Porto.md) **OR** [FE Engineer (senior)](/job%20descriptions/FE%20engineer%20(senior)_Porto.md) |    
 |Porto            | BE           | 1        | [BE Engineer (senior)](/job%20descriptions/BE%20engineer%20(senior)_Porto.md) |
 |Porto            | Desktop Apps | 1        | [Desktop Apps Engineer](/job%20descriptions/Desktop-Apps-Engineer-(Senior)_Porto.md)
