@@ -8,6 +8,7 @@ Your mission is to improve decision making in the whole organization:
 * To understand the performance indicators of the business as a whole and of the drivers behind our state.
 * To uncover optimization potential, analyzing rich metrics from our product and making opportunities and blockers evident.
 * To structure the journey of the user and the value drivers behind engagement (loyalty), revenue, cost.
+* Build, mantain and optimize the data analytics infrastructure.
 
 # About you
 We're looking for people who improve our team! Our ideal buddy is:
