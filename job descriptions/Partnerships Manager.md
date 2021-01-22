@@ -9,7 +9,7 @@ We are hiring a Partnerships Manager for our office in Berlin (Germany) or Porto
 
 # Your responsibilities
 * Devise, implement and own the success of new customer acquisition channels for a particular user persona or for all.
-* Grow our user community through sales and the development of partnerships, e.g. with third-party communities, consulting firms, educational institutions, company builders, and companies representing co-marketing opportunities for Rows.
+* Grow our user community through sales and the development of partnerships, e.g. with third-party communities, consulting firms, educational institutions, company builders, tech newsletters/podcasts, and companies representing co-marketing opportunities for Rows.
 * Analyze acquisition funnels, cohorts and measure the success of our GTM strategy in user acquisition, retention, engagement and monetization.
 * Experiment with different partner types, channels and models to build a successful partnership model.
 * Manage relationships, plan and execute on co-marketing opportunities with different partners, incl. building Rows templates with them.
