@@ -19,10 +19,11 @@ We're looking for people who improve our team! Our ideal buddy is:
 You are autonomous. You are expected to create your own workplace and deliverables and work directly with the senior Business and Product teams on goals and objectives.
 
 # Requirements
-* At least 3 years of work experience as a Data Engineer, Data Scientist or Data Analyst.
+* At least 3 years of work experience as an Analytics Engineer, Data Engineer, Data Analyst or Data Scientist.
 * At least 3 years of work experience in the tech space.
 * Very knowledgeable about the Rows product and our industry.
 * Accomplished in adding clear value to a product in past positions.
+* Proficient in data analytics
 * Proficient in setting up a data warehousing solution.
 * Proficient in ETL design, implementation and maintenance.
 * Proficient in scripting languages (Python, R), data modeling, data statements (SQL).
