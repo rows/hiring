@@ -33,3 +33,18 @@ We are hiring a Partnerships Manager for our office in Berlin (Germany) or Porto
 * Experienced in the reality of services and APIs.
 * Experienced in writing content in the context of B2B SaaS.
 * Deep understating of bottoms-up SaaS models.
+
+
+## Compensation and Perks
+- Expected Annual Gross Salary: To be discussed during the interview process.
+- Employee equity plan.
+- Liberal work-from-home policy.
+- Unlimited unpaid vacation policy.
+
+## How-to
+Send the following information to [us](mailto:join@rows.com):
+1. Complete Linkedin link or CV pdf.
+1. Which position you want to apply to and why.
+1. Email, phone contacts.
+1. Also send three (3x) 1-hour slots of availability in the next 3-5 days.
+1. A product exercise will be part of this interview process.
