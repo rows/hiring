@@ -13,11 +13,9 @@ As a Product Manager, your role is to team up with a Engineering manager and Pro
 * Team F1: Functions & Integrations. Build computation components that solve challenges for business users.
 * Team G1: Growth. Build the engine that acquires, converts and activates users.
 
-```
-Currently, we are looking for Product Managers who will be a fit for our teams A1, D1 or/ and F1. 
-It is possible to move between teams.
-For team F1 (functions and integrations!) we are especially interested in people who have product skills but also want to attack the business side. You will be finding potential data partners, making financials work, even proposing ways to build data ourselves.
-```
+>>> Currently, we are looking for Product Managers who will be a fit for our teams A1, D1 or/ and F1. 
+>>> It is possible to move between teams.
+>>> For team F1 (functions and integrations!) we are especially interested in people who have product skills but also want to attack the business side. You will be finding potential data partners, making financials work, even proposing ways to build data ourselves.
 
 The main tasks of the Product Manager at Rows are:
 * To make sure there's a story for each team. Who are we serving, what do they need, how do we plan to get there. This includes organizing a roadmap for the quarter and the future, but also other strategic documents (we love being pitched crazy ideas!). For this, you will talk to people accross teams, users, check data and organize that into challenges. You will decide the priorities of the roadmap together with your team. You will ensure that each challenge (each roadmap item) is described in a clear manner. What are we really trying to achieve? Why?
