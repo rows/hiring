@@ -17,9 +17,9 @@ As a Product Manager, your role is to team up with a Engineering manager and Pro
 * For team F1 (functions and integrations!) we are especially interested in people who have product skills but also want to attack the business side. You will be finding potential data partners, making financials work, even proposing ways to build data ourselves.
 
 The main tasks of the Product Manager at Rows are:
-* To make sure there's a story for each team. Who are we serving, what do they need, how do we plan to get there. This includes organizing a roadmap (quarter and future), among other strategic thing. For this, you will talk to people accross teams, users, check data. You will decide the priorities of the roadmap together with your team. You will ensure that each challenge (roadmap items) is described in a clear manner. What are we trying to achieve? Why?
-* To be the contact point for the team, both for the inside and outside. You will write a weekly update and be involved in cross team product discussions.
-* To be the driving force for problem solving and implementation decisions. At each point, you should know your the team is aligned - and if it is, document it; if the team hasn't reached a conclusion yet, catalyze one by involving others (designers, users) and giving them the space to impress.
+* To make sure there's a story for each team. Who are we serving, what do they need, how do we plan to get there. This includes organizing a roadmap for the quarter and the future, but also other strategic documents (we love being pitched crazy ideas!). For this, you will talk to people accross teams, users, check data and organize that into challenges. You will decide the priorities of the roadmap together with your team. You will ensure that each challenge (each roadmap item) is described in a clear manner. What are we really trying to achieve? Why?
+* To be the contact point for the team, both for the inside and outside. You will write a short weekly update and be involved in cross team product discussions.
+* To be the driving force for problem solving and implementation decisions. At each point, you should know how clarity there is on each to-do - if there's clarity, document it; if the team hasn't reached a conclusion yet, catalyze one by involving others (designers, users). As one of the key deciders, you will be super happy when giving your team colleagues (designers, engineers) the space to explore and impress.
 
 # About you
 We're looking for people who improve our team! Our ideal buddy is:
