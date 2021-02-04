@@ -17,7 +17,6 @@ Rows raised a $8m series A round led by Accel Partners. We are hiring for our Po
 
 | Location        | Area         | Openings | Position and link to Job Description |
 | --------------- | ------------ | -------- | --------------- |
-|Berlin           | Business     | 1        | [Community Builder](/job%20descriptions/Community%20Builder_Berlin.md)|
 |Berlin           | Business     | 1        | [Customer Success Manager](/job%20descriptions/Customer%20Success%20Manager_Berlin.md)      |
 
 ### Open positions for both our offices - Berlin, Germany or Porto, Portugal:
