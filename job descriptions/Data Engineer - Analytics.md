@@ -43,7 +43,7 @@ You are autonomous. You are expected to create your own workplace and deliverabl
 * Expected Annual Gross Salary Range (Berlin-based, Germany): 58.200-74.000€.
 * Employee equity plan.
 * Health Insurance for you and your family.
-* Plenty of coffee and frequent ice-cream.
+* Plenty of coffee and frequent ice-cream when at the office.
 * Liberal work-from-home policy.
 * Unlimited vacation policy.
 
