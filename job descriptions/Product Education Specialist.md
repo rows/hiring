@@ -6,7 +6,7 @@ Coding used to be hard. Rows changes that. We want you to create interactive web
 
 # Your role
 
-We are hiring a Product Education Specialist for our office in Berlin (Germany) or Porto (Portugal). Your mission is to make Rows’s product accessible and easy to use and to empower users to learn effectively by creating a clear and compelling in-product and off-product content experience. This includes building and maintaining a great spreadsheet template gallery that our users love and a world-class knowledge base. 
+We are hiring a Product Education Specialist for our office in Berlin (Germany). Your mission is to make Rows’s product accessible and easy to use and to empower users to learn effectively by creating a clear and compelling in-product and off-product content experience. This includes building and maintaining a great spreadsheet template gallery that our users love and a world-class knowledge base. 
 If you are ambitious and are excited about building the education strategy that will introduce millions of users to the new default spreadsheet in the world, this role is for you. 
 
 # Your responsibilities
