@@ -5,22 +5,18 @@ We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/2
 
 # Your responsibilities
 
-As a Product Manager, your role is to team up with a Engineering manager and Product Designer and make sure we build the best product. You will be in charge of product in one (or more) of our teams:
-* Team A1: Apps. Building the best Desktop App for spreadsheets.
-* Team C1: Computing. Building the most performant and reliable computing engine.
-* Team D1: Dashboard. Build the Home for spreadsheets, and teams workspaces, settings and subscription Billing.
-* Team E1: Editor & Live Spreadsheet. Make Rows THE place to create and share spreadsheets.
-* Team F1: Functions & Integrations. Build computation components that solve challenges for business users.
-* Team G1: Growth. Build the engine that acquires, converts and activates users.
+As a Product Manager, your role is to team up with a Engineering manager and Product Designer and make sure we build the best product. You will be in charge of product in one or more of our [teams](../Teams.md).
 
-> Currently, we are looking for Product Managers who will be a fit for our teams A1, D1 or/ and F1. 
-> It is possible to move between teams.
-> For team F1 (functions and integrations!) we are especially interested in people who have product skills but also want to attack the business side. You will be finding potential data partners, making financials work, even proposing ways to build data ourselves.
+Current positions
+* We are looking for Product Managers who will be a fit for our teams A1, D1 or/ and F1. 
+    * See what each Team does [here](../Teams.md.
+    * For team F1 (functions and integrations) we are especially interested in product candidates that also want to attack the business side. You will be finding potential data partners, making deals with providers, including proposing ways to build data ourselves.
+* Note: It is possible to move between teams. 
 
 The main tasks of the Product Manager at Rows are:
-* To make sure there's a story for each team. Who are we serving, what do they need, how do we plan to get there. This includes organizing a roadmap for the quarter and the future, but also other strategic documents (we love being pitched crazy ideas!). For this, you will talk to people accross teams, users, check data and organize that into challenges. You will decide the priorities of the roadmap together with your team. You will ensure that each challenge (each roadmap item) is described in a clear manner. What are we really trying to achieve? Why?
-* To be the contact point for the team, both for the inside and outside. You will write a short weekly update and be involved in cross team product discussions.
-* To be the driving force for problem solving and implementation decisions. At each point, you should know how clarity there is on each to-do - if there's clarity, document it; if the team hasn't reached a conclusion yet, catalyze one by involving others (designers, users). As one of the key deciders, you will be super happy when giving your team colleagues (designers, engineers) the space to explore and impress.
+* To write the story for each team. Who are we serving, what do they need, how do we plan to get there. This includes organizing a roadmap for the quarter and the future, but also other strategic documents (we love bold ideas!). For this, you will talk to people accross teams, users, check data and organize that into challenges. You will decide the priorities of the roadmap *together* with your team. You will ensure that each challenge (each roadmap item) is described in a clear manner. What are we really trying to achieve? Why?
+* To be the contact point for the team, inside and outside the company. You will write a short weekly update and be involved in cross team product discussions. You will talk with users and create your opinions.
+* To be the driving force for problem solving and implementation decisions. You will express how much clarity there is on each to-do - if there's clarity, document it; if the team hasn't reached a conclusion yet, catalyze one by involving others (designers, users). As one of the key deciders, you will empower team colleagues (designers, engineers) by giving them the space to explore and impress, to decide scope, etc.
 
 # About you
 We're looking for people who improve our team! Our ideal buddy is:
