@@ -28,6 +28,7 @@ Rows raised a $8m series A round led by Accel Partners. We are hiring for our Po
 | --------------- | ------------ | -------- | ------------------------------------ |
 |Berlin or Porto  | Growth       | 1        | [Data Engineer - Analytics](/job%20descriptions/Data%20Engineer%20-%20Analytics.md)|
 |Berlin or Porto  | Growth       | 1        | [Partnerships Manager](https://github.com/dashdash/hiring/blob/master/job%20descriptions/Partnerships%20Manager.md)
+|Berlin or Porto  | Growth       | 1        | [FE Engineer Growth](https://github.com/dashdash/hiring/blob/master/job%20descriptions/FE%20engineer%20Growth%20Team%20(senior)_Berlin%20or%20Porto.md)
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
