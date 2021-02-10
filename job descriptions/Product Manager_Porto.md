@@ -7,9 +7,9 @@ We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/2
 
 As a Product Manager, your role is to team up with a Engineering manager and Product Designer and make sure we build the best product. You will be in charge of product in one or more of our [teams](../Teams.md).
 
-Current positions
+### Current positions
 * We are looking for Product Managers who will be a fit for our teams A1, D1 or/ and F1. 
-    * See what each Team does [here](../Teams.md.
+    * See what each Team does [here](../Teams.md).
     * For team F1 (functions and integrations) we are especially interested in product candidates that also want to attack the business side. You will be finding potential data partners, making deals with providers, including proposing ways to build data ourselves.
 * Note: It is possible to move between teams. 
 
