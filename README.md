@@ -33,5 +33,7 @@ Rows raised a $8m series A round led by Accel Partners. We are hiring for our Po
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
 
+Check our Organization structure [here](/Teams.md).
+
 Share with your pro friends!  
 Send any questions, comments or apply to our positions [here](mailto:join@rows.com).
