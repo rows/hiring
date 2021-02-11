@@ -1,5 +1,7 @@
 
-These are our teams!
+The Rows organization is divided in teams (we call them Cells!).
+
+Teams have a mission - a driving goal that provides clarity over the long term. 
 
 | Team  | Focus                     | Mission                                                                | Locations             |
 |:------|:--------------------------|:-----------------------------------------------------------------------|:----------------------|
