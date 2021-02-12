@@ -9,6 +9,12 @@ Your role is to team up with our engineers and build our single-page app. You wi
 * the editor where users manipulate a list of programmable cells that can do computing, including services and automation.
 * additional pages and features where we help users learn and extract the maximum value out of our core functionality and available integrations.
 
+### Current open positions
+* We are looking for frontend engineers who will be a fit for our teams D1, E1 or/ and F1. 
+    * See what each Team does [here](../Teams.md).
+    * For these teams, we really need your help to improve our web application with new features and performance improvements. We are on a path to build the best tool on the market. This way, you will have the chance to actively suggest new improvements, new features and/or new ways we do things. 
+* Note: It is possible to move between teams. 
+
 # About you
 We're looking for people who improve our team! Our ideal buddy is:
 * Motivated to solve complex challenges. We are building a platform that provides General Purpose Computing to the masses; this requires cooking up new solutions that handle millions of calculations.
