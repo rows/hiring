@@ -12,7 +12,7 @@ Your role is to team up with our engineers and build our single-page app. You wi
 ### Current open positions
 * We are looking for frontend engineers who will be a fit for our teams D1, E1 or/ and F1. 
     * See what each Team does [here](../Teams.md).
-    * For these teams, we really need your help to improve our web application with new features and performance improvements. We are on a path to build the best tool on the market. This way, you will have the chance to actively suggest new improvements, new features and/or new ways we do things. 
+    * For these teams, we need your help to improve our web application with new features and performance improvements. We are on a path to build the best tool on the market. This way, you will have the chance to actively suggest new improvements, new features and/or new ways we do things. 
 * Note: It is possible to move between teams. 
 
 # About you
