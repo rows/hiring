@@ -9,6 +9,12 @@ Your role is to team up with our engineers and help to kickstart and build our d
 * Within the App, part of the work is in the account Dashboard where users manage apps and settings.
 * The other part of your work is in the editor where users manipulate a list of programmable cells that can do computing, including services and automation.
 
+### Current open positions
+* We are looking for desktop application engineers who will be a fit for our team A1. 
+    * See what each Team does [here](../Teams.md).
+    * Team A1 is the most recently created team. Their responsibility is to build the most beautiful, incredibly, fast and awesome desktop application for our dear users. On this team, you will have the chance to contribute with your knowledge on creating not also the new application but to create the development process, pipelines and other technical challenges needed to create this new application.
+* Note: It is possible to move between teams. 
+
 # About you
 We're looking for people who improve our team! Our ideal buddy is:
 * Motivated to solve complex challenges. We are building a platform that provides General Purpose Computing to the masses; this requires cooking up new solutions that handle millions of calculations.
