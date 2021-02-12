@@ -22,7 +22,7 @@ If you are ambitious and are excited about building the education strategy that 
 * Give strategic input to Founders and the Product team including business opportunities, market focus, product roadmap, hiring, etc.
 
 
-# Your responsibilities
+# About you
 
 * You have 3-5 years of experience writing documentation that helps non-technical end-users navigate technical products and situations - experience in software companies preferred. 
 * You are an educator at heart. You are passionate about teaching and driven to help people accomplish something easily without barriers.
@@ -31,6 +31,17 @@ If you are ambitious and are excited about building the education strategy that 
 * You have exceptional writing and visual communication skills, and excel at creating well-structured and clear content in text and video. 
 * You abhor typos and value elegance as key drivers of a professional brand and user delight.
 * You are very knowledgeable about Rows’s product and our industry.
+
+
+# Nice to have
+
+* Proficient in design software (creating great GIFs and videos).
+* Proficient in data analysis (SQL).
+* Experience working in platform marketing within a SaaS company.
+* Experienced in the reality of services and APIs.
+* Experienced in writing content in the context of B2B SaaS.
+* Deep understating of bottoms-up SaaS models.
+
 
 ## Compensation and Perks
 - Expected Annual Gross Salary: To be discussed during the interview process.
