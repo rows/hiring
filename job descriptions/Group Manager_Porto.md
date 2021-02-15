@@ -1,0 +1,51 @@
+# Intro
+Imagine a spreadsheet grid where each cell can also call an API or repeat a job. This is what we are building. Our product lets users create interactive web apps using the spreadsheet skills they already have. You can check us at [rows.com](http://rows.com).
+
+We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/2LnB1r0), [VentureBeat](https://bit.ly/2IGwgHS), [Observador (pt)](https://bit.ly/2rZV0Ar) and many other media!
+
+# Your responsibilities
+
+As a Group Manager, you will lead a group of teams and make sure they have what they need to succeed. Check out our teams [here](../Teams.md).
+
+The main tasks of the Group Manager at Rows are:
+* Hire and manage team leaders: Product Managers, Engineering Managers and Product Designers. 
+* Lead your teams pursuit of objectives (roadmaps), from creation to delivery. Motivate them, assess progress against stated challenges, and clarify roadblocks.
+* Manage information flow from and to teams. Expose teams to business, management, users and experts.
+
+### Current open positions
+* We are looking for Group Managers who will be a fit for our teams A1, D1 and E1. 
+    * See what each Team does [here](../Teams.md).
+
+# About you
+
+We're looking for people who improve our team! Our ideal buddy is:
+* Bold. We are building a platform that provides General Purpose Computing to the masses; this requires cooking up new solutions that handle millions of calculations.
+* Focused. Most of our challenges require require a lot of concentration, being decisive, and the will to pursue quality outcomes.
+* Giver. We like to share. Information, our office, our tools.
+
+# Requirements
+* At least 5 years of managing teams.
+* At least 3 years in the tech space, SaaS preferable. 
+* Knowledgeable about spreadsheets and our industry.
+* Accomplished in adding clear value to a business.
+* Very experienced in motivating, hiring & managing exceptional people. 
+* Proficient in spreadsheets. 
+* Experienced in project management, especially within tech.
+* Proficient in managing stakeholders and information.
+* Knowledgeable about what makes a magic product experience.
+
+# Compensation and Perks
+* Expected Annual Gross Salary Range: TBD.
+* Employee equity plan.
+* Health Insurance for you and your family.
+* Plenty of coffee and frequent ice-cream.
+* Liberal work-from-home policy.
+* Unlimited vacation policy.
+
+# How-to
+Send the following information to [us](mailto:join@rows.com):
+   1. Complete Linkedin link or CV pdf.
+   2. GitHub and/ or other public repos link.
+   3. Which position you want to apply to and why.
+   4. Email, phone contacts.
+   5. Also send three (3x) 1-hour slots of availability in the next 3-5 days.
