@@ -16,14 +16,8 @@ The main tasks of the Group Manager at Rows are:
 * We are looking for Group Managers who will be a fit for our teams A1, D1 and E1. 
     * See what each Team does [here](../Teams.md).
 
-# About you
-
-We're looking for people who improve our team! Our ideal buddy is:
-* Bold. We are building a platform that provides General Purpose Computing to the masses; this requires cooking up new solutions that handle millions of calculations.
-* Focused. Most of our challenges require require a lot of concentration, being decisive, and the will to pursue high-quality outcomes.
-* Giver. We like to share. Information, our office, our tools.
-
 # Requirements
+
 * At least 5 years of managing teams.
 * At least 3 years in the tech space, SaaS preferable. 
 * Knowledgeable about spreadsheets and our industry.
@@ -34,7 +28,15 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Proficient in managing stakeholders and information.
 * Knowledgeable about what makes a magic product experience.
 
+# About you
+
+We're looking for people who improve our team! Our ideal buddy aligns with our values and is:
+* Bold. We are building a platform that provides General Purpose Computing to the masses; this requires cooking up new solutions that handle millions of calculations.
+* Focused. Most of our challenges require require a lot of concentration, being decisive, and the will to pursue high-quality outcomes.
+* A giver. We like to share. Information, our office, our tools.
+
 # Compensation and Perks
+
 * Expected Annual Gross Salary Range: TBD.
 * Employee equity plan.
 * Health Insurance for you and your family.
@@ -43,6 +45,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Unlimited vacation policy.
 
 # How-to
+
 Send the following information to [us](mailto:join@rows.com):
    1. Complete Linkedin link or CV pdf.
    2. GitHub and/ or other public repos link.
