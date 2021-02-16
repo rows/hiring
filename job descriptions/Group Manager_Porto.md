@@ -20,7 +20,7 @@ The main tasks of the Group Manager at Rows are:
 
 We're looking for people who improve our team! Our ideal buddy is:
 * Bold. We are building a platform that provides General Purpose Computing to the masses; this requires cooking up new solutions that handle millions of calculations.
-* Focused. Most of our challenges require require a lot of concentration, being decisive, and the will to pursue quality outcomes.
+* Focused. Most of our challenges require require a lot of concentration, being decisive, and the will to pursue high-quality outcomes.
 * Giver. We like to share. Information, our office, our tools.
 
 # Requirements
