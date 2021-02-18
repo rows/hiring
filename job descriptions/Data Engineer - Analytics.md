@@ -4,7 +4,7 @@ Imagine a spreadsheet grid where each cell can also call an API or repeat a job.
 We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/2LnB1r0), [VentureBeat](https://bit.ly/2IGwgHS), [Observador (pt)](https://bit.ly/2rZV0Ar) and many other media!
 
 # Your responsibilities
-Your mission is to improve decision making in the whole organization:
+As part of our Growth team, your mission is to improve decision making in the whole organization:
 * To understand the performance indicators of the business as a whole and of the drivers behind our state.
 * To uncover optimization potential, analyzing rich metrics from our product and making opportunities and blockers evident.
 * To structure the journey of the user and the value drivers behind engagement (loyalty), revenue, cost.
