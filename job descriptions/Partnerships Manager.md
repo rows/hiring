@@ -5,7 +5,7 @@ Coding used to be hard. Rows changes that. We want you to create interactive web
 [Rows](https://rows.com/), formerly dashdash, is a well-funded startup with top investors like Accel and Cherry Ventures. We are a team of 50 who want to empower business people to take their life into their own hands again and build the tools they need for their jobs themselves. We have offices in Berlin - a business team of 5 - and Porto - a tech team of 45. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/dashdash), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/).
 
 # Your role
-We are hiring a Partnerships Manager for our office in Berlin (Germany) or Porto (Portugal). Your mission is to grow our user and customer base. If you are ambitious and want to help us build the flywheel that will transform Rows into the new default spreadsheet in the world, this role is for you. 
+We are hiring a Partnerships Manager for our office in Berlin (Germany) or Porto (Portugal). As part of our Growth team (under G1 in our [Teams directory](https://github.com/dashdash/hiring/blob/master/Teams.md)) your mission is to grow our user and customer base. If you are ambitious and want to help us build the flywheel that will transform Rows into the new default spreadsheet in the world, this role is for you. 
 
 # Your responsibilities
 * Devise, implement and own the success of new customer acquisition channels for a particular user persona or for all.
