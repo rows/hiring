@@ -37,7 +37,7 @@ We're looking for people who improve our team! Our ideal buddy aligns with our v
 
 # Compensation and Perks
 
-* Expected Annual Gross Salary Range: TBD.
+* Expected Annual Gross Salary Range: 60.000€ - 100.000€.
 * Employee equity plan.
 * Health Insurance for you and your family.
 * Plenty of coffee and frequent ice-cream.
