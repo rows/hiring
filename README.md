@@ -8,10 +8,11 @@ Rows raised a $8m series A round led by Accel Partners. We are hiring for our Po
 
 | Location        | Area         | Openings | Position and link to Job Description |
 | --------------- | ------------ | -------- | --------------- |
-|Porto            | FE           | 1        | [FE Engineer](/job%20descriptions/FE%20engineer_Porto.md) **OR** [FE Engineer (senior)](/job%20descriptions/FE%20engineer%20(senior)_Porto.md) |    
+|Porto            | Engineering  | 1        | [FE Engineer](/job%20descriptions/FE%20engineer_Porto.md) **OR** [FE Engineer (senior)](/job%20descriptions/FE%20engineer%20(senior)_Porto.md) |    
 |Porto            | Desktop Apps | 2        | [Desktop Apps Engineer](/job%20descriptions/Desktop-Apps-Engineer-(Senior)_Porto.md)
-|Porto            | PM           | 1        | [Product Manager](/job%20descriptions/Product%20Manager_Porto.md)|
-|Porto            | EM           | 1        | [Engineering Manager](https://github.com/dashdash/hiring/blob/master/job%20descriptions/Engineering%20Manager_Porto.md)|
+|Porto            | Product      | 1        | [Product Manager](/job%20descriptions/Product%20Manager_Porto.md)|
+|Porto            | Engineering  | 1        | [Engineering Manager](/job%20descriptions/Engineering%20Manager_Porto.md)|
+|Porto            | Engineering  | 1        | [Group Manager](/job%20descriptions/Group%20Manager_Porto.md)|
 
 
 ### Open positions for our office in Berlin, Germany:
