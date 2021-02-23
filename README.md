@@ -11,7 +11,7 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 |Porto            | Engineering  | 1        | [FE Engineer](/job%20descriptions/FE%20engineer_Porto.md) **OR** [FE Engineer (senior)](/job%20descriptions/FE%20engineer%20(senior)_Porto.md) |    
 |Porto            | Engineering  | 2        | [Desktop Apps Engineer](/job%20descriptions/Desktop-Apps-Engineer-(Senior)_Porto.md)
 |Porto            | Engineering  | 1        | [Engineering Manager](/job%20descriptions/Engineering%20Manager_Porto.md)|
-|Porto            | Engineering  | 1        | [Group Manager](/job%20descriptions/Group%20Manager_Porto.md)|
+|Porto            | Business     | 1        | [Group Manager](/job%20descriptions/Group%20Manager_Porto.md)|
 |Porto            | Product      | 1        | [Product Manager](/job%20descriptions/Product%20Manager_Porto.md)|
 
 
