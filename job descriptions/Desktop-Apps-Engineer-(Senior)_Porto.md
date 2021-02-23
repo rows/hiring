@@ -1,7 +1,7 @@
 # Intro
 Imagine a spreadsheet grid where each cell can also call an API or repeat a job. This is what we are building. Our product lets users create interactive web apps using the spreadsheet skills they already have. You can check us at [rows.com](http://rows.com).
 
-We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/2LnB1r0), [VentureBeat](https://bit.ly/2IGwgHS), [Observador (pt)](https://bit.ly/2rZV0Ar) and many other media!
+We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/3dEhNKD), [VentureBeat](https://venturebeat.com/2021/02/23/rows-raises-16-million-and-launches-next-gen-spreadsheets-with-built-in-data-integrations/), [Eco Sapo (PT)](https://eco.sapo.pt/2021/02/23/rows-capta-13-milhoes-em-serie-b-para-continuar-a-fazer-crescer-equipa-e-produto-entre-o-porto-e-berlim/), [Business Insider (DE)](https://www.businessinsider.de/gruenderszene/rows-excel-konkurrent-finanzierung/) and many other media!
 
 # Your responsibilities
 Your role is to team up with our engineers and help to kickstart and build our desktop app. You will be working on:
