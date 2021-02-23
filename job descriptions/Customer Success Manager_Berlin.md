@@ -5,7 +5,7 @@
 At Rows we create tools that make computation accessible to everyone.
 Coding used to be hard. Rows changes that. We want you to create interactive web apps using the spreadsheet skills that you already have. Imagine a grid where each cell can exchange data with other online services or repeat a job. This is what we’re building.
 
-[Rows](https://rows.com/), formerly dashdash, is a well-funded startup with top investors like Accel and Cherry Ventures. We are a team of 50 who want to empower business people to take their life into their own hands again and build the tools they need for their jobs themselves. We have offices in Berlin - a business team of 5 - and Porto - a tech team of 45. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/dashdash), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/). 
+[Rows](https://rows.com/), formerly dashdash, is a well-funded startup with top investors like Accel and Cherry Ventures. We are a team of 50 who want to empower business people to take their life into their own hands again and build the tools they need for their jobs themselves. We have offices in Berlin - a business team of 5 - and Porto - a tech team of 45. Check us e.g. on [TechCrunch](https://tcrn.ch/3dEhNKD), [VentureBeat](https://venturebeat.com/2021/02/23/rows-raises-16-million-and-launches-next-gen-spreadsheets-with-built-in-data-integrations/), [Business Insider (DE)](https://www.businessinsider.de/gruenderszene/rows-excel-konkurrent-finanzierung/) and many other media! 
 
 ## Your role
 
