@@ -22,10 +22,10 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Focused on quality and usability. We hate alarms going off and features that are half-baked as much as you do. Come build a polished product with us!
 
 # Requirements
-* At least 3 years of work experience as a software engineer.
+At least 3 years of work experience as a software engineer.
 * Fluent in design patterns and other Computer Science fundamentals.
-* Experienced in building mobile/desktop apps using Swift.
-* Experienced with SwiftUI or other declarative UI frameworks.
+* Experienced in building mobile/desktop apps using Flutter.
+* Experienced in developing for Apple platforms (iOS/macOS)
 * Motivated to test and adopt new technologies.
 * Experienced in tests (writing unit tests, end-to-end tests).
 * Able communicator in English. Portuguese is optional but welcome.
