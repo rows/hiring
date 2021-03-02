@@ -13,6 +13,7 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 |Porto            | Engineering  | 1        | [Engineering Manager](/job%20descriptions/Engineering%20Manager_Porto.md)|
 |Porto            | Business     | 1        | [Group Manager](/job%20descriptions/Group%20Manager_Porto.md)|
 |Porto            | Product      | 1        | [Product Manager](/job%20descriptions/Product%20Manager_Porto.md)|
+|Porto            | HR           | 1        | [HR Admin_maternity leave replacement](/job%20descriptions/HR%20Admin_maternity%20leave%20replacement.md)|
 
 
 ### Open positions for our office in Berlin, Germany:
