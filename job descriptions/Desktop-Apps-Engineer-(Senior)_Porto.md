@@ -31,7 +31,6 @@ At least 3 years of work experience as a software engineer.
 * Able communicator in English. Portuguese is optional but welcome.
 
 # Nice to have
-* Flutter.
 * WebSockets (GraphQL over websockets).
 * GraphQL.
 * GitHub (Open source and internal repos).
