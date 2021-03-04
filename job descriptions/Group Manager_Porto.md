@@ -18,13 +18,13 @@ The main tasks of Group Managers at Rows are:
 
 # Requirements
 
-* At least 5 years of managing teams.
+* At least 5 years of managing teams, cross-functionaly preferred.
 * At least 3 years in the tech space, SaaS preferable. 
-* Knowledgeable about spreadsheets and our industry.
+* Knowledgeable about productivity and our industry.
 * Accomplished in adding clear value to a business.
 * Very experienced in motivating, hiring & managing exceptional people. 
 * Proficient in spreadsheets. 
-* Experienced in project management, especially within tech.
+* Experienced in project management, especially within complex projects, and tech.
 * Proficient in managing stakeholders and information.
 * Knowledgeable about what makes a magic product experience.
 
