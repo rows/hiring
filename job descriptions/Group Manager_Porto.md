@@ -5,15 +5,15 @@ We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/3
 
 # Your responsibilities
 
-As a Group Manager, you will lead a group of teams and make sure they have what they need to succeed. Check out our teams [here](../Teams.md).
+As a Group Manager, you will lead a group of teams, as their mini-CEO. Check out our teams [here](../Teams.md).
 
 The main tasks of Group Managers at Rows are:
-* Build and manage the teams. Hire and develop people in 3 roles at Rows — Product Managers, Engineering Managers and Product Designers. 
-* Guide your teams for maximum impact. Drive team leaders to create bold plans, track their progress, unblock them when necessary.
-* Manage information flow from and to teams. Expose teams to business, management, users and experts.
+* Build and manage the teams. Hire and develop people in 3 key roles — Product Managers, Engineering Managers and Product Designers. 
+* Guide your teams for maximum business impact. Drive team leaders to create bold plans; Track project progress; unblock teams when necessary.
+* Manage information flow from and to teams. Expose teams to business data, management, users and experts.
 
 ### Current open positions
-* We are looking for Group Managers who will be a fit for our teams A1, D1 and E1. 
+* We are looking for Group Managers who will like to lead ALL of our teams A1, D1 and E1. 
     * See what each Team does [here](../Teams.md).
 
 # Requirements
