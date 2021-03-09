@@ -13,8 +13,8 @@ The main tasks of Group Managers at Rows are:
 * Manage information flow from and to teams. Expose teams to business data, management, users and experts.
 
 ### Current open positions
-* We are looking for Group Managers who will like to lead ALL of our teams A1, D1 and E1. 
-    * See what each Team does [here](../Teams.md).
+
+* We are looking for Group Managers who will like to lead ALL of our teams A1, D1 and E1. See what these Teams and Group do [here](../Teams.md).
 
 # Requirements
 
