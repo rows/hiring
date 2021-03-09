@@ -20,7 +20,7 @@ At Rows, teams enjoy a lot of ownership.
 
 We have now started to structure our team around similar teams. Each group has a domain and a Manager (a mini-CEO of sorts).
 
-| Group                 | Focus                                 | Teams      | 
+| Group                 | Domain                                | Teams      | 
 |:----------------------|:--------------------------------------|:-----------| 
 | User Software         | Productivity software for users.      | A1, D1, E1 | 
 | Software Technologies | Performant computing.                 | C1         | 
