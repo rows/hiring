@@ -55,4 +55,4 @@ Send the following information to [us](mailto:join@rows.com):
 1. Email, phone contacts.
 1. Also send three (3x) 1-hour slots of availability in the next 3-5 days.
 
-You will interview with the two Founders and some tech team members. You will also build something awesome with dashdash :)
+You will interview with the two Founders and some tech team members. You will also build something awesome with Rows :)
