@@ -30,7 +30,6 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 | Location        | Area         | Openings | Position and link to Job Description |
 | --------------- | ------------ | -------- | ------------------------------------ |
 |Berlin or Porto  | Growth       | 1        | [Partnerships Manager](https://github.com/dashdash/hiring/blob/master/job%20descriptions/Partnerships%20Manager.md)
-|Berlin or Porto  | Growth       | 1        | [FE Engineer Growth](https://github.com/dashdash/hiring/blob/master/job%20descriptions/FE%20engineer%20Growth%20Team%20(senior)_Berlin%20or%20Porto.md)
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
