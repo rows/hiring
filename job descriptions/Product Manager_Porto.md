@@ -13,7 +13,7 @@ The main tasks of the Product Manager at Rows are:
 * To be the driving force for problem solving and implementation decisions. You will express how much clarity there is on each to-do - if there's clarity, document it; if the team hasn't reached a conclusion yet, catalyze one by involving others (designers, users). As one of the key deciders, you will empower team colleagues (designers, engineers) by giving them the space to explore and impress, to decide scope, etc.
 
 ### Current open positions
-* We are looking for Product Managers who will be a fit for our teams A1, D1 or/ and F1. 
+* We are looking for Product Managers who will be a fit for our team F1. 
     * See what each Team does [here](../Teams.md).
     * For team F1 (functions and integrations) we are especially interested in product candidates that also want to attack the business side. You will be finding potential data partners, making deals with providers, including proposing ways to build data ourselves.
 * Note: It is possible to move between teams. 
