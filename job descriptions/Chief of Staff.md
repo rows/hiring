@@ -20,25 +20,14 @@ We are hiring a Chief of Staff in one of our offices in Berlin (Germany) or Port
 * Identify unsolved problems of the organization and own special projects to solve them.
 
 # About you
-
-* You have 3-5 years of experience writing documentation that helps non-technical end-users navigate technical products and situations - experience in software companies preferred. 
-* You are an educator at heart. You are passionate about teaching and driven to help people accomplish something easily without barriers.
-* You *love* spreadsheets - you want to know them in every detail, and you love building stuff with them.
-* You enjoy learning about new technologies, solutions to business problems and genuinely want to help people solve their problems with technology.
-* You have exceptional writing and visual communication skills, and excel at creating well-structured and clear content in text and video. 
-* You abhor typos and value elegance as key drivers of a professional brand and user delight.
-* You are very knowledgeable about Rows’s product and our industry.
-
-
-# Nice to have
-
-* Proficient in design software (creating great GIFs and videos).
-* Proficient in data analysis (SQL).
-* Experience working in platform marketing within a SaaS company.
-* Experienced in the reality of services and APIs.
-* Experienced in writing content in the context of B2B SaaS.
-* Deep understating of bottoms-up SaaS models.
-
+ 
+* You have a track record of making organizations more productive.
+* You are obsessed about high-quality and structured documentation.
+* You are a great team player and love to work with people on delivering excellent results.
+* You *love* spreadsheets and you love presentation software - you are proficient at building presentations and models.
+* You have exceptional writing skills for documentation and public funding applications. 
+* You are a self-starter and autonomously drive results.
+* You are very knowledgeable about Rows’s product, our industry, business model, and about how tech organizations work.
 
 ## Compensation and Perks
 - Expected Annual Gross Salary: To be discussed during the interview process.
