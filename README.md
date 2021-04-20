@@ -19,8 +19,7 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 
 | Location        | Area         | Openings | Position and link to Job Description |
 | --------------- | ------------ | -------- | --------------- |
-|Berlin           | Business     | 1        | [Customer Success Manager](/job%20descriptions/Customer%20Success%20Manager_Berlin.md)      |
-|Berlin           | Business     | 1        | [Product Education Specialist](/job%20descriptions/Product%20Education%20Specialist_Berlin.md)      |
+|Berlin           | Business     | 1        | [Customer Success Manager](/job%20descriptions/Customer%20Success%20Manager_Berlin.md)|
 
 
 ### Open positions for both our offices - Berlin, Germany or Porto, Portugal:
