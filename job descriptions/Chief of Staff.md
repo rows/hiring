@@ -8,6 +8,8 @@ Coding used to be hard. Rows changes that. We want you to create interactive web
 
 We are hiring a Chief of Staff in one of our offices in Berlin (Germany) or Porto (Portugal). You will work directly with Rows' founders to ensure strong results across our organization in all tech and business teams. You will also own special projects and prepare and support our work on funding rounds.
 
+You will get a front-row seat taking a company from 0 to 1. You'll directly work with the founders and get exposure to fundraising. You will also get to know all parts of a tech organization, from engineering and product to marketing and sales. After 2 years, we'll speak about what next challenge is best for you - either at Rows or potentially starting your own company.
+
 # Your responsibilities
 
 * Work with leadership across teams and functions to set clear quarterly objectives, and to pursue them effectively throughout the quarter.
@@ -21,8 +23,8 @@ We are hiring a Chief of Staff in one of our offices in Berlin (Germany) or Port
 
 # About you
  
-* You have a track record of making organizations more productive.
-* You are obsessed about high-quality and structured documentation.
+* You have a track record of making organizations more productive through relentless execution.
+* You are very organized and obsessed about high-quality and structured documentation.
 * You are a great team player and love to work with people on delivering excellent results.
 * You *love* spreadsheets and you love presentation software - you are proficient at building presentations and models.
 * You have exceptional writing skills for documentation and public funding applications. 
