@@ -12,6 +12,7 @@ You will get a front-row seat taking a company from 0 to 1. You'll directly work
 
 # Your responsibilities
 
+* Be the extended hand of the founders inside the company, and help founders be more productive in topics big and small.
 * Work with leadership across teams and functions to set clear quarterly objectives, and to pursue them effectively throughout the quarter.
 * Ensure useful meetings with clearly documented decisions and next steps in all teams.
 * Ensure clear and comprehensive documentation of objectives, priorities and results of all teams for the entire organization.
