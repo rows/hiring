@@ -15,19 +15,6 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 |Porto            | Design       | 1        | [Product Designer (Senior)](/job%20descriptions/Product_Designer_(Senior)_Porto_2021.md)|
 
 
-### Open positions for our office in Berlin, Germany:
-
-| Location        | Area         | Openings | Position and link to Job Description |
-| --------------- | ------------ | -------- | --------------- |
-|Berlin           | Business     | 1        | [Customer Success Manager](/job%20descriptions/Customer%20Success%20Manager_Berlin.md)|
-
-
-### Open positions for both our offices - Berlin, Germany or Porto, Portugal:
-
-| Location        | Area         | Openings | Position and link to Job Description |
-| --------------- | ------------ | -------- | ------------------------------------ |
-|Berlin or Porto  | Growth       | 1        | [Partnerships Manager](https://github.com/dashdash/hiring/blob/master/job%20descriptions/Partnerships%20Manager.md)
-
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
 
