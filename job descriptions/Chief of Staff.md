@@ -6,7 +6,7 @@ Coding used to be hard. Rows changes that. We want you to create interactive web
 
 # Your role
 
-We are hiring a Chief of Staff in one of our offices in Berlin (Germany) or Porto (Portugal). You will work directly with Rows' founders to ensure strong results across our organization in all tech and business teams. You will also own special projects such as preparation and support of funding rounds.
+We are hiring a Chief of Staff in one of our offices in Berlin (Germany) or Porto (Portugal). You will work directly with Rows' founders to ensure strong results across our organization in all tech and business teams. You will also own special projects and prepare and support our work on funding rounds.
 
 # Your responsibilities
 
