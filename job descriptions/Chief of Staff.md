@@ -13,8 +13,8 @@ We are hiring a Chief of Staff in one of our offices in Berlin (Germany) or Port
 * Work with leadership across teams and functions to set clear quarterly objectives, and to pursue them effectively throughout the quarter.
 * Ensure useful meetings with clearly documented decisions and next steps in all teams.
 * Ensure clear and comprehensive documentation of objectives, priorities and results of all teams for the entire organization.
-* Support company and team leadership in creating a more effective process and documentation for their teams.
-* Create and tell Rows' story in data for our current and prospective investors.
+* Support company and team leadership in creating more effective processes and better documentation for their teams.
+* Craft and tell Rows' story in data for our current and prospective investors.
 * Support the preparation of board meetings.
 * Create documents for fundraising, incl. venture capital equity funding rounds and public grant funding applications.
 * Identify unsolved problems of the organization and own special projects to solve them.
