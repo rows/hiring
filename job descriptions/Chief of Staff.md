@@ -2,35 +2,33 @@
 At Rows we create tools that make computation accessible to everyone.
 Coding used to be hard. Rows changes that. We want you to create interactive web apps using the spreadsheet skills that you already have. Imagine a grid where each cell can exchange data with other online services or repeat a job. This is what we’re building.
 
-[Rows](https://rows.com/), formerly dashdash, is a well-funded startup with top investors like Accel, Lakestar and Cherry Ventures. We are a team of 50 who want to empower business people to take their life into their own hands again and build the tools they need for their jobs themselves. We have offices in Berlin - a business team of 5 - and Porto - a tech team of 45. Check us e.g. on [TechCrunch](https://tcrn.ch/3dEhNKD), [VentureBeat](https://venturebeat.com/2021/02/23/rows-raises-16-million-and-launches-next-gen-spreadsheets-with-built-in-data-integrations/), [Business Insider (DE)](https://www.businessinsider.de/gruenderszene/rows-excel-konkurrent-finanzierung/) and many other media!
+[Rows](https://rows.com/) is a well-funded startup with top investors like Accel, Lakestar and Cherry Ventures. We are a team of 50 who want to empower business people to take their life into their own hands again and build the tools they need for their jobs themselves. We have offices in Berlin - a business team of 5 - and Porto - a tech team of 45. Check us e.g. on [TechCrunch](https://tcrn.ch/3dEhNKD), [VentureBeat](https://venturebeat.com/2021/02/23/rows-raises-16-million-and-launches-next-gen-spreadsheets-with-built-in-data-integrations/), [Business Insider (DE)](https://www.businessinsider.de/gruenderszene/rows-excel-konkurrent-finanzierung/) and many other media!
 
 # Your role
 
-We are hiring a Chief of Staff in one of our offices in Berlin (Germany) or Porto (Portugal). You will work directly with Rows' founders to ensure strong results across our organization in all tech and business teams. You will also own special projects and prepare and support our work on funding rounds.
+We are hiring a Chief of Staff in one of our offices in Berlin (Germany) or Porto (Portugal). You will work directly with Rows founders to ensure strong results across our organization in tech and business teams. You will also own special projects and prepare and support our work on funding rounds.
 
-You will get a front-row seat taking a company from 0 to 1. You'll directly work with the founders and get exposure to fundraising. You will also get to know all parts of a tech organization, from engineering and product to marketing and sales. After 2 years, we'll speak about what next challenge is best for you - either at Rows or potentially starting your own company.
+You will get a front-row seat taking a company from 0 to 1. You will most things founders do, from the simple (booking and running a meeting) to the complex (a rebrand). You'll directly work with most managers and get exposure to fundraising. You will also get to know all parts of a tech organization, from engineering and product to marketing and sales. After 2 years, we'll speak about what next challenge is best for you - either at Rows or potentially starting your own company.
 
 # Your responsibilities
 
 * Be the extended hand of the founders inside the company, and help founders be more productive in topics big and small.
-* Work with leadership across teams and functions to set clear quarterly objectives, and to pursue them effectively throughout the quarter.
-* Ensure useful meetings with clearly documented decisions and next steps in all teams.
-* Ensure clear and comprehensive documentation of objectives, priorities and results of all teams for the entire organization.
+* Work with team leaders and functions to ensure clear objectives, priorities and results for the entire organization.
+* Ensure team statuses are asynchronous and lean, and run major cross-team statuses (monthly).
+* Ensure meetings are impactful and always have clearly documented decisions and next steps, in all teams.
 * Support company and team leadership in creating more effective processes and better documentation for their teams.
-* Craft and tell Rows' story in data for our current and prospective investors.
-* Support the preparation of board meetings.
-* Create documents for fundraising, incl. venture capital equity funding rounds and public grant funding applications.
+* Create stories and formal documentation for board meetings & fundraising, incl. venture capital and public grants.
 * Identify unsolved problems of the organization and own special projects to solve them.
 
 # About you
  
-* You have a track record of making organizations more productive through relentless execution.
-* You are very organized and obsessed about high-quality and structured documentation.
+* You are a self-starter and like to autonomously deliver results and impact.
+* You have a track record in delivering value in organizations through focused, relentless execution.
+* You obsess about high-quality, structured documentation, and have great writing skills.
 * You are a great team player and love to work with people on delivering excellent results.
-* You *love* spreadsheets and you love presentation software - you are proficient at building presentations and models.
-* You have exceptional writing skills for documentation and public funding applications. 
-* You are a self-starter and autonomously drive results.
+* You love spreadsheets and you love presentation software - you are proficient at building presentations and models.
 * You are very knowledgeable about Rows’s product, our industry, business model, and about how tech organizations work.
+* No admin task is too small or boring for you, and no task too exciting and big that you'll lose focus. 
 
 ## Compensation and Perks
 - Expected Annual Gross Salary: To be discussed during the interview process.
