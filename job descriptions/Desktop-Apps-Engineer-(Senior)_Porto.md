@@ -12,7 +12,7 @@ Your role is to team up with our engineers and help to kickstart and build our d
 ### Current open positions
 * We are looking for desktop application engineers who will be a fit for our team A1. 
     * See what each Team does [here](../Teams.md).
-    * Team A1 is the most recently created team. Their responsibility is to build the most beautiful, incredibly, fast and awesome desktop application for our dear users. On this team, you will have the chance to contribute with your knowledge on creating not also the new application but to create the development process, pipelines and other technical challenges needed to create this new application.
+    * Team A1 is the most recent team. Their responsibility is to build the most beautiful, incredibly, fast and awesome desktop application for our dear users. On this team, you will have the chance to contribute with your knowledge on creating not only the new application but to set up the development process, pipelines and other technical challenges needed to create this new application.
 * Note: It is possible to move between teams. 
 
 # About you
@@ -25,13 +25,13 @@ We're looking for people who improve our team! Our ideal buddy is:
 At least 3 years of work experience as a software engineer.
 * Fluent in design patterns and other Computer Science fundamentals.
 * Experienced in building mobile/desktop apps using Flutter.
-* Experienced in developing for Apple platforms (iOS/macOS)
 * Motivated to test and adopt new technologies.
 * Experienced in tests (writing unit tests, end-to-end tests).
 * Able communicator in English. Portuguese is optional but welcome.
 
 # Nice to have
-* WebSockets (GraphQL over websockets).
+* Experienced in developing for Apple platforms (iOS/macOS)
+* WebSockets (GraphQL over WebSockets).
 * GraphQL.
 * GitHub (Open source and internal repos).
 
