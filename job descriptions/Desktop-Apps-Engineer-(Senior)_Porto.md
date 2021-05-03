@@ -30,7 +30,7 @@ At least 3 years of work experience as a software engineer.
 * Able communicator in English. Portuguese is optional but welcome.
 
 # Nice to have
-* Experienced in developing for Apple platforms (iOS/macOS)
+* Experience in developing for Apple platforms (iOS/macOS)
 * WebSockets (GraphQL over WebSockets).
 * GraphQL.
 * GitHub (Open source and internal repos).
