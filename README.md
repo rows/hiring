@@ -12,6 +12,7 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 |Porto            | Engineering  | 1        | [Desktop Apps Engineer](/job%20descriptions/Desktop-Apps-Engineer-(Senior)_Porto.md)
 |Porto            | Engineering  | 1        | [Engineering Manager](/job%20descriptions/Engineering%20Manager_Porto.md)|
 |Porto            | Design       | 1        | [Product Designer (Senior)](/job%20descriptions/Product_Designer_(Senior)_Porto_2021.md)|
+|Porto or Berlin  | Business     | 1        | [Chief of Staff](https://github.com/dashdash/hiring/blob/master/job%20descriptions/Chief%20of%20Staff.md)|
 
 
 ### Frequently Asked Questions
