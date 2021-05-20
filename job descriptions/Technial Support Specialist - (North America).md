@@ -12,28 +12,23 @@ Your core work hours will be from 8am-5pm PST / 11am-8pm EST.
 
 # Your responsibilities
 
-* Help
-* Work with team leaders and functions to ensure clear objectives, priorities and results for the entire organization.
-* Ensure team statuses are asynchronous and lean, and run major cross-team statuses (monthly).
-* Ensure meetings are impactful and always have clearly documented decisions and next steps, in all teams.
-* Support company and team leadership in creating more effective processes and better documentation for their teams.
-* Create stories and formal documentation for board meetings & fundraising, incl. venture capital and public grants.
-* Identify unsolved problems of the organization and own special projects to solve them.
+* Help spreadsheet users on different customer support channels like email and chat (Intercom), our user forum and on Twitter.
+* Speak to users on video calls for their onboarding and to help them build spreadsheets hands-on.
+* Triage, document and report incidents and bugs and efficiently communicate them to our tech team.
+* Be an internal voice for our users and their problems to improve the user experience.
+* Contribute to product, marketing, and customer success projects.
 
 # About you
  
 * You are a self-starter and like to autonomously deliver results and impact.
-* You have a track record in delivering value in organizations through focused, relentless execution.
-* You obsess about high-quality, structured documentation, and have great writing skills.
-* You are a great team player and love to work with people on delivering excellent results.
-* You love spreadsheets and you love presentation software - you are proficient at building presentations and models.
-* You are very knowledgeable about Rows’s product, our industry, business model, and about how tech organizations work.
-* No admin task is too small or boring for you, and no task too exciting and big that you'll lose focus. 
+* You love spreadsheets and know them inside out - people come to you for spreadsheet advice.
+* You have at least basic knowledge about APIs - API mastery is a big plus.
+* You like to find, reproduce and document bugs with great speed and precision.
+* You have excellent communication skills in English and can easily build a rapport with people.
 
 ## Compensation and Perks
-- Expected Annual Gross Salary: To be discussed during the interview process.
+- Expected Annual Gross Salary as a freelancer: To be discussed during the interview process.
 - Employee equity plan.
-- Liberal work-from-home policy.
 - Unlimited unpaid vacation policy.
 
 ## How-to
