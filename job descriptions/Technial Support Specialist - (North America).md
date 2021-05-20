@@ -1,4 +1,4 @@
-## Intro
+# Intro
 At Rows we create tools that make computation accessible to everyone.
 Coding used to be hard. Rows changes that. We want you to create interactive web apps using the spreadsheet skills that you already have. Imagine a grid where each cell can exchange data with other online services or repeat a job. This is what we’re building.
 
@@ -26,12 +26,12 @@ Your core work hours will be from 8am-5pm PST / 11am-8pm EST.
 * You like to find, reproduce and document bugs with great speed and precision.
 * You have excellent communication skills in English and can easily build a rapport with people.
 
-## Compensation and Perks
+# Compensation and Perks
 - Expected Annual Gross Salary as a freelancer: To be discussed during the interview process.
 - Employee equity plan.
 - Unlimited unpaid vacation policy.
 
-## How-to
+# How-to
 Send the following information to [us](mailto:join@rows.com):
 1. Complete Linkedin link or CV pdf.
 1. Which position you want to apply to and why.
