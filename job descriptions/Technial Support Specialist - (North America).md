@@ -6,13 +6,13 @@ Coding used to be hard. Rows changes that. We want you to create interactive web
 
 # Your role
 
-We are hiring a Technical Support Specialist (North America) as a remote position. Your mission is to make our users in the U.S. and Canada successful by helping them build their spreadsheets and by teaching them Rows.
+We are hiring a Technical Support Specialist (North America) as a remote position. Your mission is to make our users in the U.S. and Canada successful by helping them build their spreadsheets and by teaching them Rows. You will work as part of a small but growing team of spreadsheet nerds who are excited to turn Rows users into heroes.
 
-You will get a front-row seat taking a company from 0 to 1. You will do most things founders do, from the simple (booking and running a meeting) to the complex (a rebrand). You'll directly work with most managers and get exposure to fundraising. You will also get to know all parts of a tech organization, from engineering and product to marketing and sales. After 2 years, we'll speak about what next challenge is best for you - either at Rows or potentially starting your own company.
+Your core work hours will be from 8am-5pm PST / 11am-8pm EST.
 
 # Your responsibilities
 
-* Be the extended hand of the founders inside the company, and help founders be more productive in topics big and small.
+* Help
 * Work with team leaders and functions to ensure clear objectives, priorities and results for the entire organization.
 * Ensure team statuses are asynchronous and lean, and run major cross-team statuses (monthly).
 * Ensure meetings are impactful and always have clearly documented decisions and next steps, in all teams.
