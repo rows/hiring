@@ -27,7 +27,7 @@ Your core work hours will be from 8am-5pm PST / 11am-8pm EST.
 * You have excellent communication skills in English and can easily build a rapport with people.
 
 # Compensation and Perks
-- Expected Annual Gross Salary as a freelancer: $50k-$65k 
+- Expected Annual Gross Salary as a freelancer: $50,000 - $65,000 
 - Employee equity plan.
 - Unlimited unpaid vacation policy.
 
