@@ -32,8 +32,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 
 ## Your Mojo
 * Academic background in **Computer Science** or similar.
-* Motivated to manage people and teams.
-* Motivated to learn all the people and team processes related to teams management
+* Motivated to manage people and team processes related to teams management
 * Knowledge of **processes and phases** of software and product development.
 * Experience working in **continuous delivery** and **continuous integration** environments.
 * Able to act as a an **evangelist of quality and predictability** of deliveries.
