@@ -5,7 +5,7 @@
 At Rows we create tools that make computation accessible to everyone.
 Coding used to be hard. Rows changes that. We want you to create interactive web apps using the spreadsheet skills that you already have. Imagine a grid where each cell can exchange data with other online services or repeat a job. This is what we’re building.
 
-[Rows](https://rows.com/), formerly dashdash, is a well-funded startup with top investors like Accel, Lakestar and Cherry Ventures. We are a team of 50 who want to empower business people to take their life into their own hands again and build the tools they need for their jobs themselves. We have offices in Berlin - a business team of 5 - and Porto - a tech team of 45. Check us e.g. on [TechCrunch](https://tcrn.ch/3dEhNKD), [VentureBeat](https://venturebeat.com/2021/02/23/rows-raises-16-million-and-launches-next-gen-spreadsheets-with-built-in-data-integrations/), [Business Insider (DE)](https://www.businessinsider.de/gruenderszene/rows-excel-konkurrent-finanzierung/) and many other media! 
+[Rows](https://rows.com/) is a well-funded startup with top investors like Accel, Lakestar and Cherry Ventures. We are a team of 50 who want to empower business people to take their life into their own hands again and build the tools they need for their jobs themselves. We have offices in Berlin - a business team of 5 - and Porto - a tech team of 45. Check us e.g. on [TechCrunch](https://tcrn.ch/3dEhNKD), [VentureBeat](https://venturebeat.com/2021/02/23/rows-raises-16-million-and-launches-next-gen-spreadsheets-with-built-in-data-integrations/), [Business Insider (DE)](https://www.businessinsider.de/gruenderszene/rows-excel-konkurrent-finanzierung/) and many other media! 
 
 ## Your role
 
@@ -14,10 +14,10 @@ As our Sales Manager for our office in Berlin, Germany, you will be our first pe
 ## Your responsibilities
 
 * Sell Rows directly to target users in target industries to build a new acquisition channel. You'll own a 360-degrees sales cycle - from generating leads to handoff to Customer Success at onboarding.
-* Build lead lists based on target industries, company size and user roles. 
-* Convert leads into demos and onboarding calls, by phone or email; experiment with this process to find out what generates the best results.
-* Demo Rows to leads, identify their use cases, and show them how they can use Rows successfully.
-* Hand off users to Customer Success to further onboard new users and make them successful with Rows.
+  * Build lead lists based on target industries, company size and user roles. 
+  * Convert leads into demos and onboarding calls, by phone or email; experiment with this process to find out what generates the best results.
+  * Demo Rows to leads, identify their use cases, and show them how they can use Rows successfully.
+  * Hand off users to Customer Success to further onboard new users and make them successful with Rows.
 * Work with existing users to expand to other users and functions within the company, understand who else will benefit from Rows and how to get to them.
 * Feed learnings from users and use cases back into our product roadmap.
 * As Rows grows, transition your process to larger target companies and new user personas.
