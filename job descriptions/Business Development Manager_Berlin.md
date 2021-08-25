@@ -13,24 +13,25 @@ As our Business Development Manager for our office in Berlin, Germany, you will 
 
 ## Your responsibilities
 
-* Sell Rows directly to active users in target companies by building relationships, finding out what users and their companies need, and being helpful to make them succeed.
-* Put users' needs first and empathize with every aspect of the user experience.
-* Identify opportunities for growth and usage expansion in our existing user base.
+* Sell Rows directly to target users in target industries to build a new acquisition channel.
+* Build lead lists based on target industries, company size and user roles. 
+* Convert leads into demos and onboarding calls, by phone or email; experiment with this process to find out what generates the best results.
+* Demo Rows to leads, identify their use cases, and show them how they can use Rows successfully.
+* Work with Customer Success to further onboard new users and make them successful with Rows.
 * Work with existing users to expand to other users and functions within the company, understand who else will benefit from Rows and how to get to them.
-* Help users hands on by solving their problems with spreadsheets and teaching them how to do it themselves.
 * Feed learnings from users and use cases back into our product roadmap.
+* As Rows grows, transition your process to larger target companies and new user personas.
 * Give strategic input to Founders including business opportunities, market focus, pricing, product roadmap, hiring, etc.
 * Learn and refine how to measure your success, and carefully analyze data.
 
 ## Requirements
 
-* You have 5+ years of experience in sales, partnerships, customer success, consulting, or investing in a highly professional and dynamic work environment - software experience is a plus.
-* You love people, and people love you - you are a great relationship-builder.
+* You have 3+ years of experience in sales or partnerships in a highly professional and dynamic work environment - software experience is a plus.
+* You love people, and people love you - you are a great relationship-builder who can sell.
 * You understand problems people face in business roles in companies, you can navigate your way in companies to other potential users and decision-makers.
-* You are a total spreadsheet and product nerd.
-* You are a hustler and creative problem solver.
+* You love spreadsheets and can help others get the most out of them.
+* You are a hustler and a creative problem solver - you are resilient and successful in an environment of ambiguity without pre-established processes.
 * You can communicate really well in English.
-* Having built or engaged in communities before is a plus.
 
 # About you
 
@@ -41,7 +42,7 @@ We're looking for people who improve our team! Our ideal buddy aligns with our v
 
 ## Compensation and Perks
 
-* Competitive salary.
+* Competitive salary with a significant share of performance based compensation.
 * Employee equity plan.
 * Liberal work-from-home (or remote) policy.
 * Unlimited vacation policy.
