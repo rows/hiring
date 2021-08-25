@@ -1,4 +1,4 @@
-# Customer Success Manager at Rows in Berlin
+# Business Development Manager (Sales Executive) at Rows in Berlin
 
 ## Intro
 
@@ -9,7 +9,7 @@ Coding used to be hard. Rows changes that. We want you to create interactive web
 
 ## Your role
 
-As our Customer Success Manager for our office in Berlin, Germany, you will lead our efforts to work with high-profile companies to expand usage and convert them to paid customers. If you love spreadsheets, love building relationships and help other succeed, and if you can sell and navigate organizations to the highest-potential users and decision-makers, this job is for you! If you excel in this role, you'll get huge opportunities at Rows.
+As our Business Development Manager for our office in Berlin, Germany, you will be our first person in Sales. Your mission will be to develop outbound sales as a viable user acquisition channel. You will build lead lists and execute on them to demo potential users what they can do with Rows to convert them into excited Rows users. Over time, your mission will evolve and focus more and more on larger companies as Rows customers. If you love spreadsheets and selling to people while building your own process this job is for you! If you excel in this role, you'll be well compensated based on your performance, and you'll get huge opportunities at Rows.
 
 ## Your responsibilities
 
