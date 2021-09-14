@@ -16,7 +16,7 @@ Throughout 2022 we expect to WFH by default due to the rise of covid-19 cases in
 In general, we recommend that teams be at the office 1 day per week, or more. We consider facetime super important, and so we want that people sit together as much as possible. 
 
 ## Do you guys attend conferences and workshops?
-We do. Here's a [list of events](https://github.com/dashdash/community) we go to.
+We do. Here's a [list of events](https://github.com/rows/community) we go to.
 
 ## Do you accept international candidates?
 We do. Be aware that getting VISAs to come and work in the EU may take a long time. But we like everyone!

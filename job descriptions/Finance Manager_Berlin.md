@@ -2,7 +2,7 @@
 At Rows we create tools that make computation accessible to everyone.
 Coding used to be hard. Rows changes that. We want you to create interactive web apps using the spreadsheet skills that you already have. Imagine a grid where each cell can exchange data with other online services or repeat a job. This is what we’re building.
 
-[Rows](https://rows.com/), formerly dashdash, is a well-funded startup with top investors like Accel and Cherry Ventures. We have offices in Berlin and Porto. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/dashdash), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/).
+[Rows](https://rows.com/), formerly dashdash, is a well-funded startup with top investors like Accel and Cherry Ventures. We have offices in Berlin and Porto. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/rowshq), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/).
 
 ## Your Role
 We are hiring a Finance Manager for our office in Berlin, Germany, to own the Finance function and support in HR and Legal.

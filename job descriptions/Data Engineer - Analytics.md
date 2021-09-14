@@ -4,7 +4,7 @@ Imagine a spreadsheet grid where each cell can also call an API or repeat a job.
 We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/3dEhNKD), [VentureBeat](https://venturebeat.com/2021/02/23/rows-raises-16-million-and-launches-next-gen-spreadsheets-with-built-in-data-integrations/), [Eco Sapo (PT)](https://eco.sapo.pt/2021/02/23/rows-capta-13-milhoes-em-serie-b-para-continuar-a-fazer-crescer-equipa-e-produto-entre-o-porto-e-berlim/), [Business Insider (DE)](https://www.businessinsider.de/gruenderszene/rows-excel-konkurrent-finanzierung/) and many other media!
 
 # Your responsibilities
-As part of our Growth team (under G1 in our [Teams directory](https://github.com/dashdash/hiring/blob/master/Teams.md)) your mission is to improve decision making in the whole organization:
+As part of our Growth team (under G1 in our [Teams directory](https://github.com/rows/hiring/blob/master/Teams.md)) your mission is to improve decision making in the whole organization:
 * To understand the performance indicators of the business as a whole and of the drivers behind our state.
 * To uncover optimization potential, analyzing rich metrics from our product and making opportunities and blockers evident.
 * To structure the journey of the user and the value drivers behind engagement (loyalty), revenue, cost.
