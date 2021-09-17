@@ -7,12 +7,14 @@ We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/3
 Your role is to team up with our engineers and build our single-page app. You will be working on:
 * an account dashboard where users manage apps and settings.
 * the editor where users manipulate a list of programmable cells that can do computing, including services and automation.
+* performance and reliability of our web app.
 * additional pages and features where we help users learn and extract the maximum value out of our core functionality and available integrations.
 
 ### Current open positions
-* We are looking for frontend engineers who will be a fit for our teams D1, E1 or/ and F1. 
+* We are looking for frontend engineers who will be a fit for our team C1. 
     * See what each Team does [here](../Teams.md).
-    * Specifically for the F1 team, we are hiring a frontend developer to help us improve our new integrations time to market and how we implement these new integrations. You will have the chance to work with a senior team and help us to improve technically and how we do things.
+    * Specifically for the C1 team, we are hiring a frontend developer to help us improve the performance of the editor and all the features related to the spreadsheet. You will have the chance to work with a senior team and help us to improve technically and how we do things.
+    * It would be great if you already have experience implementing this type of application and solving performance issues on the frontend. 
 * Note: It is possible to move between teams. 
 
 # About you
@@ -54,6 +56,6 @@ We're looking for people who improve our team! Our ideal buddy is:
 Send the following information to [us](mailto:join@rows.com):
 1. Complete Linkedin link or CV pdf.
 2. GitHub and/ or other public repos link.
-3. Which position you want to apply to and why.
+3. Which position do you want to apply to and why.
 4. Email, phone contacts.
 5. Also send three (3x) 1-hour slots of availability in the next 3-5 days.
