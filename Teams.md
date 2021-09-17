@@ -8,7 +8,7 @@ Teams have a mission - a driving goal that provides clarity over the long term.
 | A1    | Apps                      | Build desktop apps that rival the best native app experiences.         | Porto (PT)              |
 | C1    | Computing                 | Build the most performant and reliable computation engine for No-Code. | Porto (PT)              |
 | D1    | Dashboard                 | Make Rows the easiest tool to learn and use for business users.        | Porto (PT)              |
-| E1    | Editor & Live Spreadsheet | Make Rows THE spreadsheet you will enjoy creating and sharing.         | Porto (PT)              |
+| E1/E2 | Editor & Live Spreadsheet | Make Rows THE spreadsheet you will enjoy creating and sharing.         | Porto (PT)              |
 | F1/F2 | Functions & Integrations  | Build computation components that solve challenges for business users. | Porto (PT)              |
 | G1    | User Growth & Marketing   | Build the engine that acquires, converts and activates users.          | Berlin (DE), Porto (PT) |
 | S1    | Sales, Success, Support   | Increase revenue from customers who get high value-add from Rows.      | Berlin (DE)             |
