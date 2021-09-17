@@ -11,7 +11,7 @@ Your role is to team up with our engineers and build our single-page app. You wi
 * additional pages and features where we help users learn and extract the maximum value out of our core functionality and available integrations.
 
 ### Current open positions
-* We are looking for frontend engineers who will be a fit for one of our teams. 
+* We are looking for frontend engineers who will be a fit for one of our teams (C1, D1, E's or F's). 
     * See what each Team does [here](../Teams.md).
     * Specifically for the C1 team, we are hiring a frontend developer to help us improve the performance of the editor and all the features related to the spreadsheet. You will have the chance to work with a senior team and help us to improve technically and how we do things.
     * It would be great if you already have experience implementing this type of application and solving performance issues on the frontend. 
