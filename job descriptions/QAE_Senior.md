@@ -11,7 +11,7 @@ Your role is to team up with our engineers and product owners, as a key part in 
 
 - An account **dashboard** where users manage apps and settings.
 - The **editor** where users manipulate a list of programmable cells that can do computing, including services and automation.
-- performance and reliability of our web app.
+- Performance and reliability of our web app.
 - Additional **pages and features** where we help users learn and extract the maximum value out of our core functionality and available integrations.
 
 ### Current open positions
@@ -61,7 +61,7 @@ Here are a few things we think are necessary for you to be successful in your jo
 - Employee equity plan.
 - Health Insurance for you and your family.
 - Plenty of coffee and frequent ice-cream - when at the office :)
-- Liberal work-from-home policy (until the end of 2020??? we expect to WFH by default due to the rise of covid-19 cases).
+- Liberal work-from-home policy.
 - Unlimited vacation policy.
 - Be part of a great team, have autonomy to give inputs and make things happen! In short: Really impact this Product!
 
