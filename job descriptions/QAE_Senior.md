@@ -57,7 +57,7 @@ Here are a few things we think are necessary for you to be successful in your jo
 
 # What’s in it for you?
 
-- Expected Annual Gross Salary Range: ??.???-??.???€.
+- Expected Annual Gross Salary Range: 38.200-52.400€.
 - Employee equity plan.
 - Health Insurance for you and your family.
 - Plenty of coffee and frequent ice-cream - when at the office :)
