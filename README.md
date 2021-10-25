@@ -12,7 +12,7 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 |Remote           | Business     | 1        | [Technical Support Specialist (North America)](https://github.com/rows/hiring/blob/master/job%20descriptions/Technical%20Support%20Specialist%20(North%20America).md) |
 |Porto            | Engineering  | 1        |[FE Engineer (senior)](https://github.com/rows/hiring/blob/master/job%20descriptions/FE%20engineer%20(senior)_Porto.md#current-open-positions)|
 |Porto            | Engineering  | 1        | [BE Engineer](https://github.com/rows/hiring/blob/master/job%20descriptions/BE%20engineer_Porto.md) |    
-|Porto            | Engineering  | 1        | [QA Engineer](https://github.com/rows/hiring/blob/master/job%20descriptions/QA%20Engineer.md)  |
+|Porto            | Engineering  | 1        | [QA Engineer (senior)](https://github.com/rows/hiring/blob/master/job%20descriptions/QA%20engineer%20(senior)_Porto.md)  |
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
