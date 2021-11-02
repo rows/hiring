@@ -19,7 +19,8 @@ Maintain and expand[our documentation](https://rows.com/docs). Distill Rows’s 
 - Create and maintain the content of our template and integration landing pages.
 
 ## DURATION
-We are looking for a copywriter who can dedicate 20-40 hours per week to Rows over a 2-6-month period.
+We are looking for a copywriter who can dedicate 20-40 hours per week to Rows over a 2-6-month period. 
+Hour rate: €36.00 /hour
 
 ## REQUIREMENTS
 Apart from copywriting skills in American English, we are looking for you if:
