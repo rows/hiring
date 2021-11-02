@@ -20,7 +20,7 @@ Maintain and expand our [documentation](https://rows.com/docs). Distill Rows’s
 
 ## Duration & Compensation
 - We are looking for a Copywriter who can dedicate 20-40 hours per week to Rows over a 2-6-month period. 
-- Hour rate: €36.00 /hour.
+- Hour rate: €25.00 /hour - €40.00 /hour.
 
 ## Requirements 
 Apart from copywriting skills in American English, we are looking for you if:
