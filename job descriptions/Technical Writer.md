@@ -18,9 +18,9 @@ Maintain and expand [our documentation](https://rows.com/docs). Distill Rows’s
 - Prepare and post content for product updates and release notes to be shared with users via different channels (inc. our in-product feature release announcements)
 - Create and maintain the content of our template and integration landing pages.
 
-## Duration
-We are looking for a Technical Writer who can dedicate 20-40 hours per week to Rows over a 2-6-month period. 
-Hour rate: €36.00 /hour
+## Duration & Compensation
+- We are looking for a Technical Writer who can dedicate 20-40 hours per week to Rows over a 2-6-month period. 
+- Hour rate: €36.00 /hour.
 
 ## Requirements 
 Apart from technical writer skills in American English, we are looking for you if:
