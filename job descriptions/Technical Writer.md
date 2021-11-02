@@ -13,7 +13,7 @@ This includes [our documentation](https://rows.com/docs), our [template landing 
 If you are ambitious and excited about building the educational content that will introduce millions of users to the new default spreadsheet in the world, this project is for you.
 
 ## Your responsibilities
-Maintain and expand[our documentation](https://rows.com/docs). Distill Rows’s key features into documentation that is practical and visually clear.
+Maintain and expand [our documentation](https://rows.com/docs). Distill Rows’s key features into documentation that is practical and visually clear.
 - Create and maintain other customizable in-product content related to features, such as instructions for the data explorer, the autocomplete feature, error messages.
 - Prepare and post content for product updates and release notes to be shared with users via different channels (inc. our in-product feature release announcements)
 - Create and maintain the content of our template and integration landing pages.
