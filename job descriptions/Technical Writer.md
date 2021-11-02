@@ -9,11 +9,11 @@ We have offices in Berlin - a business team of 5 - and Porto - a tech team of 50
 
 ## About you
 We are looking for a Technical Writer with spreadsheet skills. Your mission is to make Rows’s product accessible and easy to use and to empower users to learn effectively by creating a clear and compelling in-product and off-product content experience. 
-This includes [our documentation](https://rows.com/docs), our [template landing pages](https://rows.com/templates), and our in-product helper content. 
+This includes our [documentation](https://rows.com/docs), our [template landing pages](https://rows.com/templates), and our in-product helper content. 
 If you are ambitious and excited about building the educational content that will introduce millions of users to the new default spreadsheet in the world, this project is for you.
 
 ## Your responsibilities
-Maintain and expand [our documentation](https://rows.com/docs). Distill Rows’s key features into documentation that is practical and visually clear.
+Maintain and expand our [documentation](https://rows.com/docs). Distill Rows’s key features into documentation that is practical and visually clear.
 - Create and maintain other customizable in-product content related to features, such as instructions for the data explorer, the autocomplete feature, error messages.
 - Prepare and post content for product updates and release notes to be shared with users via different channels (inc. our in-product feature release announcements)
 - Create and maintain the content of our template and integration landing pages.
