@@ -13,16 +13,16 @@ This includes [our documentation](https://rows.com/docs), our [template landing 
 If you are ambitious and excited about building the educational content that will introduce millions of users to the new default spreadsheet in the world, this project is for you.
 
 ## Your responsibilities
-Maintain and expand[our documentation](https://rows.com/docs). Distill Rows’s key features into documentation that is practical and visually clear.
+Maintain and expand [our documentation](https://rows.com/docs). Distill Rows’s key features into documentation that is practical and visually clear.
 - Create and maintain other customizable in-product content related to features, such as instructions for the data explorer, the autocomplete feature, error messages.
 - Prepare and post content for product updates and release notes to be shared with users via different channels (inc. our in-product feature release announcements)
 - Create and maintain the content of our template and integration landing pages.
 
-## DURATION
-We are looking for a copywriter who can dedicate 20-40 hours per week to Rows over a 2-6-month period. 
-Hour rate: €36.00 /hour
+## Duration & Compensation
+- We are looking for a Copywriter who can dedicate 20-40 hours per week to Rows over a 2-6-month period. 
+- Hour rate: €36.00 /hour.
 
-## REQUIREMENTS
+## Requirements 
 Apart from copywriting skills in American English, we are looking for you if:
 - you are an educator at heart - you are passionate about teaching and driven to help people accomplish something easily without barriers;
 - you love spreadsheets - you use them regularly, can build a VLOOKUP or SUMIFS yourself with ease, and are excited to learn more.
