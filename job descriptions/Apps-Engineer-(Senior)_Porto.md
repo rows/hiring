@@ -5,14 +5,14 @@ We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/3
 
 # Your responsibilities
 Your role is to team up with our engineers and help to kickstart and build our desktop app. You will be working on:
-* A brand new Desktop App for our spreadsheet. Our core focus will be to deliver an App for macOS, but we have plans for Windows (and Linux) too.
+* A brand new App for our spreadsheet. Our core focus is desktop but we have plans for tablet.
 * Within the App, part of the work is in the account Dashboard where users manage apps and settings.
 * The other part of your work is in the editor where users manipulate a list of programmable cells that can do computing, including services and automation.
 
 ### Current open positions
-* We are looking for desktop application engineers who will be a fit for our team A1. 
+* We are looking for native application engineers (Flutter) who will be a fit for our team A1. 
     * See what each Team does [here](../Teams.md).
-    * Team A1 is the most recent team. Their responsibility is to build the most beautiful, incredibly, fast and awesome desktop application for our dear users. On this team, you will have the chance to contribute with your knowledge on creating not only the new application but to set up the development process, pipelines and other technical challenges needed to create this new application.
+    * Team A1 is the most recent team. Their responsibility is to build the most beautiful, incredibly, fast and awesome spreadsheet application for our dear users. On this team, you will have the chance to contribute with a project that is challenging in terms of performance and unique in terms of UI requirements.
 * Note: It is possible to move between teams. 
 
 # About you
@@ -23,8 +23,8 @@ We're looking for people who improve our team! Our ideal buddy is:
 
 # Requirements
 At least 3 years of work experience as a software engineer.
-* Fluent in design patterns and other Computer Science fundamentals.
 * Experienced in building mobile/desktop apps using Flutter.
+* Fluent in design patterns and other Computer Science fundamentals.
 * Motivated to test and adopt new technologies.
 * Experienced in tests (writing unit tests, end-to-end tests).
 * Able communicator in English. Portuguese is optional but welcome.
@@ -32,8 +32,6 @@ At least 3 years of work experience as a software engineer.
 # Nice to have
 * Experience in developing for Apple platforms (iOS/macOS)
 * WebSockets (GraphQL over WebSockets).
-* GraphQL.
-* GitHub (Open source and internal repos).
 
 # Compensation and Perks
 * Expected Annual Gross Salary Range: 48.300-62.200€.
