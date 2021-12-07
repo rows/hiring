@@ -1,3 +1,13 @@
+## Intro
+
+At Rows we create tools that make computation accessible to everyone. Coding used to be hard. Rows changes that. 
+We want you to create interactive web apps using the spreadsheet skills that you already have. Imagine a grid where each cell can exchange data with other online services or repeat a job. 
+Where users can turn their spreadsheets into mobile-responsive web apps as forms or reports in one click. This is what we’re building.
+
+Rows is a well-funded startup with top investors like Accel, Lakestar and Cherry Ventures. 
+We are a team of 50 who want to empower business people to take their life into their own hands again and build the tools they need for their jobs themselves. 
+We have offices in Berlin - a business team of 5 - and Porto - a tech team of 50. Check us e.g. on TechCrunch, VentureBeat, Business Insider (DE) and many other media!
+
 # Your responsibilities
 
 Your role is to team up with our Growth team to work on projects with the mission of improving our user activation and retention.
