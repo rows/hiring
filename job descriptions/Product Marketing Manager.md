@@ -2,7 +2,7 @@
 
 Your role is to team up with our Growth team to work on projects with the mission of improving our user activation and retention.
 
-Your focus will be accelerating the "ahah moment" for everyone that sign-ups at Rows. This means identifying the right use cases, optimizing the user onboarding, and build content (templates, other user ed) to help people "get it" and be successful.   
+Your focus will be accelerating the "ahah moment" for everyone that sign-ups at Rows. This means identifying the right use cases, optimizing the user onboarding, and build content (templates, other user education content) to help people "get it" and be successful.   
  
 Your two KPIs will be: user activation and week 1 user retention. 
  
