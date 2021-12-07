@@ -53,6 +53,13 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Proficient in written, oral and visual communication.
 
 
+# Compensation and Perks
+Expected Annual Gross Salary: To be discussed during the interview process.
+Employee equity plan.
+Liberal work-from-home policy.
+Unlimited unpaid vacation policy.
+
+
 # How-to
 Send the following information to [us](mailto:join@rows.com):
 1. Complete Linkedin link or CV pdf.
