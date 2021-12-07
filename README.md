@@ -12,7 +12,7 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 | Porto           | Engineering  | 1        |[FE engineer (senior)](https://github.com/rows/hiring/blob/master/job%20descriptions/FE%20engineer%20(senior)_Porto.md) |
 |Porto            | Engineering  | 1        |[BE engineer](https://github.com/rows/hiring/blob/master/job%20descriptions/BE%20engineer_Porto.md) |
 |Berlin           | Business     | 1        |[Copywriter](https://github.com/rows/hiring/blob/master/job%20descriptions/Copywriter.md) or [Technical Writer](https://github.com/rows/hiring/blob/master/job%20descriptions/Technical%20Writer.md) |
-|Berlin           | Product       | 1 |[Product Marketing Manager](https://github.com/rows/hiring/blob/master/job%20descriptions/Product%20Marketing%20Manager.md) |
+|Porto or Berlin           | Product       | 1 |[Product Marketing Manager](https://github.com/rows/hiring/blob/master/job%20descriptions/Product%20Marketing%20Manager.md) |
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
