@@ -54,10 +54,10 @@ We're looking for people who improve our team! Our ideal buddy is:
 
 
 # Compensation and Perks
-Expected Annual Gross Salary: To be discussed during the interview process.
-Employee equity plan.
-Liberal work-from-home policy.
-Unlimited unpaid vacation policy.
+* Expected Annual Gross Salary: To be discussed during the interview process.
+* Employee equity plan.
+* Liberal work-from-home policy.
+* Unlimited unpaid vacation policy.
 
 
 # How-to
