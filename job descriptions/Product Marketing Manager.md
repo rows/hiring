@@ -1,4 +1,4 @@
-## Intro
+# Intro
 
 At Rows we create tools that make computation accessible to everyone. Coding used to be hard. Rows changes that. 
 We want you to create interactive web apps using the spreadsheet skills that you already have. Imagine a grid where each cell can exchange data with other online services or repeat a job. 
