@@ -12,7 +12,7 @@ We have offices in Berlin - a business team of 5 - and Porto - a tech team of 50
 
 Your role is to team up with our Growth team to work on projects with the mission of improving our user activation and retention.
 
-Your focus will be accelerating the "ahah moment" for everyone that sign-ups at Rows. This means identifying the right use cases, optimizing the user onboarding, and build content (templates, other user education content) to help people "get it" and be successful.   
+Your focus will be accelerating the "Aha moment" for everyone that sign-ups at Rows. This means identifying the right use cases, optimizing the user onboarding, and build content (templates, other user education content) to help people "get it" and be successful.   
  
 Your two KPIs will be: user activation and week 1 user retention. 
  
@@ -20,7 +20,7 @@ Your two KPIs will be: user activation and week 1 user retention.
 
 * Devise, implement and own the user journey from sign-up to activation.
 * Partner closely with Comms, Customer success, and our Data team to analyze and identify what traits, product experience and other factors make users stick.
-* Work with our Growth Engineering team on user onboarding, product announcements, and other features that accelerate "ahah moment".
+* Work with our Growth Engineering team on user onboarding, product announcements, and other features that accelerate "Aha moment".
 * Research and document new user personas and use cases to pursue.
 * Deeply understand, research, and segment our users to deliver customized experiences to the right audience.
 * Build spreadsheet templates and other artifacts (e.g how-to-guides, blogposts) to complement the user onboarding.
