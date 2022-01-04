@@ -56,7 +56,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 # Compensation and Perks
 * Expected Annual Gross Salary: To be discussed during the interview process.
 * Employee equity plan.
-* Liberal work-from-home policy.
+* Liberal work-from-home policy.Located in Porto or Berlin
 * Unlimited unpaid vacation policy.
 
 
