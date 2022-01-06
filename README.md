@@ -15,6 +15,7 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 |Porto or Berlin           | Product       | 1 |[Product Marketing Manager](https://github.com/rows/hiring/blob/master/job%20descriptions/Product%20Marketing%20Manager.md) |
 |Porto            | Engineering  | 1       | [Apps Engineer](https://github.com/rows/hiring/blob/master/job%20descriptions/Apps-Engineer_Porto.md)  |
 |Porto            | Engineering  | 1       | [FE engineer Growth Team](https://github.com/rows/hiring/blob/master/job%20descriptions/FE%20engineer%20Growth%20Team.md) |
+|Berlin           | Business     | 1       | [Community Builder](https://github.com/rows/hiring/blob/master/job%20descriptions/Community%20Builder_Berlin.md) |
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
