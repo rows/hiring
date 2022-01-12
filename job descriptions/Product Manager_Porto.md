@@ -8,14 +8,15 @@ You can find us on [TechCrunch](https://tcrn.ch/3dEhNKD), [VentureBeat](https://
 As a Product Manager, your role is to team up with a Engineering manager and Product Designer and make sure we build the best product. You will be in charge of product in one or more of our [teams](../Teams.md).
 
 The main tasks of the Product Manager at Rows are:
-* To write the story for each team. Who are we serving, what do they need, how do we plan to get there. This includes organizing a roadmap for the quarter and the future, but also other strategic documents (we love bold ideas!). For this, you will talk to people accross teams, users, check data and organize that into challenges. You will decide the priorities of the roadmap together with your team (not for them!). You will ensure that each roadmap item is described in a clear manner: what are we really trying to achieve? Why?
+* To write the story for each team. Who are we serving, what do they need, how do we plan to get there. You will turn the product vision and strategy into the backlog. For this, you will talk to people accross teams, users, check data and organize that into challenges and specs.
+* To collaboratively organize the roadmap with other product and cell leaders for the quarter and the future, but also other strategic documents (we love bold ideas!). You will ensure that each roadmap item is described in a clear manner: what are we really trying to achieve? Why?
 * To be the contact point for the team, inside and outside the company. You will write a short weekly update and be involved in cross team product discussions. You will talk with users and create your opinions.
 * To be the driving force for problem solving and implementation decisions. You will express how much clarity there is on each to-do - if there's clarity, document it; if the team hasn't reached a conclusion yet, catalyze one by involving others (designers, users). As one of the key deciders, you will empower team colleagues (designers, engineers) by giving them the space to explore and impress, to decide scope, etc.
 
 ### Current open positions
-* We are looking for Product Managers who will be a fit for our team F1. 
+* We are looking for Product Managers who will be a fit for our data group. 
     * See what each Team does [here](../Teams.md).
-    * For team F1 (functions and integrations) we are especially interested in product candidates that also want to attack the business side. You will be finding potential data partners, making deals with providers, including proposing ways to build data ourselves.
+    * For team F1 (functions and integrations) we are especially interested in product candidates that also want to attack the data world. You'll be looking at/for data to amaze our users, but also to understand their needs.
 * Note: It is possible to move between teams. 
 
 # About you
@@ -26,7 +27,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 
 # Requirements
 * At least 3 years of work experience as a Product Manager.
-* At least 5 years of work experience in the tech space, as a PM, engineer, founder, etc. 
+* At least 5 years of work experience in the tech space, as an engineer, project manager, founder, etc. 
 * Very knowledgeable about the Rows product and our industry.
 * Proficient in understanding the impact of businesses models in a product.
 * Accomplished in adding clear value to a product.
@@ -42,11 +43,12 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Experienced in product management within a SaaS company.
 * Experienced in the reality of services and APIs. 
 * Experienced in Business Intelligence in the context of product analytics.
+* Experienced in SQL/BigQuery.
 * Experienced in Visual communication.
 * Experienced in programming.
 
 # Compensation and Perks
-* Expected Annual Gross Salary Range: 45.600-58.800€.
+* Expected Annual Gross Salary Range: xx.xxx-xx.xxx€.
 * Employee equity plan.
 * Health Insurance for you and your family.
 * Plenty of coffee and frequent ice-cream.
