@@ -22,7 +22,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Focused on quality and usability. We hate alarms going off and features that are half-baked as much as you do. Come build a polished product with us!
 
 # Requirements
-At least 3 years of work experience as a software engineer.
+At least 2 years of work experience as a software engineer.
 * Experienced in building mobile/desktop apps using Flutter.
 * Fluent in design patterns and other Computer Science fundamentals.
 * Motivated to test and adopt new technologies.
