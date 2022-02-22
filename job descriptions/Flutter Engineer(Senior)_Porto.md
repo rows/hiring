@@ -34,7 +34,7 @@ At least 3 years of work experience as a software engineer.
 * WebSockets (GraphQL over WebSockets).
 
 # Compensation and Perks
-* Expected Annual Gross Salary Range: 48.300-62.200€
+* Expected Annual Gross Salary Range: 48.100-64.900€
 * Employee equity plan.
 * Health Insurance for you and your family.
 * Plenty of coffee and frequent ice-cream - when at the office :)
