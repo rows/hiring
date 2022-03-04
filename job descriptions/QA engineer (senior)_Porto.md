@@ -63,6 +63,7 @@ Here are a few things we think are necessary for you to be successful in your jo
 - Plenty of coffee and frequent ice-cream - when at the office :)
 - Liberal work-from-home policy.
 - Unlimited vacation policy.
+- Open to remote.
 - Be part of a great team, have autonomy to give inputs and make things happen! In short: Really impact this Product!
 
 # How-to
