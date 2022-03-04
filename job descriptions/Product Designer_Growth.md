@@ -56,6 +56,7 @@ Also, if we call your mom she will say you're a pretty nice person ;)
 * Plenty of coffee and frequent ice-cream.
 * Liberal work-from-home policy.
 * Unlimited vacation policy.
+* Open to remote.
 * Be part of a great team, have autonomy to give inputs and make things happen! In short: Really impact this Product!
 
 # How-to
