@@ -50,6 +50,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Plenty of coffee and frequent ice-cream - when at the office :)
 * Liberal work-from-home policy.
 * Unlimited vacation policy.
+* Open to remote.
 
 # How-to
 Send the following information to [us](mailto:join@rows.com):
