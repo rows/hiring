@@ -40,6 +40,7 @@ At least 3 years of work experience as a software engineer.
 * Plenty of coffee and frequent ice-cream - when at the office :)
 * Liberal work-from-home policy.
 * Unlimited vacation policy.
+* Open to remote 
 
 # How-to
 Send the following information to [us](mailto:join@rows.com):
