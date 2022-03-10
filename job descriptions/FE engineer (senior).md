@@ -44,13 +44,13 @@ We're looking for people who improve our team! Our ideal buddy is:
 * GitHub (Open source and internal repos).
 
 # What's in it for you?
-- Expected Annual Gross Salary Range: 52.400-64.800€ for all locations in Europe.
-- Employee equity plan.
-- We're Hybrid - choose to work from our offices in Porto/Berlin or work full-remote ([23 countries](https://github.com/rows/hiring/blob/master/FAQs.md)).
-- Choice to work 4/days week with pro-rated compensation.
-- Unlimited unpaid vacation policy.
-- More paid vacation if you stay 3 or 5 years.
-- Be part of a great team, have autonomy to give inputs and make things happen! In short: Really impact this Product!
+* Expected Annual Gross Salary Range: 52.400-64.800€ for all locations in Europe.
+* Employee equity plan.
+* We're Hybrid - choose to work from our offices in Porto/Berlin or work full-remote ([23 countries](https://github.com/rows/hiring/blob/master/FAQs.md)).
+* Choice to work 4/days week with pro-rated compensation.
+* Unlimited unpaid vacation policy.
+* More paid vacation if you stay 3 or 5 years.
+* Be part of a great team, have autonomy to give inputs and make things happen! In short: Really impact this Product!
 
 # How-to
 Send the following information to [us](mailto:join@rows.com):
