@@ -12,7 +12,7 @@ Teams have a mission - a driving goal that provides clarity over the long term.
 | F1/F2 | Functions & Integrations  | Build computation components that solve challenges for business users. | Porto (PT)/remote             |
 | G1    | User Growth & Marketing   | Build the engine that acquires, converts and activates users.          | Berlin (DE)/Porto (PT)/remote |
 | S1    | Sales, Success, Support   | Increase revenue from customers who get high value-add from Rows.      | Berlin (DE)/remote            |
-| X1    | HR, Ops, Finance          | Build and support a world-class productivity team and company.         | Porto (PT), Berlin (DE)       |
+| X1    | HR, Ops, Finance          | Build and support a world-class productivity team and company.         | Porto (PT)/Berlin (DE)        |
 
 At Rows, teams enjoy a lot of ownership.
 - For example, decisions inside Product teams are taken by the local Product Manager, Engineering Manager (Engineers) and Design lead as a group.
