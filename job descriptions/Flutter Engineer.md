@@ -33,13 +33,14 @@ At least 2 years of work experience as a software engineer.
 * Experience in developing for Apple platforms (iOS/macOS)
 * WebSockets (GraphQL over WebSockets).
 
-# Compensation and Perks
-* Expected Annual Gross Salary Range: 40.700-49.800€.
+# What’s in it for you?
+* Expected Annual Gross Salary Range: 39.300-48.400€ for all locations in Europe.
 * Employee equity plan.
-* Health Insurance for you and your family.
-* Plenty of coffee and frequent ice-cream - when at the office :)
-* Liberal work-from-home policy.
-* Unlimited vacation policy.
+* We're Hybrid - choose to work from our offices in Porto/Berlin or work full-remote ([23 countries](https://github.com/rows/hiring/blob/master/FAQs.md)).
+* Choice to work 4/days week with pro-rated compensation.
+* Unlimited unpaid vacation policy.
+* More paid vacation if you stay 3 or 5 years.
+* Be part of a great team, have autonomy to give inputs and make things happen! In short: Really impact this Product!
 
 # How-to
 Send the following information to [us](mailto:join@rows.com):
