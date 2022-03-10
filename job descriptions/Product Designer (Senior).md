@@ -48,13 +48,13 @@ Also, if we call your mom she will say you're a pretty nice person ;)
 # Nice to have
 * Motion design skills, svg animation skills.
 
-# Compensation and Perks
-* Expected Annual Gross Salary Range: 40.600-52.300€.
+# What’s in it for you?
+* Expected Annual Gross Salary Range: 47.500-58.800€ for all locations in Europe.
 * Employee equity plan.
-* Health Insurance for you and your family.
-* Plenty of coffee and frequent ice-cream.
-* Liberal work-from-home policy.
-* Unlimited vacation policy.
+* We're Hybrid - choose to work from our offices in Porto/Berlin or work full-remote ([23 countries](https://github.com/rows/hiring/blob/master/FAQs.md)).
+* Choice to work 4/days week with pro-rated compensation.
+* Unlimited unpaid vacation policy.
+* More paid vacation if you stay 3 or 5 years.
 * Be part of a great team, have autonomy to give inputs and make things happen! In short: Really impact this Product!
 
 # How-to
