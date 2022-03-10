@@ -57,13 +57,12 @@ Here are a few things we think are necessary for you to be successful in your jo
 
 # What’s in it for you?
 
-- Expected Annual Gross Salary Range: 38.200-52.400€.
+- Expected Annual Gross Salary Range: 42.800-53.100€ for all locations in Europe.
 - Employee equity plan.
-- Health Insurance for you and your family.
-- Plenty of coffee and frequent ice-cream - when at the office :)
-- Liberal work-from-home policy.
-- Unlimited vacation policy.
-- Open to remote.
+- We're Hybrid - choose to work from our offices in Porto/Berlin or work full-remote ([23 countries](https://github.com/rows/hiring/blob/master/FAQs.md)).
+- Choice to work 4/days week with pro-rated compensation.
+- Unlimited unpaid vacation policy.
+- More paid vacation if you stay 3 or 5 years.
 - Be part of a great team, have autonomy to give inputs and make things happen! In short: Really impact this Product!
 
 # How-to
