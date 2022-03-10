@@ -7,7 +7,7 @@ Terrific.
 ## How is life in Berlin?
 Swell.
 
-## Do you have remote positions?
+## Where do you enable remote work?
 In addition to Portugal and Germany (where our offices are located), we enable remote work in Brazil, the United States, and 19 European countries: Belgium, Bulgaria, Croatia, Denmark, Finland, Greece, Hungary, Ireland, Lithuania, Luxembourg, Poland, Malta, the Netherlands, Norway, Romania, Spain, Sweden, Ukraine, the UK. We will work to add more countries to the list, depending on their talent pool, time zones between U.S. East Cost and Europe, visa-free travel to Europe, and total labor cost.
 
 ## Why are you enabling remote?
