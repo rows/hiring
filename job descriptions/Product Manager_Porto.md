@@ -47,14 +47,14 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Experienced in Visual communication.
 * Experienced in programming.
 
-# Compensation and Perks
-* Expected Annual Gross Salary Range: 45.600-58.800€.
-* Employee equity plan.
-* Health Insurance for you and your family.
-* Plenty of coffee and frequent ice-cream.
-* Liberal work-from-home policy.
-* Unlimited vacation policy.
-* Open to remote.
+# What's in it for you?
+- Expected Annual Gross Salary Range: 43.700-53.200€ for all locations in Europe.
+- Employee equity plan.
+- We're Hybrid - choose to work from our offices in Porto/Berlin or work full-remote ([23 countries](https://github.com/rows/hiring/blob/master/FAQs.md)).
+- Choice to work 4/days week with pro-rated compensation.
+- Unlimited unpaid vacation policy.
+- More paid vacation if you stay 3 or 5 years.
+- Be part of a great team, have autonomy to give inputs and make things happen! In short: Really impact this Product!
 
 # How-to
 Send the following information to [us](mailto:join@rows.com):
