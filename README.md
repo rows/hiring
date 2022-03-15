@@ -11,12 +11,19 @@ Generally, you can choose if you want to work remotely (within our list of [coun
 | Location        | Area         | Openings | Position and link to Job Description |
 | --------------- | ------------ | -------- | --------------- |    
 | Remote/any      | Engineering  | 1        | [QA Engineer (senior)](/job%20descriptions/QA%20engineer%20(senior).md)  |
-| Remote/any      | Engineering  | 1        | [FE engineer (senior)](/job%20descriptions/FE%20engineer%20(senior).md) |
-| Remote/any      | Engineering  | 1        | [BE engineer (senior)](/job%20descriptions/BE%20engineer%20(senior).md) |
 | Remote/any      | Engineering  | 1        | [Flutter Engineer (senior)](/job%20descriptions/Flutter%20Engineer(Senior).md)  |
 | Remote/any      | Product      | 1        | [Product Manager](/job%20descriptions/Product%20Manager.md) |
 | Remote/any      | Product      | 1        | [Product Designer](job%20descriptions/Product%20Designer_Growth.md) |
 
+### Spontaneous applications:
+
+We're happy to meet great talent. If you don't see the vacancy you're looking for apply [here](mailto:join@rows.com).
+Recurrent vacancies:
+
+| Location        | Area         | Position and link to Job Description                                    |
+| --------------- | ------------ | ----------------------------------------------------------------------- |    
+| Remote/any      | Engineering  | [FE engineer (senior)](/job%20descriptions/FE%20engineer%20(senior).md) |
+| Remote/any      | Engineering  | [BE engineer (senior)](/job%20descriptions/BE%20engineer%20(senior).md) |
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
