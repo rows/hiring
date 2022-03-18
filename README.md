@@ -13,7 +13,6 @@ Generally, you can choose if you want to work remotely (within our list of [coun
 | Remote/any      | Engineering  | 1        | [QA Engineer (senior)](/job%20descriptions/QA%20engineer%20(senior).md)  |
 | Remote/any      | Engineering  | 1        | [Flutter Engineer (senior)](/job%20descriptions/Flutter%20Engineer(Senior).md)  |
 | Remote/any      | Product      | 1        | [Product Manager](/job%20descriptions/Product%20Manager.md) |
-| Remote/any      | Product      | 1        | [Product Designer](job%20descriptions/Product%20Designer_Growth.md) |
 
 ### Spontaneous applications:
 
