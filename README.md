@@ -8,6 +8,7 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 
 We're happy to meet great talent. If you don't see the vacancy you're looking for apply [here](mailto:join@rows.com).
 Generally, you can choose if you want to work remotely (within our list of [countries](https://github.com/rows/hiring/blob/master/FAQs.md)) or from one of our office locations in Porto and Berlin (Location: Remote/any).
+
 Recurrent vacancies:
 
 | Location        | Area         | Position and link to Job Description                                    |
