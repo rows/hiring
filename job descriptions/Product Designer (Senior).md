@@ -49,7 +49,7 @@ Also, if we call your mom she will say you're a pretty nice person ;)
 * Motion design skills, svg animation skills.
 
 # What’s in it for you?
-* Expected Annual Gross Salary Range: 47.500-58.80€ for all locations in Europe.
+* Expected Annual Gross Salary Range: 47.500-58.800€ for all locations in Europe.
 * Employee equity plan.
 * We're Hybrid - choose to work from our offices in Porto/Berlin or work full-remote (23 countries).
 * Choice to work 4/days week with pro-rated compensation.
