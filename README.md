@@ -18,7 +18,7 @@ Recurrent vacancies:
 | Remote/any      | Engineering  | [FE engineer (senior)](/job%20descriptions/FE%20engineer%20(senior).md) |
 | Remote/any      | Engineering  | [BE engineer (senior)](/job%20descriptions/BE%20engineer%20(senior).md) |
 | Remote/any      | Product      | [Product Manager](https://github.com/rows/hiring/blob/master/job%20descriptions/Product%20Manager.md) |
-| Remote/any      | Design       | [Product Designer (Senior)(https://github.com/rows/hiring/blob/master/job%20descriptions/Product_Designer_(Senior)_Porto_2021.md) |
+| Remote/any      | Design       | [Product Designer (Senior)](https://github.com/rows/hiring/blob/master/job%20descriptions/Product_Designer_(Senior)_Porto_2021.md) |
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
