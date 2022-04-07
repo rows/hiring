@@ -1,39 +1,39 @@
 ## Intro
-At Rows we create tools that make computation accessible to everyone.
-Coding used to be hard. Rows changes that. We want you to create interactive web apps using the spreadsheet skills that you already have. Imagine a grid where each cell can exchange data with other online services or repeat a job. This is what we’re building.
+At [Rows](https://rows.com/) we're building the spreadsheet with superpowers. 
 
-[Rows](https://rows.com/), formerly dashdash, is a well-funded startup with top investors like Accel and Cherry Ventures. We are a team of 50 who want to empower business people to take their life into their own hands again and build the tools they need for their jobs themselves. We have offices in Berlin - a business team of 5 - and Porto - a tech team of 45. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/rowshq), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/).
+The world runs on spreadsheets, but the last time they got a major update was in 2006. That's a year before the first iPhone was released!
+That's why Rows has reinvented spreadsheets for modern teams.
+
+We are looking for a Communications Intern to join our mighty Growth team and help us spread the word about Rows. Recently Rows appeared in multiple publications - thanks to our awesome apps and bold billboards we cleverly placed near Google and Microsoft HQs :). Check out these [TechRadar](https://www.techradar.com/uk/news/the-tyranny-of-microsoft-excel-may-finally-be-over) and [Wired articles](https://www.wired.com/story/spreadsheets-are-hot-and-cranking-out-complex-code/). 
+
+[Rows](https://rows.com/), is a well-funded startup with top investors like Accel and Cherry Ventures. We are a team of 50+ bright minds and warm hearts split between Berlin and Porto.
+
 ## Your Role
-"Not everyone can become a great artist, but a great artist can come from anywhere." -- Anton Ego in Ratatouille.
 
-Disney's Ratatouille captures the essence of innovation, empowerment and entrepreneurship that we want to convey to business people around the world who dare to go beyond the expected. If you can help us turn this essence into our story of empowerment through spreadsheets, this is for you. 
+We are hiring a Communications Intern for our office in Berlin, Germany, to help tell our story to the world. You will support our efforts with storytelling and copy for owned channels (website. blog) and social media with focus on the US market. This is an exciting opportunity to join a dynamic team and help an amazing brand grow.
 
-We are hiring a Senior Communications Manager for our office in Berlin, Germany, to help us excel at telling our story to the world. As the person that will lead our efforts on storytelling and copy, this is an opportunity to shape a brand from the ground up. If you can help us with any of PR and/ or social media and lifecycle marketing, too, that is a big plus. This is a hands-on role, and you should be prepared to execute in these areas. 
-Although this is a full-time position, we are open to candidates who would like to work at least 25h/ week. 
+This is a full-time position (10 hours/week), overall internship duration 3-6 months.
 
 ## Your responsibilities
-- Lead the development and execution of our business-wide storytelling, communications and social media strategy.
-- Craft our story, create and oversee copy across all public-facing acquisition channels: website, emails, PR, social, in-product, templates, knowledge base. 
-- Build and maintain strong relations with key media with all media outlets including business, tech, trade press, podcasts and more (focus on digital outlets in the US and in Europe) to drive positive coverage, incl. for paid traffic on select outlets.
-- Write content for (and possibly execute on) social media and lifecycle marketing campaigns.
-- Create a content strategy to drive reach and engagement with users and influencers online and offline.
-- Coach other marketing and product team members in writing content, and provide improvement suggestions to in-product content.
-- Partner with our product, growth and marketing teams to understand our target audience and develop new strategies to reach them.
-- Define and track key performance indicators for channels and campaigns.
+- Draft copy to place across various various channels including website, blog, newsletters, social media.
+- Research topics revelant for spreadsheets enthisuasts and proactively pitch ideas for the blogposts. 
+- Work with CMS solution to manage adding new content to the blog, post on social media (Twitter, LinkedIn).
+- Support editing copy created by other team members for public facing channels.
+- Support the Growth team with approaching relevant tech press, podcasts and events.
+
 
 ## About you
-- You have 5 or more years of experience in a similar role.
+- You have experience in a similar copywriter role.
+- You have an excellent command of the English language.
 - You love to write and are passionate about high-quality copy.
-- You love productivity software & spreadsheets.
-- You are hands-on and like to get your hands dirty.
-- You have an excellent command of the English language. 
-- Experience in social media and lifecycle marketing is a plus.
+- You love tech and productivity software. 
+- You have hands-on attitude
+
 
 ## Compensation and Perks
-- Expected Annual Gross Salary: 50.000-80.000€
-- Employee equity plan.
+- Expected Monthly Gross Salary: ...€
 - Liberal work-from-home policy.
-- Unlimited unpaid vacation policy.
+
 
 ## How-to
 Send the following information to [us](mailto:join@rows.com):
