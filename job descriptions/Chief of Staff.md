@@ -38,10 +38,13 @@ You will get a front-row seat taking a company from 0 to 1. You will do most thi
 * No admin task is too small or boring for you, and no task too exciting and big that you'll lose focus. 
 
 ## Compensation and Perks
-- Expected Annual Gross Salary: To be discussed during the interview process.
-- Employee equity plan.
-- Liberal work-from-home policy.
-- Unlimited unpaid vacation policy.
+* Expected Annual Gross Salary: To be discussed during the interview process.
+* Employee equity plan.
+* We're Hybrid - choose to work from our offices in Porto/Berlin or work full-remote ([23 countries](https://github.com/rows/hiring/blob/master/FAQs.md)).
+* Choice to work 4/days week with pro-rated compensation.
+* Unlimited unpaid vacation policy.
+* More paid vacation if you stay 3 or 5 years.
+* Be part of a great team, have autonomy to give inputs and make things happen! In short: Really impact this Product!
 
 ## How-to
 Send the following information to [us](mailto:join@rows.com):
