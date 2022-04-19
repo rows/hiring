@@ -12,13 +12,20 @@ You will get a front-row seat taking a company from 0 to 1. You will do most thi
 
 # Your responsibilities
 
-* Be the extended hand of the founders inside the company, and help founders be more productive in topics big and small.
-* Work with team leaders and functions to ensure clear objectives, priorities and results for the entire organization.
-* Ensure team statuses are asynchronous and lean, and run major cross-team statuses (monthly).
-* Ensure meetings are impactful and always have clearly documented decisions and next steps, in all teams.
+* Always be the extended hand of the founders inside the company, and help founders be more productive in topics big and small.
+* Weekly, organize and review the asynchronous Weekly Updates from each team, alongside group managers and team leaders.
+* Weekly, create the Weekly Update for the Founder team, including status updates on teams and projects.
+* Monthly, organize and run the Monthly Team Review. Gather a status update from all group managers, and gather and run any additional topics. 
+* Monthly, send an investment update to our key investors.
+* Quarterly, run the Quarter Planning workshop.
+* Quarterly, run and present the Quarter Survey and the Quarter Assessment (team evaluation).
+* Quarterly, run a workshop between all Group Managers.
+* Quarterly, assist in preparing board meetings.
+* Selectively participate in fundraising, incl. venture capital and public grants.
+* Always ensure meetings are impactful and have clearly documented decisions and next steps, in all teams.
+* Selectively participate in key product, marketing and HR meetings.
 * Support company and team leadership in creating more effective processes and better documentation for their teams.
-* Create stories and formal documentation for board meetings & fundraising, incl. venture capital and public grants.
-* Identify unsolved problems of the organization and own special projects to solve them.
+* Always identify unsolved problems of the organization and own special projects to solve them.
 
 # About you
  
