@@ -10,35 +10,33 @@ We are looking for a Communications Intern to join our mighty Growth team and he
 
 ## Your Role
 
-We are hiring a Communications Intern for our office in Berlin, Germany, to help tell our story to the world. You will support our efforts with storytelling and copy for owned channels (website. blog) and social media with focus on the US market. This is an exciting opportunity to join a dynamic team and help an amazing brand grow.
+We are hiring a Communications Intern for our office in Berlin, Germany, to help tell our story to the world. You will support our efforts with storytelling and copy for website, blog and social media. This is an exciting opportunity to join a dynamic team and help an amazing brand grow.
 
-This is a full-time position (10 hours/week), overall internship duration 3-6 months.
+This is a part-time position (10 hours/week). Overall internship duration 3-6 months.
 
 ## Your responsibilities
-- Draft copy to place across various various channels including website, blog, newsletters, social media.
-- Research topics revelant for spreadsheets enthisuasts and proactively pitch ideas for the blogposts. 
-- Work with CMS solution to manage adding new content to the blog, post on social media (Twitter, LinkedIn).
+- Draft copy to for various channels including website, blog, newsletters, social media.
+- Research topics revelant for spreadsheets enthisuasts and pitch ideas for the blogposts. 
+- Work with CMS adding new content to the blog, post on social media (Twitter, LinkedIn).
 - Support editing copy created by other team members for public facing channels.
 - Support the Growth team with approaching relevant tech press, podcasts and events.
 
 
 ## About you
-- You have experience in a similar copywriter role.
-- You have an excellent command of the English language.
-- You love to write and are passionate about high-quality copy.
+- You have experience in a similar or copywriter role.
+- You have an excellent command of the English language (native level).
+- You are passionate about writing.
 - You love tech and productivity software. 
-- You have hands-on attitude
+- You have hands-on attitude.
 
 
 ## Compensation and Perks
-- Expected Monthly Gross Salary: ...€
-- Liberal work-from-home policy.
+- Monthly Gross Salary: 950€/month (10 hours/week).
+- Remote first policy.
 
 
-## How-to
+## How-to apply
 Send the following information to [us](mailto:join@rows.com):
-1. Complete Linkedin link or CV pdf.
-1. Which position you want to apply to and why.
-1. Email, phone contacts.
-1. Also send three (3x) 1-hour slots of availability in the next 3-5 days.
-1. A writing exercise will be part of this interview process.
+- Complete Linkedin profile or a CV pdf.
+- Which position you want to apply to and why.
+- A writing exercise will be part of this interview process.
