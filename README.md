@@ -6,9 +6,10 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 
 ### Open positions:
 
-| Location           | Area         | Position and link to Job Description                                    |
-| -------------------| ------------ | ----------------------------------------------------------------------- |    
-| Berlin/Porto/Remote| Leadership   | [Chief of Staff](/job%20descriptions/Chief%20of%20Staff.md)             |
+| Location           | Area         | Position and link to Job Description                                       |
+| -------------------| ------------ | ---------------------------------------------------------------------------|    
+| Berlin/Porto/Remote| Leadership   | [Chief of Staff](/job%20descriptions/Chief%20of%20Staff.md)                |
+| Berlin             | Growth       | [Communications intern](/job%20descriptions/Communications%20-%20Intern.md)|
 
 ### Spontaneous applications:
 
