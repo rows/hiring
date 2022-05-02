@@ -28,7 +28,7 @@ We are hiring a Finance Manager for our office in Berlin, Germany, to own the Fi
 - Expected Annual Gross Salary: 50.000-65.000€
 - Employee equity plan.
 - Liberal work-from-home policy.
-- Choice to work 4/days week with pro-rated compensation.
+- Choice to work 30h/month with pro-rated compensation.
 - Unlimited unpaid vacation policy.
 - More paid vacation if you stay 3 or 5 years.
 
