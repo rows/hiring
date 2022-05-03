@@ -1,4 +1,4 @@
-# Customer Success Manager at Rows in Berlin
+# Business Development Manager at Rows in Berlin
 
 ## Intro
 
