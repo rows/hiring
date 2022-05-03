@@ -48,7 +48,7 @@ We're looking for people who improve our team! Our ideal buddy aligns with our v
 * Expected Annual Gross Salary: 45.000-65.000€
 * Employee equity plan.
 * [Pavilion](https://www.joinpavilion.com/) membership (sales community) for your professional development.
-* * We're Hybrid - choose to work from our offices in Porto/Berlin or work full-remote ([23 countries](https://github.com/rows/hiring/blob/master/FAQs.md)).
+* We're Hybrid - choose to work from our offices in Porto/Berlin or work full-remote ([23 countries](https://github.com/rows/hiring/blob/master/FAQs.md)).
 * Choice to work 4/days week with pro-rated compensation.
 * Unlimited unpaid vacation policy.
 * More paid vacation if you stay 3 or 5 years.
