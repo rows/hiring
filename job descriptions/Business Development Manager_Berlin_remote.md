@@ -9,14 +9,14 @@ Coding used to be hard. Rows changes that. We want you to create interactive web
 
 ## Your role
 
-As our Business Development Manager for our office in Berlin, Germany, you will lead our efforts to work with high-profile companies to adopt Rows and expand usage within their organizations. This is a role for smart and ambitious people with an interest in startups and sales. 
+As our Business Development Manager, you will lead our efforts to work with high-profile companies to adopt Rows and expand usage within their organizations. This is a role for smart and ambitious people with an interest in startups and sales. 
 If you love spreadsheets, love building relationships and help other succeed, and if you can sell and navigate organizations to the highest-potential users and decision-makers, this job is for you! 
 If you excel in this role, you'll get huge opportunities at Rows. Or you'll be prepared to found your own company as a business founder.
 
 ## Your responsibilities
 
 * Sell Rows directly to prospective and active users in target companies by building relationships, finding out what users and their companies need, and being helpful to make them succeed.
-* Immerse yourself in relevant communities and at relevant events to expand your network among Rows' B2B target audience.
+* Immerse yourself in relevant communities and at relevant events to expand your network among Rows' B2B target audience. Currently, our focus is on marketing reporting.
 * Put users' needs first and empathize with every aspect of the user experience.
 * Identify opportunities for growth and usage expansion in our existing user base.
 * Work with existing users to expand to other users and functions within the company, understand who else will benefit from Rows and how to get to them.
@@ -35,6 +35,7 @@ If you excel in this role, you'll get huge opportunities at Rows. Or you'll be p
 * You are a hustler and creative problem solver - you work with resilience and autonomy.
 * You can communicate really well in English.
 * You are analytical, structured and organized.
+* A strong network among online marketers and knowledge of online marketing challenges are a plus.
 
 # About you
 
