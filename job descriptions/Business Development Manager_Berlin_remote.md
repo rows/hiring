@@ -28,14 +28,14 @@ If you excel in this role, you'll get huge opportunities at Rows. Or you'll be p
 
 ## Requirements
 
-* You have experience in consulting, finance, VC or sales and partnerships in a highly professional and dynamic work environment - software experience is a plus.
-* You love people, and people love you - you are a great relationship-builder.
+* You have worked in a highly professional and dynamic work environment. Software experience is a plus. Backgrounds in Consulting, finance, VC, operations or sales and partnerships can be a plus.
 * You understand problems people face in business roles in companies, you can navigate your way in companies to other potential users and decision-makers.
 * You are a total spreadsheet pro.
-* You are a hustler and creative problem solver - you work with resilience and autonomy.
+* You are a hustler and creative problem solver - you work with resilience and autonomy. You want to sell our product!
+* A strong network among online marketers and knowledge of online marketing challenges are a plus.
+* You love people, and people love you - you are a great relationship-builder.
 * You can communicate really well in English.
 * You are analytical, structured and organized.
-* A strong network among online marketers and knowledge of online marketing challenges are a plus.
 
 # About you
 
