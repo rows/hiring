@@ -41,7 +41,7 @@ If you excel in this role, you'll get huge opportunities at Rows. Or you'll be p
 
 We're looking for people who improve our team! Our ideal buddy aligns with our values and is:
 * Bold. We are building a platform that provides General Purpose Computing to the masses; this requires cooking up new solutions that handle millions of calculations.
-* Focused. Most of our challenges require require a lot of concentration, being decisive, and the will to pursue high-quality outcomes.
+* Focused. Most of our challenges require a lot of concentration, being decisive, and the will to pursue high-quality outcomes.
 * A giver. We like to share. Information, our office, our tools.
 
 ## Compensation and Perks
