@@ -11,7 +11,6 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 | Berlin/Remote       | Business   | [Business Development Manager](https://github.com/rows/hiring/blob/master/job%20descriptions/Business%20Development%20Manager_Berlin_remote.md)|
 | Berlin              | Growth       | [Communications intern](/job%20descriptions/Communications%20-%20Intern.md)|
 | Berlin              | Finance      | [Finance Manager ](https://github.com/rows/hiring/blob/master/job%20descriptions/Finance%20Manager_Berlin.md)|
-| Berlin/Porto/Remote | Engineering  | [Flutter Engineer](https://github.com/rows/hiring/blob/master/job%20descriptions/Flutter%20Engineer.md) |
 
 ### Spontaneous applications:
 
@@ -20,12 +19,14 @@ Generally, you can choose if you want to work remotely (within our list of [coun
 
 Recurrent vacancies:
 
-| Location        | Area         | Position and link to Job Description                                    |
-| --------------- | ------------ | ----------------------------------------------------------------------- |    
-| Remote/any      | Engineering  | [FE engineer (senior)](/job%20descriptions/FE%20engineer%20(senior).md) |
-| Remote/any      | Engineering  | [BE engineer (senior)](/job%20descriptions/BE%20engineer%20(senior).md) |
-| Remote/any      | Design       | [Product Designer (Senior)](https://github.com/rows/hiring/blob/master/job%20descriptions/Product%20Designer%20(Senior).md) |
-| Remote/any      | Product      | [Product Manager](https://github.com/rows/hiring/blob/master/job%20descriptions/Product%20Manager.md) |
+| Location            | Area         | Position and link to Job Description                                    |
+| --------------------| ------------ | ----------------------------------------------------------------------- |    
+| Remote/any          | Engineering  | [FE engineer (senior)](/job%20descriptions/FE%20engineer%20(senior).md) |
+| Remote/any          | Engineering  | [BE engineer (senior)](/job%20descriptions/BE%20engineer%20(senior).md) |
+| Remote/any          | Design       | [Product Designer (Senior)](https://github.com/rows/hiring/blob/master/job%20descriptions/Product%20Designer%20(Senior).md)   |
+| Remote/any          | Product      | [Product Manager](https://github.com/rows/hiring/blob/master/job%20descriptions/Product%20Manager.md) |
+| Berlin/Porto/Remote | Engineering  | [Flutter Engineer](https://github.com/rows/hiring/blob/master/job%20descriptions/Flutter%20Engineer.md) |
+
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
