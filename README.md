@@ -11,6 +11,7 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 | Berlin/Remote       | Business   | [Business Development Manager](https://github.com/rows/hiring/blob/master/job%20descriptions/Business%20Development%20Manager_Berlin_remote.md)|
 | Berlin              | Growth       | [Communications intern](/job%20descriptions/Communications%20-%20Intern.md)|
 | Berlin              | Finance      | [Finance Manager ](https://github.com/rows/hiring/blob/master/job%20descriptions/Finance%20Manager_Berlin.md)|
+| Remote/any          | Engineering  | [BE Engineer](https://github.com/rows/hiring/blob/master/job%20descriptions/BE%20engineer.md) |
 
 ### Spontaneous applications:
 
