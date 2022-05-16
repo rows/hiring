@@ -7,8 +7,8 @@ Teams have a mission - a driving goal that provides clarity over the long term.
 |:------|:--------------------------|:-----------------------------------------------------------------------|:------------------------------|
 | A1    | Apps                      | Build desktop apps that rival the best native app experiences.         | Porto (PT)/remote             |
 | C1    | Computing                 | Build the most performant and reliable computation engine for No-Code. | Porto (PT)/remote             |
-| D1    | Dashboard                 | Make Rows the easiest tool to learn and use for business users.        | Porto (PT)/remote             |
-| E1/E2 | Editor & Live Spreadsheet | Make Rows THE spreadsheet you will enjoy creating and sharing.         | Porto (PT)/remote             |
+| P1/P2 | Editor & Live Spreadsheet | Make Rows THE spreadsheet you will enjoy creating and sharing.         | Porto (PT)/remote             |
+| P3    | Dashboard                 | Make Rows the easiest tool to learn and use for business users.        | Porto (PT)/remote             |
 | F1/F2 | Functions & Integrations  | Build computation components that solve challenges for business users. | Porto (PT)/remote             |
 | G1    | User Growth & Marketing   | Build the engine that acquires, converts and activates users.          | Berlin (DE)/Porto (PT)/remote |
 | S1    | Sales, Success, Support   | Increase revenue from customers who get high value-add from Rows.      | Berlin (DE)/remote            |
@@ -22,7 +22,7 @@ We have now started to structure our team around similar teams. Each group has a
 
 | Group                 | Domain                                | Teams      | 
 |:----------------------|:--------------------------------------|:-----------| 
-| User Software         | Productivity software for users.      | A1, D1, E1 | 
+| User Software         | Productivity software for users.      | A1, P1, P2, P3| 
 | Software Technologies | Performant computing.                 | C1         | 
 | Data Market           | Functions & Integrations marketplace. | F1, F2     | 
 | Marketing             | Growth & Marketing                    | G1         | 
