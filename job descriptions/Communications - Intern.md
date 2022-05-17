@@ -32,7 +32,7 @@ This is a part-time position (10 hours/week). Overall internship duration 3-6 mo
 
 ## Compensation and Perks
 - Monthly Gross Salary: 950€/month (10 hours/week).
-- Remote first policy.
+- Remote first policy (you must reside in Germany).
 
 
 ## How-to apply
