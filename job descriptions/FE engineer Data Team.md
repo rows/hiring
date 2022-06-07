@@ -7,7 +7,7 @@ We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/3
 Your role is to team up with our engineers and build computation components that solve challenges for business users. Joining oud Data group team you will contribute to help users learn and extract the maximum value from Data they can obtain via Integrations, and manual manipulation and store in their spreadsheet. 
 
 The usual challenges you will be working on:
-* Improve and create new features that allow users to better handle Data sources;
+* Create and improve features that allow users to better handle Data sources;
 * Give a great experience to users when using classic spreadsheet functions and our unique built-in Integrations:
 * Improve the editor where users manipulate a list of programmable cells that can do computing, including services and automation;
 * Create all the above while assuring the performance and reliability of our WebApp.
