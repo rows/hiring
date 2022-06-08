@@ -20,7 +20,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Focused on quality and usability. We hate alarms going off and features that are half-baked as much as you do. Come build a polished product with us!
 
 # Requirements
-* At least 3 years of work experience as a software engineer.
+* At least 6 years of work experience as a software engineer.
 * Fluent in design patterns and other Computer Science fundamentals.
 * Proficient in ECMAScript 2017.
 * Proficient in HTML5 & CSS3.
