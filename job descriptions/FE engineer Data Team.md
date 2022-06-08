@@ -4,7 +4,7 @@ Imagine a spreadsheet grid where each cell can also call an API or repeat a job.
 We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/3dEhNKD), [VentureBeat](https://venturebeat.com/2021/02/23/rows-raises-16-million-and-launches-next-gen-spreadsheets-with-built-in-data-integrations/), [Eco Sapo (PT)](https://eco.sapo.pt/2021/02/23/rows-capta-13-milhoes-em-serie-b-para-continuar-a-fazer-crescer-equipa-e-produto-entre-o-porto-e-berlim/), [Business Insider (DE)](https://www.businessinsider.de/gruenderszene/rows-excel-konkurrent-finanzierung/) and many other media!
 
 # Your responsibilities
-Your role is to team up with our engineers and build computation components that solve challenges for business users. Joining oud Data group team you will contribute to help users learn and extract the maximum value from Data they can obtain via Integrations, and manual manipulation and store in their spreadsheet. 
+Your role is to team up with our engineers and build computation components that solve challenges for business users. Joining our Data group team you will contribute to help users learn and extract the maximum value from Data they can obtain via Integrations, and manual manipulation and store in their spreadsheet. 
 
 The usual challenges you will be working on:
 * Create and improve features that allow users to better handle Data sources;
