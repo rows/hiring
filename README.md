@@ -10,6 +10,7 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 | --------------------| ------------ | ---------------------------------------------------------------------------|    
 | Remote/any          | Engineering  | [Flutter Engineer](https://github.com/rows/hiring/blob/master/job%20descriptions/Flutter%20Engineer.md) |
 | Remote/any          | Engineering  | [FE Engineer (Data Team)](https://github.com/rows/hiring/blob/master/job%20descriptions/FE%20engineer%20Data%20Team.md) |
+|Remote/Berlin        | Finance Manager | [Finance Manager](https://github.com/rows/hiring/blob/master/job%20descriptions/Finance%20Manager_Berlin.md) |
 
 ### Spontaneous applications:
 
