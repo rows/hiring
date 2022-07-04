@@ -6,9 +6,7 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 
 ### Open positions:
 
-| Location            | Area            | Position and link to Job Description                                       |
-| --------------------| ----------------| ---------------------------------------------------------------------------|    
-|Remote/Berlin        | Finance Manager | [Finance Manager](https://github.com/rows/hiring/blob/master/job%20descriptions/Finance%20Manager_Berlin.md) |
+No open positions at the moment.
 
 ### Spontaneous applications:
 
