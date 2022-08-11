@@ -8,7 +8,7 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 
 | Location     | Area    | Postion and link to Job Description                                              |
 |--------------|---------|----------------------------------------------------------------------------------|
-|Remote/Any    |Design   | [Product Designer (Senior)](/job%20descriptions/Product%20Designer%20(Senior).md)|
+|Remote/any    |Design   | [Product Designer (Senior)](/job%20descriptions/Product%20Designer%20(Senior).md)|
 
 ### Spontaneous applications:
 
