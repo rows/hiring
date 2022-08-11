@@ -48,10 +48,9 @@ We're looking for people who improve our team! Our ideal buddy is:
 Also, if we call your mom she will say you're a pretty nice person ;)
 
 # Nice to have
-* Motion design skills
-* SVG animation skills
-* Experience with user research.
-* Experience with no-code tool
+* Previous experience in software products, including B2C and B2B ambients. Well, no-code tools too! 
+* Advanced experience in conducting User Research with real users.
+* Motion design and SVG animation skills.
 
 # What’s in it for you?
 * Expected Annual Gross Salary Range: 47.500-58.800€ for all locations in Europe.
