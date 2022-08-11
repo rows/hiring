@@ -6,7 +6,9 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 
 ### Open positions:
 
-No open positions at the moment.
+| Location     | Area    | Postion and link to Job Description                                              |
+|--------------|---------|----------------------------------------------------------------------------------|
+|Remote/Any    |Design   | [Product Designer (Senior)](/job%20descriptions/Product%20Designer%20(Senior).md)|
 
 ### Spontaneous applications:
 
@@ -15,11 +17,10 @@ Generally, you can choose if you want to work remotely (within our list of [coun
 
 Recurrent vacancies:
 
-| Location            | Area         | Position and link to Job Description                                    |
+| Location            | Area         | Roles                                                                   |
 | --------------------| ------------ | ----------------------------------------------------------------------- |    
 | Remote/any          | Engineering  | [FE engineer (senior)](/job%20descriptions/FE%20engineer%20(senior).md) |
 | Remote/any          | Engineering  | [BE engineer (senior)](/job%20descriptions/BE%20engineer%20(senior).md) |
-| Remote/any          | Design       | [Product Designer (Senior)](https://github.com/rows/hiring/blob/master/job%20descriptions/Product%20Designer%20(Senior).md)   |
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
