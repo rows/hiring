@@ -48,7 +48,10 @@ We're looking for people who improve our team! Our ideal buddy is:
 Also, if we call your mom she will say you're a pretty nice person ;)
 
 # Nice to have
-* Motion design skills, svg animation skills.
+* Motion design skills
+* SVG animation skills
+* Experience with user research.
+* Experience with no-code tool
 
 # What’s in it for you?
 * Expected Annual Gross Salary Range: 47.500-58.800€ for all locations in Europe.
