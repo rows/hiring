@@ -8,8 +8,7 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 
 | Location     | Area       | Postion and link to Job Description                                              |
 |--------------|------------|----------------------------------------------------------------------------------|
-|Remote/any    |Engineering | [BE engineer (senior)](/job%20descriptions/BE%20engineer%20(senior).md) |
-|Remote/any    |Engineering | [FE engineer (senior)](/job%20descriptions/FE%20engineer%20(senior).md) |
+|Remote/any    |Engineering | [FE engineer (senior)](/job%20descriptions/FE%20engineer%20(senior).md)          |
 
 
 ### Spontaneous applications:
@@ -22,6 +21,7 @@ Recurrent vacancies:
 | Location            | Area         | Roles                                                                   |
 | --------------------| ------------ | ----------------------------------------------------------------------- |    
 | Remote/any          |Design        | [Product Designer (Senior)](/job%20descriptions/Product%20Designer%20(Senior).md)|
+| Remote/any          |Engineering   | [BE engineer (senior)](/job%20descriptions/BE%20engineer%20(senior).md) |
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
