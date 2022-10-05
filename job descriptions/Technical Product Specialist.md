@@ -4,12 +4,12 @@ Coding used to be hard. Rows changes that. We want you to create interactive web
 
 [Rows](https://rows.com/) is a well-funded startup with top investors like Accel, Lakestar and Cherry Ventures. We have offices in Berlin and Porto. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/rowshq), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/).
 
-We are hiring a Technical Product Specialist for our office in Berlin, Germany, to build both amazing spreadsheets and a thriving user community.
+We are hiring a Technical Product Specialist remotely or for our offices in Berlin, Germany, or Porto, Portugal, to build both amazing spreadsheets and a thriving user community. Your mission is to empower our users with their spreadsheets and to be their voice internally.
 
 ## Your responsibilities
-- Help users and customers to build effective spreadsheets and solutions to their automation problems.
-- Support Marketing and Sales team members with their technical product questions to market, sell to, onboard new users and customers more effectively.
-- Grow Rows by finding people with challenges and then helping them achieve more.
+* Support users and the wider community in building their spreadsheets and automation solutions. Avenues are chat, email, forum, Discord, direct onboarding and app building calls with users. This can also include engagement of the spreadsheet community by publishing great spreadsheets, running webinars, engaging with it on social media.
+* Partner with our growth team to design the best possible onboarding and learning experience incl. the onboarding flow, tutorials, docs and video content.
+* Partner with our product and engineering teams to build the best product by communicating and prioritizing use cases, feature requests, bugs and other user stories.
 - Establish yourself as a no-code leader with your own identity (no managing corporate accounts here!). 
 - Be a vocal evangelist for Rows and the no-code movement online and offline. Build and nurture strong relationships with our community of users and influencers.
 
@@ -27,9 +27,8 @@ We are hiring a Technical Product Specialist for our office in Berlin, Germany, 
 - You love getting involved online - ideally already have a relevant following in the areas of no-code, spreadsheets and/ or software tools.
 - You are an able communicator in English. 
 
-
 ## Compensation and Perks
-- Expected Annual Gross Salary: EUR 46.000-70.000€, depending on what you can offer us.
+- Expected Annual Gross Salary: EUR 46.000-75.000€, depending on what you can offer us.
 - Employee equity plan.
 - Liberal work-from-home policy.
 - Unlimited vacation policy.
