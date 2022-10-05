@@ -2,13 +2,13 @@
 At Rows we create tools that make computation accessible to everyone.
 Coding used to be hard. Rows changes that. We want you to create interactive web apps using the spreadsheet skills that you already have. Imagine a grid where each cell can exchange data with other online services or repeat a job. This is what we’re building.
 
-[Rows](https://rows.com/) is a well-funded startup with top investors like Accel, Lakestar and Cherry Ventures. We have offices in Berlin and Porto. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/rowshq), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/).
+[Rows](https://rows.com/) is a well-funded startup with top investors like Accel, Lakestar and Cherry Ventures. We are a remote company with offices in Berlin and Porto. Check us e.g. on [Crunchbase](https://www.crunchbase.com/organization/rowshq), [Techcrunch](https://techcrunch.com/2018/05/16/dashdash-a-platform-to-create-web-apps-using-only-spreadsheet-skills-nabs-8m-led-by-accel/), [Venturebeat](https://venturebeat.com/2018/05/16/accel-leads-8-million-investment-in-dashdash-to-create-web-apps-from-spreadsheets/).
 
-We are hiring a Technical Product Specialist remotely or for our offices in Berlin, Germany, or Porto, Portugal, to build both amazing spreadsheets and a thriving user community. Your mission is to empower our users with their spreadsheets and to be their voice internally.
+We are hiring a Technical Product Specialist remotely or for our offices in Berlin, Germany, or Porto, Portugal, to build both amazing spreadsheets and a thriving user community. You own the entire user-facing work outside of marketing. Your mission is to empower our users with their spreadsheets and to be their voice internally.
 
 ## Your responsibilities
 * Support users and the wider community in building their spreadsheets and automation solutions. Avenues are chat, email, forum, Discord, direct onboarding and app building calls with users. This can also include engagement of the spreadsheet community by publishing great spreadsheets, running webinars, engaging with it on social media.
-* Partner with our growth team to design the best possible onboarding and learning experience incl. the onboarding flow, tutorials, docs and video content.
+* Partner with our growth team to design the best possible onboarding and learning experience incl. the onboarding flow, tutorials, docs, video content, and webinars.
 * Partner with our product and engineering teams to build the best product by communicating and prioritizing use cases, feature requests, bugs and other user stories.
 - Establish yourself as a no-code leader with your own identity (no managing corporate accounts here!). 
 - Be a vocal evangelist for Rows and the no-code movement online and offline. Build and nurture strong relationships with our community of users and influencers.
