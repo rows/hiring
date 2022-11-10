@@ -22,7 +22,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Proficient in ECMAScript 2017.
 * Proficient in HTML5 & CSS3.
 * Proficient in SPAs (single-page apps).
-* Proficient in front-end frameworks like React or Angular (we use React).
+* Proficient in front-end in React (we use React).
 * Proficient in testing (unit tests, end-to-end tests).
 * Able communicator in English. Speaking Portuguese is optional but welcome.
 
