@@ -36,9 +36,10 @@ We're looking for people who improve our team! Our ideal buddy is:
 * GraphQL (with Apollo client). Strong plus.
 * WebSockets (GraphQL over websockets).
 * GitHub (Open source and internal repos).
+* Performance-oriented mission (experience working with performance improvements).
 
 # What's in it for you?
-* Expected Annual Gross Salary Range: 52.400-64.800€ for all locations in Europe.
+* Expected Annual Gross Salary Range: 58.300-72.100€ despite the location.
 * Employee equity plan.
 * We're Hybrid - choose to work from our offices in Porto/Berlin or work full-remote ([23 countries](https://github.com/rows/hiring/blob/master/FAQs.md)).
 * Choice to work 4/days week with pro-rated compensation.
