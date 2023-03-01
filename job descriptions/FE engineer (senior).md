@@ -5,10 +5,10 @@ We have also been on the news. You can find us on [TechCrunch](https://tcrn.ch/3
 
 # Your responsibilities
 Your role is to team up with our engineers and build our single-page app. You will be working on:
-* an account dashboard where users manage apps and settings.
-* the editor where users manipulate a list of programmable cells that can do computing, including services and automation.
-* performance and reliability of our web app.
-* additional pages and features where we help users learn and extract the maximum value out of our core functionality and available integrations.
+* An account dashboard where users manage apps and settings.
+* The editor where users manipulate a list of programmable cells that can do computing, including services and automation.
+* Performance and reliability of our web app.
+* Additional pages and features where we help users learn and extract the maximum value out of our core functionality and available integrations.
 
 # About you
 We're looking for people who improve our team! Our ideal buddy is:
@@ -39,7 +39,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Performance-oriented mission (experience working with performance improvements).
 
 # What's in it for you?
-* Expected Annual Gross Salary Range: 58.300€-72.100€ despite the location.
+* Expected Annual Gross Salary Range: 58.300-72.100€ despite the location.
 * Employee equity plan.
 * We're Hybrid - choose to work from our offices in Porto/Berlin or work full-remote ([23 countries](https://github.com/rows/hiring/blob/master/FAQs.md)).
 * Choice to work 4/days week with pro-rated compensation.
