@@ -16,7 +16,7 @@ If you excel in this role, you'll get huge opportunities at Rows. Or you'll be p
 ## Your responsibilities
 
 * Sell Rows directly to prospective and active users in target companies by building relationships, finding out what users and their companies need, and being helpful to make them succeed.
-* Immerse yourself in relevant communities and at relevant events to expand your network among Rows' B2B target audience. Currently, our focus is on marketing reporting.
+* Immerse yourself in relevant communities and at relevant events to expand your network among Rows' B2B target audience. Currently, our focus is on  reporting for marketing, operations, product, finance.
 * Put users' needs first and empathize with every aspect of the user experience.
 * Identify opportunities for growth and usage expansion in our existing user base.
 * Work with existing users to expand to other users and functions within the company, understand who else will benefit from Rows and how to get to them.
@@ -46,7 +46,7 @@ We're looking for people who improve our team! Our ideal buddy aligns with our v
 
 ## Compensation and Perks
 
-* Expected Annual Gross Salary: 45.000-65.000€
+* Expected Annual Gross Salary: 50.000-70.000€
 * Employee equity plan.
 * [Pavilion](https://www.joinpavilion.com/) membership (sales community) for your professional development.
 * We're preferably hiring Berlin based talent for this role, but also open to full-remote ([23 countries](https://github.com/rows/hiring/blob/master/FAQs.md)).
