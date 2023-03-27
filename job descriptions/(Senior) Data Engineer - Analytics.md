@@ -38,14 +38,14 @@ You are autonomous. You are expected to create your own workplace and deliverabl
 * Experienced in our data stack (Google Bigquery, Stitch, DBT, Segment) 
 * Proficient in written and Visual communication.
 
-# Compensation and Perks
-* Expected Annual Gross Salary Range (Porto-based, Portugal): 44.900-57.000€.
-* Expected Annual Gross Salary Range (Berlin-based, Germany): 58.200-74.000€.
+# What's in it for you?
+* Expected Annual Gross Salary Range: 45.000-65.000€, depending on your seniority.
 * Employee equity plan.
-* Health Insurance for you and your family.
-* Plenty of coffee and frequent ice-cream when at the office.
-* Liberal work-from-home policy.
-* Unlimited vacation policy.
+* We're Hybrid - choose to work from our offices in Porto/Berlin or work full-remote ([23 countries](https://github.com/rows/hiring/blob/master/FAQs.md)).
+* Choice to work 4/days week with pro-rated compensation.
+* Unlimited unpaid vacation policy.
+* More paid vacation if you stay 3 or 5 years.
+* Be part of a great team, have autonomy to give inputs and make things happen! In short: Really impact this Product!
 
 # How-to
 Send the following information to [us](mailto:join@rows.com):
