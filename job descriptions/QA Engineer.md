@@ -50,7 +50,7 @@ Here are a few things we think are necessary for you to be successful in your jo
 
 # What’s in it for you?
 
-- Expected Annual Gross Salary Range: 30.000-37.000€ for all locations in Europe.
+- Expected Annual Gross Salary Range: 34.300-42.500€ for all locations in Europe.
 - Employee equity plan.
 - We're Hybrid - choose to work from our offices in Porto/Berlin or work full-remote ([23 countries](https://github.com/rows/hiring/blob/master/FAQs.md)).
 - Choice to work 4/days week with pro-rated compensation.
