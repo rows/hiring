@@ -31,7 +31,7 @@ We're looking for people who improve our team! Our ideal buddy is:
 * Able communicator in English. Portuguese is optional but welcome.
 
 # Nice to have
-* Experienced with Redis, Cassandra and PostgreSQL.
+* Experienced with Redis and PostgreSQL.
 * Knows Kotlin and Python.
 * Knows GraphQL.
 * Experienced with gRPC and protocol buffers.
