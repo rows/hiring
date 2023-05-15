@@ -8,7 +8,6 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 
 | Location            | Area         | Roles                                                                                                    |
 | --------------------| ------------ | -------------------------------------------------------------------------------------------------------- |
-| Remote/any          |Engineering   | [Data engineer - Analytics (senior)](/job%20descriptions/(Senior)%20Data%20Engineer%20-%20Analytics.md)  |                               |
 | Remote/any          |Engineering   | [QA engineer](/job%20descriptions/QA%20Engineer.md)                                                      |
 
 ### Spontaneous applications:
