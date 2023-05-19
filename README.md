@@ -7,8 +7,8 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 ### Open positions: 
 
 | Location            | Area         | Roles                                                                                                    |
-| --------------------| ------------ | -------------------------------------------------------------------------------------------------------- |
-| Remote/any          |Engineering   | [QA engineer](/job%20descriptions/QA%20Engineer.md)                                                      |
+| --------------------| ------------ | ----------------------------------------------------------------------- |
+| Remote/any          |Engineering   | [BE engineer (senior)](/job%20descriptions/BE%20engineer%20(senior).md) |
 
 ### Spontaneous applications:
 
