@@ -6,10 +6,8 @@ Rows raised a $16m series B round led by Lakestar (with past investors Accel Par
 
 ### Open positions: 
 
-| Location            | Area         | Roles                                                                   |
-| --------------------| ------------ | ----------------------------------------------------------------------- |    
-| Remote/any          |Engineering   | [FE engineer](/job%20descriptions/FE%20engineer.md)          |
-| Remote/any          |Engineering   | [FE engineer (senior)](/job%20descriptions/FE%20engineer%20(senior).md) |
+It's a full house of talent here, and all the positions have been snatched up! But hey, don't panic! You can still throw in a spontaneous application. Take a peek at the nitty-gritty below and let the fun begin!
+
 
 ### Spontaneous applications:
 
