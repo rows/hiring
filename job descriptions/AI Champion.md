@@ -6,7 +6,7 @@ Rows is the spreadsheet editor modern teams use to import, transform, and share 
 
 We are looking for a Full-Time member who can directly generate AI solutions and who will lead our AI stragy. 
 
-Rows has 3 core AI productions, and we want you to help us take this to the next level.
+Rows has 3 core features powered by AI, and we want you to help us take this to the next level.
 1. Our AI Analyst is a side-bar you can summon on any table, that answers your questions and can generate different insights for your data (including generating other tables with different cuts).
 2. Our AI functions is a collection of spreadsheets functions that tap into OpenAI (atm only gpt-4o and gpt-35-turbo) for translation, classification, and many other tasks.
 3. (Unnanounced project, but you will sh*t bricks when you see it). 
