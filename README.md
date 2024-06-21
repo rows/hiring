@@ -20,6 +20,7 @@ Recurrent vacancies:
 | --------------------| ------------ | ----------------------------------------------------------------------- |    
 | Remote/any          |Engineering   | [BE engineer (senior)](/job%20descriptions/BE%20engineer%20(senior).md) |
 | Remote/any          |Engineering   | [FE engineer (senior)](/job%20descriptions/FE%20engineer%20(senior).md) |
+| Berlin/Porto          |Growth   | [Content Specialist (Working Student)](/job%20descriptions/Content%20Specialist%20(Working%20Student).md) |
 
 ### Frequently Asked Questions
 Head over to our [FAQs](/FAQs.md).
