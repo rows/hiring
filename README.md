@@ -16,9 +16,9 @@ We're happy to meet great talent. If you don't see the vacancy you're looking fo
 
 Generally, you can choose if you want to work remotely (within our list of [countries](https://github.com/rows/hiring/blob/master/FAQs.md)) or from one of our office locations in Porto and Berlin (Location: Remote/any).
 
-Recurrent vacancies:
+Currently looking for:
 
-| Location            | Area         | Roles                                                                   |
+| Location            | Area         | Role                                                                   | 
 | --------------------| ------------ | ----------------------------------------------------------------------- |   
 | Remote/ Berlin/ Porto|AI   | [AI Champion](/job%20descriptions/AI%20Champion.md) 🆕|
 | Berlin/Porto        |Growth   | [Content Specialist (Working Student)](/job%20descriptions/Content%20Specialist%20(Working%20Student).md) 🆕|
