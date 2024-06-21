@@ -1,6 +1,6 @@
 ### At Rows we create tools that make computation accessible to everyone.
 
-Rows is the easiest way for business people to work with data.
+**Rows is the easiest way for business users to work with data.**
 
 Imagine a spreadsheet grid where each cell can also call an API or repeat a job. This is what we are building. Our product lets users create interactive spreadsheets using the spreadsheet skills they already have.
 
