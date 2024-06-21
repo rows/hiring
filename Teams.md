@@ -5,7 +5,7 @@ Teams have a mission - a driving goal that provides clarity over the long term.
 
 **We are remote-first, but we also have an office in Porto (Portugal) and Berlin (Germany).**
 
-| Team  | Focus                     | Mission                                                                | Location                     | Where *most* of the team is | 
+| Team  | Focus                     | Mission                                                                | Location                     | *Most* of the team is in | 
 |:------|:--------------------------|:-----------------------------------------------------------------------|:------------------------------|--------------------------|
 | C1    | Computing                 | Build the most performant and reliable computation engine for No-Code. | Remote   | Porto (Portugal) | 
 | P1    | Editor & Live Spreadsheet | Make Rows THE spreadsheet you will enjoy creating and sharing.         | Remote   | Porto (Portugal) | 
