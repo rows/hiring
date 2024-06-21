@@ -18,14 +18,14 @@ You will support the execution of our growth strategy. Your primary focus will b
 - Supporting content creation and marketing initiatives to promote other use cases of Rows within our prime target, driving traffic and engagement.
 - Contributing to brainstorming sessions and growth strategy meetings with innovative ideas and insights.
 
-## About you**
+## About you
 
 - Advanced English proficiency.
 - You're currently studying in a field related to Marketing or Business.
 - Strong analytical skills and the ability to work with data to derive actionable insights.
 - Familiarity with AI prompting.
 
-## What’s in it for you**
+## What’s in it for you
 
 - 30-40 hours per week over a 2-month period.
 - Hands-on experience in a cutting-edge tech company with a focus on growth and user acquisition.
