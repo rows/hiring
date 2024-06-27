@@ -1,6 +1,9 @@
 ## Intro
 
-Rows is the spreadsheet editor modern teams use to import, transform, and share data. Our mission is to empower the billion people out there working on a spreadsheet every day to work with their own data, making it accessible and actionable for everyone. We build a spreadsheet editor that combines the familiarity of a spreadsheet with modern data ingestion, AI, and sharing capabilities.
+Rows is the spreadsheet editor modern teams use to import, transform, and share data. 
+
+Our mission is to empower the billion people out there working on a spreadsheet every day to work with their own data, making it accessible and actionable for everyone. 
+
 
 ## Your role
 
