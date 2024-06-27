@@ -13,8 +13,8 @@ Rows has 3 core features powered by AI, and we want you to help us take this to 
 
 As you can imagine, AI is a cornerstone of our strategy for the next 2 years, and we have strong indications that it works to add value to our users and as a value driver for the business (make money). We believe our AI features will grow in size and strongly impact how we build our product and business.
 
-We currently have a small team working on AI. You may start as a team member or as a lead in the team depending on your experience (TBD). The team currently includes 3 engineers, 1 designer and 1 PM (who doubles as an expert prompt engineer) that for the past year all have been allocated roughly 50% to our AI efforts. They implemented the FE and BE of our AI Analyst feature and our AI functions.
-
+Why is this position called AI "Champion"? Yes, we kow it's a bit odd, but to be honest, we don't know yet. This is because we already have a small team working on AI, and you may start as a team member specialized in AI or as a leader in the team, depending on your experience. The team currently includes 3 engineers, 1 designer and 1 PM (who doubles as an expert prompt engineer) that for the past year all have been allocated roughly 50% to our AI efforts. They implemented the FE and BE of our AI Analyst feature and our AI functions. In short, mostly likely your title will be something normal like AI Engineer, Data Scientist, and may grow into a Group Manager of a team.
+ 
 ## Your responsibilities
 
 You will succeed by directly executing great AI projects, and by leading our AI strategy. 
