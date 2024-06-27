@@ -18,10 +18,11 @@ Generally, you can choose if you want to work remotely (within our list of [coun
 
 Currently looking for:
 
-| Location            | Area         | Role                                                                   | 
-| --------------------| ------------ | ----------------------------------------------------------------------- |   
-| Remote/ Berlin/ Porto|AI   | [AI Champion](/job%20descriptions/AI%20Champion.md) 🆕|
-| Berlin/Porto        |Growth   | [Content Specialist (Working Student)](/job%20descriptions/Content%20Specialist%20(Working%20Student).md) 🆕|
+| Location             | Area         | Role                                                                   | 
+| -------------------- | ------------ | ---------------------------------------------------------------------- |   
+| Berlin/ Porto        | Sales        | [Founding Account Executive](/job%20descriptions/Founding%20Account%20Executive.md) 🆕 | 
+| Remote/ Berlin/ Porto| AI           | [AI Champion](/job%20descriptions/AI%20Champion.md) 🆕|
+| Berlin/Porto         | Growth       | [Content Specialist (Working Student)](/job%20descriptions/Content%20Specialist%20(Working%20Student).md) 🆕|
 
 
 ### Frequently Asked Questions
