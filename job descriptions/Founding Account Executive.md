@@ -19,7 +19,9 @@ If you love spreadsheets and selling to people while building your own process t
 ## Your responsibilities
 
 * Sell Rows directly to target users in target industries to build a new acquisition channel. You'll own a 360-degrees sales cycle - from generating leads to handoff to Customer Success at onboarding.
-  * We expect that this will involve building lists, targeting leads, converting leads into onboarding calls and demos, experimenting, and closing contracts.
+  * We expect that this will involve building lists, targeting leads, converting leads into onboarding calls and demos, and closing contracts.
+  * You will also experiment with new target industries, target ICPs and use cases for a Sales-led GTM motion.
+  * Together with the founders, you will build a sales playbook based on your learnings.
 * Work with existing users who might be targets for larger contracts.
 * Feed learnings from users and use cases back into our product roadmap.
 * Give strategic input to founders including business opportunities, market focus, pricing, product roadmap, hiring, etc.
