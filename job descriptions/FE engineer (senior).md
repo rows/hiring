@@ -37,6 +37,8 @@ We're looking for people who improve our team! Our ideal buddy is:
 * WebSockets (GraphQL over websockets).
 * GitHub (Open source and internal repos).
 * Performance-oriented mission (experience working with performance improvements).
+* Experience with backend technologies such as Kotlin/Java or NodeJS.
+* Familiarity with database technologies (PostgreSQL, for example) and their query optimization patterns.
 
 # What's in it for you?
 * Expected Annual Gross Salary Range: 58.200-72.100€ independent of the location in Europe.
