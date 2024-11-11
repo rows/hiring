@@ -12,7 +12,6 @@ Currently looking for:
 
 | Location             | Area         | Role                                                                   | 
 | -------------------- | ------------ | ---------------------------------------------------------------------- |   
-| Remote/any           | Engineering  | [FE engineer (senior)](/job%20descriptions/FE%20engineer%20(senior).md) |
 | Berlin/ Porto        | Sales        | [Founding Account Executive](/job%20descriptions/Founding%20Account%20Executive.md) | 
 
 You can still throw in a spontaneous application. Take a peek at the nitty-gritty below and let the fun begin!
