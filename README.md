@@ -12,7 +12,7 @@ Currently looking for:
 
 | Location             | Area         | Role                                                                   | 
 | -------------------- | ------------ | ---------------------------------------------------------------------- |
-| Berlin/ Porto        | Sales        | [Founding Account Executive](/job%20descriptions/Founding%20Account%20Executive.md) | 
+| Porto/ remote        | Engineering  | [Senior Frontend Engineer](https://github.com/rows/hiring/blob/master/job%20descriptions/FE%20engineer%20(senior).md) | 
 
 You can still throw in a spontaneous application. Take a peek at the nitty-gritty below and let the fun begin!
 
