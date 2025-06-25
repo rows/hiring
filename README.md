@@ -12,7 +12,7 @@ Currently looking for:
 
 | Location             | Area         | Role                                                                   | 
 | -------------------- | ------------ | ---------------------------------------------------------------------- |
-| Berlin/ Porto        | Sales        | [Founding Account Executive](/job%20descriptions/Founding%20Account%20Executive.md) | 
+| Berlin/ Porto        | -            | - | 
 
 You can still throw in a spontaneous application. Take a peek at the nitty-gritty below and let the fun begin!
 
